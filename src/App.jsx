@@ -1,11 +1,10 @@
 // src/App.jsx
+
 import React, { useState, useMemo } from 'react';
-// --- 1. IMPORTANDO A LOGO ---
-// Importamos a imagem como se fosse um componente. O Vite vai cuidar do resto.
-import logoTrinity from './assets/logot.png'; 
 import { getCopyModels, getAvailableTechniques, getAvailableNiches } from './services/copywritingService';
 import FilterButtons from './components/FilterButtons';
 import CopyItem from './components/CopyItem';
+import logoTrinity from './assets/logot.png';
 import './App.css';
 
 const allModels = getCopyModels();
@@ -17,11 +16,24 @@ function App() {
   const [selectedNiche, setSelectedNiche] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
 
+  const handleTechniqueChange = (technique) => {
+    setSelectedTechnique(technique);
+    setSelectedNiche('all');
+    setSearchTerm('');
+  };
+
   const filteredModels = useMemo(() => {
     return allModels.filter(model => {
       const techniqueMatch = model.type === selectedTechnique;
-      const nicheMatch = selectedNiche === 'all' || model.niches.includes(selectedNiche) || model.niches.includes('generic');
-      const searchMatch = searchTerm === '' || model.text.toLowerCase().includes(searchTerm.toLowerCase());
+
+      // --- A CORREÇÃO ESTÁ AQUI ---
+      // Removemos a parte '|| model.niches.includes('generic')' que causava o bug.
+      // Agora a lógica é simples e correta: o nicho bate se for 'todos' OU
+      // se o nicho selecionado estiver na lista de nichos do modelo.
+      const nicheMatch = selectedNiche === 'all' || model.niches.includes(selectedNiche);
+
+      const searchMatch = model.text.toLowerCase().includes(searchTerm.toLowerCase());
+      
       return techniqueMatch && nicheMatch && searchMatch;
     });
   }, [selectedTechnique, selectedNiche, searchTerm]);
@@ -29,16 +41,11 @@ function App() {
   return (
     <div className="App">
       <header>
-        {/* --- 2. ADICIONANDO A IMAGEM ---
-            Colocamos a tag <img> aqui. O `src` usa a variável que importamos.
-            O `alt` é muito importante para acessibilidade. */}
         <img src={logoTrinity} alt="Logo da Trinity" className="app-logo" />
-
         <h1>Trinity <span>Ultimate Copy Engine</span></h1>
         <p>A ferramenta definitiva para encontrar a copy perfeita para qualquer nicho.</p>
       </header>
 
-      {/* O resto do seu componente continua igual... */}
       <div className="filters-container">
         <div className="search-and-niche">
           <input
@@ -48,7 +55,7 @@ function App() {
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
-          <select 
+          <select
             className="niche-select"
             value={selectedNiche}
             onChange={(e) => setSelectedNiche(e.target.value)}
@@ -65,7 +72,7 @@ function App() {
         <FilterButtons
           items={techniques}
           selectedItem={selectedTechnique}
-          onSelectItem={setSelectedTechnique}
+          onSelectItem={handleTechniqueChange}
           classNamePrefix="technique"
         />
       </div>
@@ -73,7 +80,6 @@ function App() {
       <main>
         <p className="results-header">
           Exibindo {filteredModels.length} modelos para "{selectedTechnique}"
-          {selectedNiche !== 'all' && ` no nicho de ${selectedNiche.charAt(0).toUpperCase() + selectedNiche.slice(1)}`}
         </p>
         <div className="copy-list">
           {filteredModels.length > 0 ? (
@@ -87,8 +93,7 @@ function App() {
       </main>
 
       <footer>
-        <p>&copy; 2025 Trinity. Todos os direitos reservados.</p>
-        <p>&copy; Feito por @herick_madruga. </p>
+        <p>&copy; {new Date().getFullYear()} Trinity. Todos os direitos reservados.</p>
       </footer>
     </div>
   );
