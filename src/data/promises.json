@@ -1,0 +1,9807 @@
+[
+  {
+    "id": "p0001",
+    "text": "Obtenha [resultado] em apenas [tempo], sem precisar de [objeção comum].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0002",
+    "text": "O que os [autoridades do nicho] sabem sobre [assunto] que você não sabe?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0003",
+    "text": "Mais de [número] clientes já [conquista] com a nossa ajuda. Você pode ser o próximo.",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0004",
+    "text": "Transforme seu [problema] em [solução] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0005",
+    "text": "As vagas para [evento] estão acabando. Garanta a sua antes que seja tarde.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0006",
+    "text": "Você terá um [resultado] que parecia impossível, e nós vamos provar como.",
+    "niches": [
+      "generic",
+      "direct",
+      "proof",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0007",
+    "text": "Como eu [conquista] em [tempo] e como você pode replicar o meu sucesso.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0008",
+    "text": "Não é mágica. É a [estratégia] que [autoridade] usam para [conquista].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0009",
+    "text": "A melhor forma de [ação] que [público] ainda não descobriu. Descubra agora.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "education"
+    ]
+  },
+  {
+    "id": "p0010",
+    "text": "Obtenha [resultado] e economize [recurso] com nossa [solução].",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "home"
+    ]
+  },
+  {
+    "id": "p0011",
+    "text": "Você está a apenas [número] de cliques de [conquista].",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0012",
+    "text": "Você tem um [problema]? Nossa solução é a resposta que você buscava.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0013",
+    "text": "Chega de [frustração]. Nossa [promessa] é [resultado] garantido.",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "service-based"
+    ]
+  },
+  {
+    "id": "p0014",
+    "text": "O que você faria se [situação hipotética]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0015",
+    "text": "Não espere. Nossa oferta acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "retail"
+    ]
+  },
+  {
+    "id": "p0016",
+    "text": "Aprenda a [habilidade] e transforme sua [vida/carreira].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0017",
+    "text": "O [método] que me fez [conquista] é o mesmo que eu vou te ensinar.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0018",
+    "text": "O que está te impedindo de [conquista]? A resposta está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0019",
+    "text": "Você terá [resultado] sem ter que [objeção]. Nós garantimos.",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "guarantee"
+    ]
+  },
+  {
+    "id": "p0020",
+    "text": "A única forma de [ação] que você vai precisar. Confie em nós.",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0021",
+    "text": "Descubra o motivo pelo qual [público] está [ação] com nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "proof",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0022",
+    "text": "Nossa [solução] é a mais [adjetivo] do mercado para [problema].",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "health"
+    ]
+  },
+  {
+    "id": "p0023",
+    "text": "Você quer [resultado]? Então você precisa disso. Sem enrolação.",
+    "niches": [
+      "generic",
+      "direct",
+      "business"
+    ]
+  },
+  {
+    "id": "p0024",
+    "text": "Nós te damos a [ferramenta] para [conquista]. O resto é com você.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0025",
+    "text": "Como um [pessoa comum] alcançou [conquista] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0026",
+    "text": "Esta é a sua última chance de [ação].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0027",
+    "text": "Chega de [método ineficaz]. O [guia] definitivo para [ação] chegou.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0028",
+    "text": "Prometemos que você vai [conquista] ou seu dinheiro de volta. É simples assim.",
+    "niches": [
+      "generic",
+      "proof",
+      "guarantee",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0029",
+    "text": "Por que [número] de pessoas [ação negativa] com [produto/serviço]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0030",
+    "text": "Eu era cético, mas depois de [tempo] eu [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0031",
+    "text": "A [única coisa] que você precisa para sair de [situação ruim].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0032",
+    "text": "Você está a um passo de [resultado]. Não pare agora.",
+    "niches": [
+      "generic",
+      "urgency",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0033",
+    "text": "O segredo por trás do [sucesso de concorrente].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0034",
+    "text": "Nossa [solução] foi desenvolvida por [autoridade].",
+    "niches": [
+      "generic",
+      "authority",
+      "technology",
+      "science"
+    ]
+  },
+  {
+    "id": "p0035",
+    "text": "Como eu [ação] sem ter [recurso] e consegui [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0036",
+    "text": "Chega de adivinhar. O caminho para [conquista] é este.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "education"
+    ]
+  },
+  {
+    "id": "p0037",
+    "text": "Você terá acesso imediato a [recurso] com nossa [solução].",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0038",
+    "text": "Não perca a sua chance de [benefício].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "p0039",
+    "text": "O que você não sabe sobre [assunto] pode estar te custando [recurso].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0040",
+    "text": "A melhor [ferramenta] para [ação] que o dinheiro pode comprar.",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0041",
+    "text": "Não acredite em mim, acredite nos nossos [clientes].",
+    "niches": [
+      "generic",
+      "proof",
+      "service-based"
+    ]
+  },
+  {
+    "id": "p0042",
+    "text": "A nossa [solução] é a única que te dá [benefício] sem [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0043",
+    "text": "O que aconteceria se você [ação] por [tempo]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0044",
+    "text": "O que me fez [conquista] em [tempo] e como você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0045",
+    "text": "A verdade que a [mídia] não quer que você saiba sobre [assunto].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0046",
+    "text": "A única forma de [ação] que funciona. Ponto final.",
+    "niches": [
+      "generic",
+      "direct",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0047",
+    "text": "Você ainda [problema]? Pare agora e veja isto.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0048",
+    "text": "O que você precisa para [conquista] está neste e-mail.",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "p0049",
+    "text": "Nossa [solução] é a mais [adjetivo] do mercado para [público].",
+    "niches": [
+      "generic",
+      "authority",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0050",
+    "text": "Chega de desperdiçar [recurso]. Comece a [ação positiva] hoje.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0051",
+    "text": "Você pode [conquista] sem ter que [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0052",
+    "text": "Você já imaginou uma vida onde [situação ideal]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0053",
+    "text": "Isso vai mudar a forma como você [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0054",
+    "text": "A última chance de [ação] com o nosso [desconto].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0055",
+    "text": "A prova social que você precisava para [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "community"
+    ]
+  },
+  {
+    "id": "p0056",
+    "text": "A [estratégia] que me fez [conquista] está neste [curso].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "p0057",
+    "text": "O que você não pode ignorar se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "career"
+    ]
+  },
+  {
+    "id": "p0058",
+    "text": "Você terá a [ferramenta] que os [autoridade] usam para [conquista].",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0059",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0060",
+    "text": "O que fazer quando [problema] acontece? Nós temos a resposta.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "legal"
+    ]
+  },
+  {
+    "id": "p0061",
+    "text": "Nós te damos a [solução], você colhe os [resultados].",
+    "niches": [
+      "generic",
+      "direct",
+      "business",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0062",
+    "text": "Sua [oportunidade] está prestes a desaparecer. Aproveite agora.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0063",
+    "text": "Como [público] está [ação] em [tempo] e como você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0064",
+    "text": "Não acredite no que dizem sobre [assunto]. A verdade está aqui.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "health"
+    ]
+  },
+  {
+    "id": "p0065",
+    "text": "O que me levou de [situação ruim] para [situação boa].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "personal-development"
+    ]
+  },
+  {
+    "id": "p0066",
+    "text": "Você terá um [resultado] sem ter que se preocupar com [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0067",
+    "text": "A melhor [ferramenta] para [ação] que você já viu. É garantido.",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0068",
+    "text": "Você está a um passo de [conquista]. Este vídeo mostra o caminho.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0069",
+    "text": "O que os [autoridades] fazem para [ação] que você não faz?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0070",
+    "text": "Uma oferta que você não pode recusar.",
+    "niches": [
+      "generic",
+      "urgency",
+      "excitement",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0071",
+    "text": "Como um [pessoa comum] se tornou [autoridade] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0072",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0073",
+    "text": "Chega de [frustração]. Nossa [solução] é a resposta.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0074",
+    "text": "O que a [mídia] não te conta sobre [assunto].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0075",
+    "text": "Você terá [resultado] garantido, ou seu dinheiro de volta.",
+    "niches": [
+      "generic",
+      "proof",
+      "guarantee",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0076",
+    "text": "A melhor forma de [ação] para [público] que você vai ver.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "p0077",
+    "text": "Sua chance de [conquista] está acabando. Agarre-a agora.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0078",
+    "text": "A [única ferramenta] para [resultado] que [público] precisa.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0079",
+    "text": "Não perca seu tempo e dinheiro. Use nosso [método].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "business"
+    ]
+  },
+  {
+    "id": "p0080",
+    "text": "Como eu [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "p0081",
+    "text": "O que [Empresa Famosa] tem a dizer sobre nossa [solução].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0082",
+    "text": "Uma história de [superação] que vai te motivar a [ação].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0083",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0084",
+    "text": "A prova que você precisava para [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0085",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0086",
+    "text": "A maneira mais inteligente de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0087",
+    "text": "O que está por trás do [mito] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "news"
+    ]
+  },
+  {
+    "id": "p0088",
+    "text": "Não perca essa [oportunidade], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0089",
+    "text": "Você terá um [resultado] sem ter que [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0090",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0091",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "direct",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0092",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0093",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0094",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0095",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0096",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0097",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0098",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0099",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0100",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0101",
+    "text": "Obtenha [resultado] em apenas [tempo], sem precisar de [objeção comum].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0102",
+    "text": "O que os [autoridades do nicho] sabem sobre [assunto] que você não sabe?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0103",
+    "text": "Mais de [número] clientes já [conquista] com a nossa ajuda. Você pode ser o próximo.",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0104",
+    "text": "Transforme seu [problema] em [solução] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0105",
+    "text": "As vagas para [evento] estão acabando. Garanta a sua antes que seja tarde.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0106",
+    "text": "Você terá um [resultado] que parecia impossível, e nós vamos provar como.",
+    "niches": [
+      "generic",
+      "direct",
+      "proof",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0107",
+    "text": "Como eu [conquista] em [tempo] e como você pode replicar o meu sucesso.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0108",
+    "text": "Não é mágica. É a [estratégia] que [autoridade] usam para [conquista].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0109",
+    "text": "A melhor forma de [ação] que [público] ainda não descobriu. Descubra agora.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "education"
+    ]
+  },
+  {
+    "id": "p0110",
+    "text": "Obtenha [resultado] e economize [recurso] com nossa [solução].",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "home"
+    ]
+  },
+  {
+    "id": "p0111",
+    "text": "Você está a apenas [número] de cliques de [conquista].",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0112",
+    "text": "Você tem um [problema]? Nossa solução é a resposta que você buscava.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0113",
+    "text": "Chega de [frustração]. Nossa [promessa] é [resultado] garantido.",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "service-based"
+    ]
+  },
+  {
+    "id": "p0114",
+    "text": "O que você faria se [situação hipotética]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0115",
+    "text": "Não espere. Nossa oferta acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "retail"
+    ]
+  },
+  {
+    "id": "p0116",
+    "text": "Aprenda a [habilidade] e transforme sua [vida/carreira].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0117",
+    "text": "O [método] que me fez [conquista] é o mesmo que eu vou te ensinar.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0118",
+    "text": "O que está te impedindo de [conquista]? A resposta está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0119",
+    "text": "Você terá [resultado] sem ter que [objeção]. Nós garantimos.",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "guarantee"
+    ]
+  },
+  {
+    "id": "p0120",
+    "text": "A única forma de [ação] que você vai precisar. Confie em nós.",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0121",
+    "text": "Descubra o motivo pelo qual [público] está [ação] com nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "proof",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0122",
+    "text": "Nossa [solução] é a mais [adjetivo] do mercado para [problema].",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "health"
+    ]
+  },
+  {
+    "id": "p0123",
+    "text": "Você quer [resultado]? Então você precisa disso. Sem enrolação.",
+    "niches": [
+      "generic",
+      "direct",
+      "business"
+    ]
+  },
+  {
+    "id": "p0124",
+    "text": "Nós te damos a [ferramenta] para [conquista]. O resto é com você.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0125",
+    "text": "Como um [pessoa comum] alcançou [conquista] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0126",
+    "text": "Esta é a sua última chance de [ação].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0127",
+    "text": "Chega de [método ineficaz]. O [guia] definitivo para [ação] chegou.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0128",
+    "text": "Prometemos que você vai [conquista] ou seu dinheiro de volta. É simples assim.",
+    "niches": [
+      "generic",
+      "proof",
+      "guarantee",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0129",
+    "text": "Por que [número] de pessoas [ação negativa] com [produto/serviço]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0130",
+    "text": "Eu era cético, mas depois de [tempo] eu [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0131",
+    "text": "A [única coisa] que você precisa para sair de [situação ruim].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0132",
+    "text": "Você está a um passo de [resultado]. Não pare agora.",
+    "niches": [
+      "generic",
+      "urgency",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0133",
+    "text": "O segredo por trás do [sucesso de concorrente].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0134",
+    "text": "Nossa [solução] foi desenvolvida por [autoridade].",
+    "niches": [
+      "generic",
+      "authority",
+      "technology",
+      "science"
+    ]
+  },
+  {
+    "id": "p0135",
+    "text": "Como eu [ação] sem ter [recurso] e consegui [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0136",
+    "text": "Chega de adivinhar. O caminho para [conquista] é este.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "education"
+    ]
+  },
+  {
+    "id": "p0137",
+    "text": "Você terá acesso imediato a [recurso] com nossa [solução].",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0138",
+    "text": "Não perca a sua chance de [benefício].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "p0139",
+    "text": "O que você não sabe sobre [assunto] pode estar te custando [recurso].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0140",
+    "text": "A melhor [ferramenta] para [ação] que o dinheiro pode comprar.",
+    "niches": [
+      "generic",
+      "authority",
+      "direct",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0141",
+    "text": "Não acredite em mim, acredite nos nossos [clientes].",
+    "niches": [
+      "generic",
+      "proof",
+      "service-based"
+    ]
+  },
+  {
+    "id": "p0142",
+    "text": "A nossa [solução] é a única que te dá [benefício] sem [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0143",
+    "text": "O que aconteceria se você [ação] por [tempo]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0144",
+    "text": "O que me fez [conquista] em [tempo] e como você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0145",
+    "text": "A verdade que a [mídia] não quer que você saiba sobre [assunto].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0146",
+    "text": "A única forma de [ação] que funciona. Ponto final.",
+    "niches": [
+      "generic",
+      "direct",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0147",
+    "text": "Você ainda [problema]? Pare agora e veja isto.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0148",
+    "text": "O que você precisa para [conquista] está neste e-mail.",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "p0149",
+    "text": "Nossa [solução] é a mais [adjetivo] do mercado para [público].",
+    "niches": [
+      "generic",
+      "authority",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0150",
+    "text": "Chega de desperdiçar [recurso]. Comece a [ação positiva] hoje.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0151",
+    "text": "Você pode [conquista] sem ter que [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0152",
+    "text": "Você já imaginou uma vida onde [situação ideal]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0153",
+    "text": "Isso vai mudar a forma como você [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0154",
+    "text": "A última chance de [ação] com o nosso [desconto].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0155",
+    "text": "A prova social que você precisava para [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "community"
+    ]
+  },
+  {
+    "id": "p0156",
+    "text": "A [estratégia] que me fez [conquista] está neste [curso].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "p0157",
+    "text": "O que você não pode ignorar se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "career"
+    ]
+  },
+  {
+    "id": "p0158",
+    "text": "Você terá a [ferramenta] que os [autoridade] usam para [conquista].",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0159",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0160",
+    "text": "O que fazer quando [problema] acontece? Nós temos a resposta.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "legal"
+    ]
+  },
+  {
+    "id": "p0161",
+    "text": "Nós te damos a [solução], você colhe os [resultados].",
+    "niches": [
+      "generic",
+      "direct",
+      "business",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0162",
+    "text": "Sua [oportunidade] está prestes a desaparecer. Aproveite agora.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0163",
+    "text": "Como [público] está [ação] em [tempo] e como você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0164",
+    "text": "Não acredite no que dizem sobre [assunto]. A verdade está aqui.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "health"
+    ]
+  },
+  {
+    "id": "p0165",
+    "text": "O que me levou de [situação ruim] para [situação boa].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "personal-development"
+    ]
+  },
+  {
+    "id": "p0166",
+    "text": "Você terá um [resultado] sem ter que se preocupar com [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0167",
+    "text": "A melhor [ferramenta] para [ação] que você já viu. É garantido.",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0168",
+    "text": "Você está a um passo de [conquista]. Este vídeo mostra o caminho.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0169",
+    "text": "O que os [autoridades] fazem para [ação] que você não faz?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0170",
+    "text": "Uma oferta que você não pode recusar.",
+    "niches": [
+      "generic",
+      "urgency",
+      "excitement",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0171",
+    "text": "Como um [pessoa comum] se tornou [autoridade] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0172",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0173",
+    "text": "Chega de [frustração]. Nossa [solução] é a resposta.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0174",
+    "text": "O que a [mídia] não te conta sobre [assunto].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0175",
+    "text": "Você terá [resultado] garantido, ou seu dinheiro de volta.",
+    "niches": [
+      "generic",
+      "proof",
+      "guarantee",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0176",
+    "text": "A melhor forma de [ação] para [público] que você vai ver.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "p0177",
+    "text": "Sua chance de [conquista] está acabando. Agarre-a agora.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0178",
+    "text": "A [única ferramenta] para [resultado] que [público] precisa.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0179",
+    "text": "Não perca seu tempo e dinheiro. Use nosso [método].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "business"
+    ]
+  },
+  {
+    "id": "p0180",
+    "text": "Como eu [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "p0181",
+    "text": "O que [Empresa Famosa] tem a dizer sobre nossa [solução].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0182",
+    "text": "Uma história de [superação] que vai te motivar a [ação].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0183",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0184",
+    "text": "A prova que você precisava para [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0185",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0186",
+    "text": "A maneira mais inteligente de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0187",
+    "text": "O que está por trás do [mito] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "news"
+    ]
+  },
+  {
+    "id": "p0188",
+    "text": "Não perca essa [oportunidade], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0189",
+    "text": "Você terá um [resultado] sem ter que [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0190",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0191",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "direct",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0192",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0193",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0194",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0195",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0196",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0197",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0198",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0199",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0200",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0201",
+    "text": "Você terá um [resultado] sem ter que se preocupar com [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0202",
+    "text": "A melhor [ferramenta] para [ação] que você já viu. É garantido.",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0203",
+    "text": "Você está a um passo de [conquista]. Este vídeo mostra o caminho.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0204",
+    "text": "O que os [autoridades] fazem para [ação] que você não faz?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0205",
+    "text": "Uma oferta que você não pode recusar.",
+    "niches": [
+      "generic",
+      "urgency",
+      "excitement",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0206",
+    "text": "Como um [pessoa comum] se tornou [autoridade] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0207",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0208",
+    "text": "Chega de [frustração]. Nossa [solução] é a resposta.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0209",
+    "text": "O que a [mídia] não te conta sobre [assunto].",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0210",
+    "text": "Você terá [resultado] garantido, ou seu dinheiro de volta.",
+    "niches": [
+      "generic",
+      "proof",
+      "guarantee",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0211",
+    "text": "A melhor forma de [ação] para [público] que você vai ver.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "p0212",
+    "text": "Sua chance de [conquista] está acabando. Agarre-a agora.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0213",
+    "text": "A [única ferramenta] para [resultado] que [público] precisa.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0214",
+    "text": "Não perca seu tempo e dinheiro. Use nosso [método].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "business"
+    ]
+  },
+  {
+    "id": "p0215",
+    "text": "Como eu [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "p0216",
+    "text": "O que [Empresa Famosa] tem a dizer sobre nossa [solução].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0217",
+    "text": "Uma história de [superação] que vai te motivar a [ação].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0218",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0219",
+    "text": "A prova que você precisava para [conquista].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0220",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "direct",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0221",
+    "text": "A maneira mais inteligente de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0222",
+    "text": "O que está por trás do [mito] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "authority",
+      "news"
+    ]
+  },
+  {
+    "id": "p0223",
+    "text": "Não perca essa [oportunidade], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0224",
+    "text": "Você terá um [resultado] sem ter que [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0225",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0226",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "direct",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0227",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0228",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0229",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0230",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0231",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0232",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0233",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0234",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0235",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0236",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0237",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0238",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0239",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0240",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0241",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0242",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0243",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0244",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0245",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0246",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0247",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0248",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0249",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0250",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0251",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0252",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0253",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0254",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0255",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0256",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0257",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0258",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0259",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0260",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0261",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0262",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0263",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0264",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0265",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0266",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0267",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0268",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0269",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0270",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0271",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0272",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0273",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0274",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0275",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0276",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0277",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0278",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0279",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0280",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0281",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0282",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0283",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0284",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0285",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0286",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0287",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0288",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0289",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0290",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0291",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0292",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0293",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0294",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0295",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0296",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0297",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0298",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0299",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0300",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0301",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0302",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0303",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0304",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0305",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0306",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0307",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0308",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0309",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0310",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0311",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0312",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0313",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0314",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0315",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0316",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0317",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0318",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0319",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0320",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0321",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0322",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0323",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0324",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0325",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0326",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0327",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0328",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0329",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0330",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0331",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0332",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0333",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0334",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0335",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0336",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0337",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0338",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0339",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0340",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0341",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0342",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0343",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0344",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0345",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0346",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0347",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0348",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0349",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0350",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0351",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0352",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0353",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0354",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0355",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0356",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0357",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0358",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0359",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0360",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0361",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0362",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0363",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0364",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0365",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0366",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0367",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0368",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0369",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0370",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0371",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0372",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0373",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0374",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0375",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0376",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0377",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0378",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0379",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0380",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0381",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0382",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0383",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0384",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0385",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0386",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0387",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0388",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0389",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0390",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0391",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0392",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0393",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0394",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0395",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0396",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0397",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0398",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0399",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0400",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0401",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0402",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0403",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0404",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0405",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0406",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0407",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0408",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0409",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0410",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0411",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0412",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0413",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0414",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0415",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0416",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0417",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0418",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0419",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0420",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0421",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0422",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0423",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0424",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0425",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0426",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0427",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0428",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0429",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0430",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0431",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0432",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0433",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0434",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0435",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0436",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0437",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0438",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0439",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0440",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0441",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0442",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0443",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0444",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0445",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0446",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0447",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0448",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0449",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0450",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0451",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0452",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0453",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0454",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0455",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0456",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0457",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0458",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0459",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0460",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0461",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0462",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0463",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0464",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0465",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0466",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0467",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0468",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0469",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0470",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0471",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0472",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0473",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0474",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0475",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0476",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0477",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0478",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0479",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0480",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0481",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0482",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0483",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0484",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0485",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0486",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0487",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0488",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0489",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0490",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0491",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0492",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0493",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0494",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0495",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0496",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0497",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0498",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0499",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0500",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+
+  {
+    "id": "p0501",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0502",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0503",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0504",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0505",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0506",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0507",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0508",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0509",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0510",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0511",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0512",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0513",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0514",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0515",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0516",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0517",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0518",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0519",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0520",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0521",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0522",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0523",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0524",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0525",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0526",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0527",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0528",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0529",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0530",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0531",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0532",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0533",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0534",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0535",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0536",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0537",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0538",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0539",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0540",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0541",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0542",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0543",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0544",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0545",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0546",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0547",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0548",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0549",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0550",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0551",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0552",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0553",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0554",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0555",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0556",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0557",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0558",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0559",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0560",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0561",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0562",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0563",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0564",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0565",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0566",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0567",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0568",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0569",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0570",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0571",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0572",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0573",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0574",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0575",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0576",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0577",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0578",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0579",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0580",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0581",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0582",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0583",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0584",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0585",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0586",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0587",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0588",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0589",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0590",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0591",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0592",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0593",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0594",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0595",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0596",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0597",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0598",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0599",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0600",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0601",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0602",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0603",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0604",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0605",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0606",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0607",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0608",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0609",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0610",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0611",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0612",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0613",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0614",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0615",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0616",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0617",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0618",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0619",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0620",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0621",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0622",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0623",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0624",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0625",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0626",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0627",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0628",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0629",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0630",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0631",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0632",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0633",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0634",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0635",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0636",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0637",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0638",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0639",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0640",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0641",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0642",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0643",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0644",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0645",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0646",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0647",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0648",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0649",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0650",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0651",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0652",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0653",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0654",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0655",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0656",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0657",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0658",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0659",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0660",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0661",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0662",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0663",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0664",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0665",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0666",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0667",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0668",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0669",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0670",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0671",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0672",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0673",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0674",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0675",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0676",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0677",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0678",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0679",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0680",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0681",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0682",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0683",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0684",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0685",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0686",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0687",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0688",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0689",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0690",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0691",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0692",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0693",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0694",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0695",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0696",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0697",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0698",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0699",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0700",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0701",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0702",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0703",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0704",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0705",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0706",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0707",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0708",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0709",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0710",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0711",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0712",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0713",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0714",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0715",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0716",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0717",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0718",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0719",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0720",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0721",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0722",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0723",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0724",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0725",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0726",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0727",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0728",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0729",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0730",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0731",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0732",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0733",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0734",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0735",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0736",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0737",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0738",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0739",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0740",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0741",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0742",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0743",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0744",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0745",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0746",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0747",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0748",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0749",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0750",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0751",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0752",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0753",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0754",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0755",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0756",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0757",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0758",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0759",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0760",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0761",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0762",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0763",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0764",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0765",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0766",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0767",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0768",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0769",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0770",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0771",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0772",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0773",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0774",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0775",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0776",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0777",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0778",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0779",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0780",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0781",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0782",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0783",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0784",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0785",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0786",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0787",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0788",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0789",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0790",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0791",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0792",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0793",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0794",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0795",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0796",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0797",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0798",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0799",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0800",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0801",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0802",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0803",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0804",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0805",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0806",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0807",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0808",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0809",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0810",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0811",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0812",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0813",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0814",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0815",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0816",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0817",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0818",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0819",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0820",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0821",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0822",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0823",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0824",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0825",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0826",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0827",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0828",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0829",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0830",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0831",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0832",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0833",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0834",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0835",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0836",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0837",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0838",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0839",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0840",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0841",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0842",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0843",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0844",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0845",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0846",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0847",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0848",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0849",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0850",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0851",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0852",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0853",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0854",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0855",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0856",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0857",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0858",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0859",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0860",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0861",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0862",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0863",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0864",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0865",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0866",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0867",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0868",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0869",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0870",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0871",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0872",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0873",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0874",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0875",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0876",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0877",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0878",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0879",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0880",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0881",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0882",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0883",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0884",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0885",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0886",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0887",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0888",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0889",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0890",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0891",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0892",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0893",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0894",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0895",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0896",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0897",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0898",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0899",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0900",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0901",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "p0902",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0903",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0904",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0905",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0906",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "p0907",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0908",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "p0909",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "p0910",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "p0911",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0912",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0913",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "p0914",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0915",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0916",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0917",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "p0918",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0919",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "p0920",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0921",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0922",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0923",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "p0924",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "p0925",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "p0926",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "p0927",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0928",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0929",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "p0930",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0931",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0932",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "p0933",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "p0934",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "p0935",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0936",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0937",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0938",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0939",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0940",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0941",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0942",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0943",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0944",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "p0945",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "p0946",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "p0947",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0948",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0949",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0950",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "p0951",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "p0952",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0953",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0954",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0955",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0956",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "p0957",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0958",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0959",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0960",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "p0961",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p0962",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "p0963",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0964",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0965",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0966",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0967",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "p0968",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0969",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0970",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "p0971",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "p0972",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0973",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0974",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "p0975",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "p0976",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0977",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "p0978",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "p0979",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "p0980",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0981",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0982",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0983",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "p0984",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0985",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "p0986",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0987",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "p0988",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "p0989",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0990",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "p0991",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "p0992",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "p0993",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "p0994",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "p0995",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0996",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "p0997",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "p0998",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "p0999",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "p1000",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  }
+]

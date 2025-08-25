@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "h0001",
+    "text": "Como [benefício] em Apenas [tempo] sem [objeção].",
+    "niches": ["generic", "education", "saas", "health", "fitness", "finance"]
+  },
+  {
+    "id": "h0002",
+    "text": "O Método [adjetivo] que [público] Usa Para [resultado].",
+    "niches": ["generic", "saas", "ecommerce", "finance", "b2b"]
+  },
+  {
+    "id": "h0003",
+    "text": "[Número] Maneiras Comprovadas de [benefício] com [produto].",
+    "niches": ["generic", "education", "health", "ecommerce", "b2c"]
+  },
+  {
+    "id": "h0004",
+    "text": "O Segredo Para [resultado] Que [concorrente] Não Quer Que Você Saiba.",
+    "niches": ["generic", "saas", "finance", "ecommerce", "b2b"]
+  },
+  {
+    "id": "h0005",
+    "text": "Finalmente, Uma Maneira de [benefício] Sem Precisar de [esforço/objeção].",
+    "niches": ["generic", "health", "fitness", "saas", "tech"]
+  },
+  {
+    "id": "h0006",
+    "text": "O Guia Definitivo Para [resultado] Para [público].",
+    "niches": ["generic", "education", "finance", "real_estate", "travel"]
+  },
+  {
+    "id": "h0007",
+    "text": "Você Comete Estes Erros de [nicho]?",
+    "niches": ["generic"]
+  },
+  {
+    "id": "h0008",
+    "text": "A Verdade Chocante Sobre o Mercado de [comida/produto].",
+    "niches": ["food", "ecommerce", "health", "fashion"]
+  },
+  {
+    "id": "h0009",
+    "text": "Para [público] Que Quer [resultado] Mas Não Sabe Por Onde Começar.",
+    "niches": ["generic", "education", "fitness", "finance"]
+  },
+  {
+    "id": "h0010",
+    "text": "Descubra Como [pessoa de autoridade] Conseguiu [resultado] com [dieta/método].",
+    "niches": ["health", "fitness", "finance", "education"]
+  },
+  {
+    "id": "h0011",
+    "text": "A Maneira Preguiçosa de Ficar [em forma/rico/produtivo].",
+    "niches": ["fitness", "finance", "health", "education", "saas"]
+  },
+  {
+    "id": "h0012",
+    "text": "Aumente suas [vendas/reservas] em [porcentagem] com este truque simples.",
+    "niches": ["ecommerce", "saas", "travel", "food", "real_estate", "b2c"]
+  },
+  {
+    "id": "h0013",
+    "text": "Eles Riram do meu [prato/investimento], mas quando viram o resultado...",
+    "niches": ["food", "finance", "fitness", "ecommerce", "education"]
+  },
+  {
+    "id": "h0014",
+    "text": "Pare de Perder Dinheiro com [anúncios/comida industrializada/tarifas abusivas].",
+    "niches": ["finance", "ecommerce", "saas", "health", "food", "b2b"]
+  },
+  {
+    "id": "h0015",
+    "text": "O Fim dos [jantares sem graça/treinos chatos/planilhas complexas].",
+    "niches": ["food", "fitness", "saas", "finance", "b2c"]
+  },
+  {
+    "id": "h0016",
+    "text": "O Guia Completo de Harmonização de [vinhos/queijos] para Iniciantes.",
+    "niches": ["food", "travel", "education", "b2c"]
+  },
+  {
+    "id": "h0017",
+    "text": "Como Financiar Seu Primeiro [imóvel/carro] Sem Dor de Cabeça.",
+    "niches": ["finance", "real_estate", "b2c"]
+  },
+  {
+    "id": "h0018",
+    "text": "O Único [aplicativo/plano] que Você Precisa para Organizar Suas [finanças/viagens].",
+    "niches": ["saas", "finance", "travel", "tech", "b2c"]
+  },
+  {
+    "id": "h0019",
+    "text": "Ainda Cético Sobre [dieta vegana/investir em cripto]? Leia Isto.",
+    "niches": ["health", "food", "finance", "fitness"]
+  },
+  {
+    "id": "h0020",
+    "text": "O Que os Melhores [Chefs/Investidores/Corretores] de [cidade] Sabem que Você Não Sabe.",
+    "niches": ["food", "finance", "real_estate", "travel"]
+  },
+  {
+    "id": "h0021",
+    "text": "Liberte-se de [dor/problema] Para Sempre.",
+    "niches": ["health", "fitness", "finance", "generic"]
+  },
+  {
+    "id": "h0022",
+    "text": "O Erro Nº 1 que Impede [público] de Alcançar [resultado].",
+    "niches": ["generic"]
+  },
+  {
+    "id": "h0023",
+    "text": "A Ciência Por Trás de um [corpo/negócio/investimento] de Sucesso.",
+    "niches": ["fitness", "health", "saas", "b2b", "finance", "education"]
+  },
+  {
+    "id": "h0024",
+    "text": "Um Pequeno Ajuste no seu [café da manhã/orçamento] que Gera um [resultado] Gigante.",
+    "niches": ["food", "health", "fitness", "finance"]
+  },
+  {
+    "id": "h0025",
+    "text": "Por Que [produto] é a Arma Secreta de [CEOs/chefs/atletas] de Sucesso.",
+    "niches": ["saas", "b2b", "food", "fitness"]
+  },
+  {
+    "id": "h0026",
+    "text": "Como Eu [emagreci/faturei/viajei] em [tempo] e Como Você Também Pode.",
+    "niches": ["fitness", "finance", "travel", "ecommerce", "education"]
+  },
+  {
+    "id": "h0027",
+    "text": "A Fórmula Exata Para [montar um cardápio/planejar a aposentadoria] em [número] Passos Simples.",
+    "niches": ["food", "finance", "education", "fitness"]
+  },
+  {
+    "id": "h0028",
+    "text": "[Sabor/lucro/paz] Garantido ou [promessa de devolução].",
+    "niches": ["food", "ecommerce", "finance", "saas", "travel", "b2c"]
+  },
+  {
+    "id": "h0029",
+    "text": "A Única Coisa que Você Precisa Saber Para [cozinhar o bife perfeito/investir em ações].",
+    "niches": ["food", "finance", "education"]
+  },
+  {
+    "id": "h0030",
+    "text": "Para [casais/empreendedores/viajantes] Que Querem [resultado], Mas Estão com o Orçamento Apertado.",
+    "niches": ["travel", "finance", "ecommerce", "food", "real_estate"]
+  },
+  {
+    "id": "h0031",
+    "text": "[Número] Sinais de que Você Está Pronto Para [comprar um imóvel/mudar de carreira].",
+    "niches": ["real_estate", "finance", "education"]
+  },
+  {
+    "id": "h0032",
+    "text": "Como Usar [ingrediente secreto/ferramenta de IA] Para Obter [benefício] Imediato.",
+    "niches": ["food", "saas", "tech", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0033",
+    "text": "Uma Nova Abordagem Para [dor nas costas/fluxo de caixa] que Realmente Funciona.",
+    "niches": ["health", "fitness", "finance", "saas", "b2b"]
+  },
+  {
+    "id": "h0034",
+    "text": "[Número] Mitos Sobre [glúten/bolsa de valores] que Estão te Impedindo de [ter saúde/ficar rico].",
+    "niches": ["health", "food", "finance"]
+  },
+  {
+    "id": "h0035",
+    "text": "Dê-me [15 minutos] e Eu te Darei [o segredo para mais energia].",
+    "niches": ["health", "fitness", "education"]
+  },
+  {
+    "id": "h0036",
+    "text": "O Que [donos de ecommerce/corretores] de Sucesso Tem em Comum?",
+    "niches": ["ecommerce", "real_estate", "finance", "b2b"]
+  },
+  {
+    "id": "h0037",
+    "text": "Como se Tornar um [mestre do churrasco/investidor anjo] Começando do Zero.",
+    "niches": ["food", "finance", "education"]
+  },
+  {
+    "id": "h0038",
+    "text": "Esqueça Tudo o Que Você Sabe Sobre [fazer dieta/economizar dinheiro].",
+    "niches": ["health", "fitness", "finance"]
+  },
+  {
+    "id": "h0039",
+    "text": "A Estratégia de [5 minutos] Para [aliviar o estresse/planejar seu dia].",
+    "niches": ["health", "education", "b2b", "saas"]
+  },
+  {
+    "id": "h0040",
+    "text": "Por Que Quase Ninguém Consegue [manter a dieta/investir com consistência] (e como você vai conseguir).",
+    "niches": ["fitness", "health", "finance"]
+  },
+  {
+    "id": "h0041",
+    "text": "Aviso: Não Compre [nenhum imóvel/nenhum software] Antes de Ler Isto.",
+    "niches": ["real_estate", "saas", "tech", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0042",
+    "text": "Transforme seu [Instagram/orçamento] em uma Máquina de [vendas/economia].",
+    "niches": ["ecommerce", "finance", "saas", "b2c"]
+  },
+  {
+    "id": "h0043",
+    "text": "O [cardápio/template] Favorito dos Especialistas Para [emagrecer/organizar projetos].",
+    "niches": ["food", "health", "saas", "b2b", "education"]
+  },
+  {
+    "id": "h0044",
+    "text": "O Método Contra-intuitivo que Gera [mais sabor/mais lucro].",
+    "niches": ["food", "finance", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0045",
+    "text": "O que seu [nutricionista/contador] não te conta sobre [açúcar/impostos].",
+    "niches": ["health", "finance", "food"]
+  },
+  {
+    "id": "h0046",
+    "text": "[Receitas/planilhas] para Pessoas Ocupadas.",
+    "niches": ["food", "finance", "saas", "health"]
+  },
+  {
+    "id": "h0047",
+    "text": "Como Conseguir [o corpo dos sonhos/a casa própria] sem Parecer [obcecado/desesperado].",
+    "niches": ["fitness", "health", "real_estate", "finance"]
+  },
+  {
+    "id": "h0048",
+    "text": "Você Está Cansado de [morar de aluguel/ter dívidas]? Leia Isto.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0049",
+    "text": "A História de Como [uma dona de casa] Faturou [valor] Vendendo [produto].",
+    "niches": ["ecommerce", "food", "fashion", "education"]
+  },
+  {
+    "id": "h0050",
+    "text": "A Forma Comprovada de Proteger seu [patrimônio/negócio] de [crises/concorrentes].",
+    "niches": ["finance", "saas", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0051",
+    "text": "A Solução de [baixo custo] Para um Problema de [restaurante/hotel] caro.",
+    "niches": ["food", "travel", "saas", "b2c"]
+  },
+  {
+    "id": "h0052",
+    "text": "Como Encontrar as Melhores [passagens aéreas/ações da bolsa] em [mercado].",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0053",
+    "text": "A Nova Tendência em [turismo/alimentação saudável] que Você Não Pode Ignorar.",
+    "niches": ["travel", "food", "health", "fitness"]
+  },
+  {
+    "id": "h0054",
+    "text": "A Estratégia de [Warren Buffett] Para [investir/viver] Melhor.",
+    "niches": ["finance", "education", "health"]
+  },
+  {
+    "id": "h0055",
+    "text": "Como ter [uma refeição gourmet/férias de luxo] sem abrir mão de [economizar].",
+    "niches": ["food", "travel", "finance"]
+  },
+  {
+    "id": "h0056",
+    "text": "O [molho secreto/algoritmo] que Permite [um sabor incrível/resultados precisos].",
+    "niches": ["food", "saas", "tech", "finance"]
+  },
+  {
+    "id": "h0057",
+    "text": "[Sabor/lucro/paz] de Forma Simples, Rápida e Segura.",
+    "niches": ["food", "finance", "health", "saas"]
+  },
+  {
+    "id": "h0058",
+    "text": "Junte-se a [milhares] de [viajantes/investidores] que já estão [economizando/lucrando].",
+    "niches": ["travel", "finance", "ecommerce"]
+  },
+  {
+    "id": "h0059",
+    "text": "A Maneira Cientificamente Comprovada de [queimar gordura/aumentar o foco].",
+    "niches": ["health", "fitness", "education", "saas"]
+  },
+  {
+    "id": "h0060",
+    "text": "O Guia do Iniciante para [comprar Bitcoins/fazer pão caseiro] sem [medo].",
+    "niches": ["finance", "food", "education"]
+  },
+  {
+    "id": "h0061",
+    "text": "O [software] que [CEOs de tecnologia] Recomendam para [produtividade].",
+    "niches": ["saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0062",
+    "text": "[7] Fatos Chocantes sobre [o setor imobiliário] que Vão Mudar sua Vida.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0063",
+    "text": "Ainda Usando [Excel/método antigo]? Você Precisa Disso.",
+    "niches": ["saas", "b2b", "tech", "finance"]
+  },
+  {
+    "id": "h0064",
+    "text": "Aviso Para [pais/empresários]: Você Pode Estar Perdendo [tempo/dinheiro].",
+    "niches": ["education", "finance", "saas", "b2b"]
+  },
+  {
+    "id": "h0065",
+    "text": "Como Transformar [seu smartphone] em uma Ferramenta de [vendas/fitness].",
+    "niches": ["tech", "ecommerce", "fitness", "saas"]
+  },
+  {
+    "id": "h0066",
+    "text": "O Guia Completo para Montar [uma carteira de ações/um roteiro de viagem] em [tempo recorde].",
+    "niches": ["finance", "travel", "education"]
+  },
+  {
+    "id": "h0067",
+    "text": "[10] Maneiras de [aproveitar as sobras/economizar em taxas] que Você Nunca Imaginou.",
+    "niches": ["food", "finance"]
+  },
+  {
+    "id": "h0068",
+    "text": "A Verdade que os [bancos/indústria alimentícia] Escondem de Você.",
+    "niches": ["finance", "food", "health"]
+  },
+  {
+    "id": "h0069",
+    "text": "Pare de [pagar aluguel/fazer dietas restritivas] e Comece a [construir patrimônio/ter liberdade].",
+    "niches": ["real_estate", "finance", "health", "fitness"]
+  },
+  {
+    "id": "h0070",
+    "text": "Para [professores] que Estão Cansados de [turmas desinteressadas] e Querem [engajamento].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0071",
+    "text": "A Forma Mais Inteligente de [reservar um hotel/comprar um software] com [orçamento baixo].",
+    "niches": ["travel", "saas", "b2b", "b2c"]
+  },
+  {
+    "id": "h0072",
+    "text": "O Que Fazer nos Próximos [10 minutos] para Garantir sua [saúde financeira/boa forma].",
+    "niches": ["finance", "fitness", "health"]
+  },
+  {
+    "id": "h0073",
+    "text": "A Estratégia do [Airbnb/Nubank] para [dominar o mercado].",
+    "niches": ["saas", "tech", "finance", "travel", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0074",
+    "text": "O Erro Fatal que [viajantes de primeira viagem/novos investidores] Cometem.",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0075",
+    "text": "Como Construir um [negócio de moda/corpo forte] sem [investimento alto/passar fome].",
+    "niches": ["fashion", "ecommerce", "fitness", "health"]
+  },
+  {
+    "id": "h0076",
+    "text": "O Guia de Bolso para [comer bem em Paris/declarar seu Imposto de Renda] Instantâneo.",
+    "niches": ["food", "travel", "finance", "education"]
+  },
+  {
+    "id": "h0077",
+    "text": "[5] Perguntas Essenciais Antes de Contratar um [personal trainer/consultor financeiro].",
+    "niches": ["fitness", "finance"]
+  },
+  {
+    "id": "h0078",
+    "text": "A Maneira Surpreendentemente Simples de [automatizar suas finanças/preparar refeições para a semana].",
+    "niches": ["finance", "saas", "food", "health"]
+  },
+  {
+    "id": "h0079",
+    "text": "O Que os [atletas olímpicos/gestores de fundos] Sabem Sobre [performance/risco] que Você Não Sabe.",
+    "niches": ["fitness", "finance"]
+  },
+  {
+    "id": "h0080",
+    "text": "O Fim da Era de [ensino tradicional/bancos físicos]. Conheça o Futuro.",
+    "niches": ["education", "tech", "finance", "saas"]
+  },
+  {
+    "id": "h0081",
+    "text": "Como Obter [uma consultoria de estilo/um plano de investimentos] por uma Fração do Preço.",
+    "niches": ["fashion", "finance"]
+  },
+  {
+    "id": "h0082",
+    "text": "O Plano de [30 dias] para uma Transformação Completa na sua [cozinha/carteira].",
+    "niches": ["food", "health", "finance"]
+  },
+  {
+    "id": "h0083",
+    "text": "O [tecido/ingrediente/software] que Está Revolucionando a Indústria.",
+    "niches": ["fashion", "food", "saas", "tech"]
+  },
+  {
+    "id": "h0084",
+    "text": "Como Usar [psicologia das cores/gatilhos mentais] para Aumentar suas [vendas/conversões].",
+    "niches": ["ecommerce", "fashion", "saas", "education"]
+  },
+  {
+    "id": "h0085",
+    "text": "O Guia Definitivo para [nômades digitais] que Querem [viajar mais/pagar menos impostos].",
+    "niches": ["travel", "finance", "saas"]
+  },
+  {
+    "id": "h0086",
+    "text": "O Atalho Para [fluência em inglês/liberdade financeira] que Seus [professores/gerentes] Não Conhecem.",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0087",
+    "text": "Você Está Pronto para o Próximo Nível de [sabor/lucratividade]?",
+    "niches": ["food", "finance", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0088",
+    "text": "[3] Sinais de que Você Precisa de [um novo guarda-roupa/uma nova estratégia de marketing] Agora.",
+    "niches": ["fashion", "ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0089",
+    "text": "A Maneira Mais Eficaz de Proteger seus [dados/joias/investimentos].",
+    "niches": ["tech", "saas", "fashion", "finance"]
+  },
+  {
+    "id": "h0090",
+    "text": "Como [uma mãe solteira] Conseguiu [a casa própria] com [este método].",
+    "niches": ["real_estate", "finance", "education"]
+  },
+  {
+    "id": "h0091",
+    "text": "O Que [a arquitetura romana] Pode nos Ensinar Sobre [construir um negócio sólido].",
+    "niches": ["education", "b2b", "finance", "real_estate"]
+  },
+  {
+    "id": "h0092",
+    "text": "A Solução Definitiva para o Problema de [falta de tempo para cozinhar/não saber onde investir].",
+    "niches": ["food", "health", "finance", "saas"]
+  },
+  {
+    "id": "h0093",
+    "text": "A Verdade Inconveniente Sobre [produtos orgânicos/fundos de investimento].",
+    "niches": ["food", "health", "finance"]
+  },
+  {
+    "id": "h0094",
+    "text": "Como Atingir [a meta de faturamento] Antes do Fim do [trimestre].",
+    "niches": ["b2b", "saas", "ecommerce", "finance"]
+  },
+  {
+    "id": "h0095",
+    "text": "A Ferramenta Essencial que Falta no seu [restaurante/escritório].",
+    "niches": ["food", "b2b", "saas", "tech"]
+  },
+  {
+    "id": "h0096",
+    "text": "O Guia Honesto e Sem Filtros para [comprar seu primeiro Rolex/lançar seu primeiro curso].",
+    "niches": ["fashion", "finance", "education", "ecommerce"]
+  },
+  {
+    "id": "h0097",
+    "text": "Por Que [as pessoas mais ricas] Amam [a crise/a volatilidade].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0098",
+    "text": "A Nova Onda em [moda sustentável/fintechs] que Pode Mudar Tudo Para Você.",
+    "niches": ["fashion", "finance", "tech", "saas"]
+  },
+  {
+    "id": "h0099",
+    "text": "Como Evitar as [7] Armadilhas ao [comprar online/reservar férias].",
+    "niches": ["ecommerce", "fashion", "travel"]
+  },
+  {
+    "id": "h0100",
+    "text": "O [vestido/apartamento/software] Projetado para [mulheres modernas/famílias/startups] que Exigem o Melhor.",
+    "niches": ["fashion", "real_estate", "saas", "b2c", "b2b"]
+  },
+  {
+    "id": "h0101",
+    "text": "O Segredo dos [monges budistas] para uma Vida com Mais [foco/paz].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0102",
+    "text": "Como [ler um livro por semana] Pode Gerar [um aumento de salário].",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0103",
+    "text": "O Guia do 'Faça Você Mesmo' para [criar um site/renovar a cozinha] com Resultado Profissional.",
+    "niches": ["tech", "saas", "real_estate", "food", "education"]
+  },
+  {
+    "id": "h0104",
+    "text": "Você Está Preparado para a [próxima crise financeira/revolução da IA]?",
+    "niches": ["finance", "tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0105",
+    "text": "A Forma Cientificamente Validada de Melhorar sua [memória/performance atlética].",
+    "niches": ["education", "health", "fitness"]
+  },
+  {
+    "id": "h0106",
+    "text": "Como Obter [acesso a salas VIP/consultoria grátis] com um Único [cartão/cadastro].",
+    "niches": ["travel", "finance", "saas"]
+  },
+  {
+    "id": "h0107",
+    "text": "O Que os Bilionários de [Silicon Valley] Compram Quando Ninguém Está Vendo.",
+    "niches": ["tech", "finance", "fashion"]
+  },
+  {
+    "id": "h0108",
+    "text": "A Resposta Chocante para a Pergunta: 'É Possível [se aposentar aos 40]?'",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0109",
+    "text": "O Guia para [viajar pela Europa] sem Gastar [uma fortuna].",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0110",
+    "text": "[11] Mitos sobre [treino de força para mulheres] que Precisam Morrer Hoje.",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0111",
+    "text": "A Maneira Mais Segura de Investir em [imóveis/seu futuro].",
+    "niches": ["real_estate", "finance", "education"]
+  },
+  {
+    "id": "h0112",
+    "text": "Como Vencer a [procrastinação] e Finalmente [escrever seu livro/lançar seu negócio].",
+    "niches": ["education", "ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0113",
+    "text": "O [CRM/ingrediente] que Funciona para seu Negócio Enquanto Você Dorme.",
+    "niches": ["saas", "b2b", "food", "ecommerce"]
+  },
+  {
+    "id": "h0114",
+    "text": "A Estratégia da [formiga] para Sobreviver e Prosperar em [tempos de crise].",
+    "niches": ["finance", "b2b"]
+  },
+  {
+    "id": "h0115",
+    "text": "Como um Simples [não] Pode Te Deixar Mais [rico/saudável].",
+    "niches": ["finance", "health", "education"]
+  },
+  {
+    "id": "h0116",
+    "text": "O Guia de Estilo para [homens acima de 40 anos].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0117",
+    "text": "[9] Receitas Saudáveis que Levam Menos de [10 minutos].",
+    "niches": ["food", "health", "fitness"]
+  },
+  {
+    "id": "h0118",
+    "text": "O Erro de [R$10.000] que a Maioria dos [pequenos empresários] Comete.",
+    "niches": ["finance", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0119",
+    "text": "Ainda Confuso Sobre [o que é blockchain/como funciona o Tesouro Direto]?",
+    "niches": ["tech", "finance", "education"]
+  },
+  {
+    "id": "h0120",
+    "text": "O App que Transforma suas [fotos de viagem] em [uma obra de arte].",
+    "niches": ["tech", "saas", "travel", "b2c"]
+  },
+  {
+    "id": "h0121",
+    "text": "O Que [seu extrato bancário] Realmente Diz Sobre Você.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0122",
+    "text": "A Maneira Mais Rápida de Obter um [diagnóstico de TI/orçamento de obra] Gratuito.",
+    "niches": ["tech", "b2b", "real_estate"]
+  },
+  {
+    "id": "h0123",
+    "text": "Por Que seu [site] Não Vende (e Como Corrigir em [3 passos]).",
+    "niches": ["ecommerce", "saas", "b2b", "tech"]
+  },
+  {
+    "id": "h0124",
+    "text": "O Guia do Minimalista para [se vestir bem/investir melhor].",
+    "niches": ["fashion", "finance"]
+  },
+  {
+    "id": "h0125",
+    "text": "Como usar a [crise imobiliária] a seu favor.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0126",
+    "text": "A Verdadeira Razão Pela Qual [suas campanhas de marketing] Falham.",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0127",
+    "text": "[15] Destinos de Viagem Baratos Para [2025].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0128",
+    "text": "O Segredo Para um [molho de tomate] Perfeito, Segundo as Nonnas Italianas.",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0129",
+    "text": "Finalmente, um [seguro de vida/plano de saúde] que Você Realmente Entende.",
+    "niches": ["finance", "health"]
+  },
+  {
+    "id": "h0130",
+    "text": "Como Lançar seu [produto digital/ecommerce de moda] do Zero, com [orçamento].",
+    "niches": ["education", "ecommerce", "fashion", "saas"]
+  },
+  {
+    "id": "h0131",
+    "text": "O Que [gurus do marketing] Não Querem que Você Saiba Sobre [tráfego orgânico].",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0132",
+    "text": "Para o [Diretor de TI] que Está Cansado de [ataques cibernéticos/sistemas lentos].",
+    "niches": ["b2b", "tech", "saas"]
+  },
+  {
+    "id": "h0133",
+    "text": "A Forma Mais Saborosa de [perder peso/ganhar massa muscular].",
+    "niches": ["food", "health", "fitness"]
+  },
+  {
+    "id": "h0134",
+    "text": "O Checklist Completo para [comprar seu primeiro imóvel].",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0135",
+    "text": "Como Transformar seu [conhecimento] em um [curso online] Lucrativo.",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0136",
+    "text": "[12] Hacks de Produtividade que [CEOs] Usam Diariamente.",
+    "niches": ["b2b", "saas", "education"]
+  },
+  {
+    "id": "h0137",
+    "text": "O Guia de Sobrevivência para [a primeira viagem internacional].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0138",
+    "text": "Por que [preço] Não é a Coisa Mais Importante na Hora de [contratar um serviço].",
+    "niches": ["b2b", "finance", "real_estate"]
+  },
+  {
+    "id": "h0139",
+    "text": "A ciência de dados por trás do [cliente perfeito].",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0140",
+    "text": "O [sapato/acessório] que Completa Qualquer Look.",
+    "niches": ["fashion", "ecommerce"]
+  },
+  {
+    "id": "h0141",
+    "text": "Como [negociar seu salário] e Ganhar [valor] a Mais por Ano.",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0142",
+    "text": "O Fim do Efeito Sanfona: Um Guia Para [emagrecimento definitivo].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0143",
+    "text": "A Verdade Sobre as [calorias/taxas de juros] que Ninguém Ousa Dizer.",
+    "niches": ["health", "fitness", "finance"]
+  },
+  {
+    "id": "h0144",
+    "text": "[21] Dias Para um Novo [hábito/corpo/negócio].",
+    "niches": ["fitness", "health", "education", "ecommerce"]
+  },
+  {
+    "id": "h0145",
+    "text": "Como Escrever [código/textos] que [compilam/vendem].",
+    "niches": ["tech", "education", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0146",
+    "text": "O Guia do B2B para [geração de leads] em [2025].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0147",
+    "text": "Ainda Sem [site/plano de aposentadoria]? Veja Por Onde Começar.",
+    "niches": ["tech", "finance", "saas"]
+  },
+  {
+    "id": "h0148",
+    "text": "A Maneira mais Rápida de se Tornar um Especialista em [vinhos/marketing digital].",
+    "niches": ["food", "education", "b2b", "saas"]
+  },
+  {
+    "id": "h0149",
+    "text": "O Que [seu personal trainer] Não te Conta Sobre [cardio].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0150",
+    "text": "A Revolução do [trabalho remoto]: Ferramentas e Estratégias.",
+    "niches": ["saas", "b2b", "tech", "education"]
+  },
+  {
+    "id": "h0151",
+    "text": "Como viajar o mundo trabalhando como [programador/designer].",
+    "niches": ["travel", "tech", "education"]
+  },
+  {
+    "id": "h0152",
+    "text": "O Framework de [número] Passos Para Lançar um [SaaS/E-commerce] de Sucesso.",
+    "niches": ["saas", "ecommerce", "b2b", "tech"]
+  },
+  {
+    "id": "h0153",
+    "text": "O que ninguém está falando sobre a [nova lei de proteção de dados].",
+    "niches": ["tech", "saas", "b2b", "finance"]
+  },
+  {
+    "id": "h0154",
+    "text": "O guia definitivo para o [vestido de noiva/terno] perfeito.",
+    "niches": ["fashion", "b2c"]
+  },
+  {
+    "id": "h0155",
+    "text": "Como triplicar a [produtividade da sua equipe] com uma única mudança.",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0156",
+    "text": "[8] Superalimentos que Deveriam Estar na Sua Dieta.",
+    "niches": ["food", "health", "fitness"]
+  },
+  {
+    "id": "h0157",
+    "text": "O segredo dos [apartamentos pequenos] que parecem grandes.",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0158",
+    "text": "A maneira mais fácil de aceitar [pagamentos online/reservas].",
+    "niches": ["ecommerce", "saas", "travel", "food"]
+  },
+  {
+    "id": "h0159",
+    "text": "Como Fazer [R$ 1.000] Extras por Mês com [seu hobby].",
+    "niches": ["finance", "education", "ecommerce"]
+  },
+  {
+    "id": "h0160",
+    "text": "A Verdade Sobre o [jejum intermitente] que a Mídia Esconde.",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0161",
+    "text": "Para o [gestor de marketing] que precisa de [mais leads] para [ontem].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0162",
+    "text": "O [roteiro de viagem] de [7 dias] perfeito para a [Itália/Japão].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0163",
+    "text": "O Que Fazer Quando seu [tráfego/crescimento] Estaciona.",
+    "niches": ["ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0164",
+    "text": "A Maneira Correta de Usar [o LinkedIn] para Gerar Negócios.",
+    "niches": ["b2b", "saas", "education"]
+  },
+  {
+    "id": "h0165",
+    "text": "O Guia Completo dos [melhores bairros] para se Morar em [cidade].",
+    "niches": ["real_estate", "travel"]
+  },
+  {
+    "id": "h0166",
+    "text": "Como Construir um [Funil de Vendas/Plano de Treino] que Realmente Converte.",
+    "niches": ["saas", "b2b", "ecommerce", "fitness"]
+  },
+  {
+    "id": "h0167",
+    "text": "Ainda não investe em [ETFs/Imóveis]? Você está deixando dinheiro na mesa.",
+    "niches": ["finance", "real_estate"]
+  },
+  {
+    "id": "h0168",
+    "text": "O [prato/exercício] que queima mais [calorias] do que você imagina.",
+    "niches": ["food", "health", "fitness"]
+  },
+  {
+    "id": "h0169",
+    "text": "O Guia do [Pequeno Empresário] para [reduzir impostos] legalmente.",
+    "niches": ["finance", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0170",
+    "text": "O que o [minimalismo] pode ensinar sobre [finanças pessoais].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0171",
+    "text": "A coleção de [primavera/verão] que vai definir a estação.",
+    "niches": ["fashion", "ecommerce"]
+  },
+  {
+    "id": "h0172",
+    "text": "Como usar a [tecnologia] para otimizar sua [operação de restaurante].",
+    "niches": ["food", "saas", "tech"]
+  },
+  {
+    "id": "h0173",
+    "text": "O passo a passo para sair do [sedentarismo/endividamento].",
+    "niches": ["fitness", "health", "finance"]
+  },
+  {
+    "id": "h0174",
+    "text": "O que os [grandes e-commerces] fazem que você não faz.",
+    "niches": ["ecommerce", "b2b", "saas"]
+  },
+  {
+    "id": "h0175",
+    "text": "O guia de [presentes/vinhos] para quem não sabe o que comprar.",
+    "niches": ["ecommerce", "fashion", "food"]
+  },
+  {
+    "id": "h0176",
+    "text": "Como [aprender um idioma] assistindo [séries/filmes].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0177",
+    "text": "A forma mais barata de [viajar pela Ásia/estudar no exterior].",
+    "niches": ["travel", "education", "finance"]
+  },
+  {
+    "id": "h0178",
+    "text": "O erro de [segurança] que pode custar seu [negócio].",
+    "niches": ["tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0179",
+    "text": "O [café da manhã/treino] dos campeões.",
+    "niches": ["food", "health", "fitness"]
+  },
+  {
+    "id": "h0180",
+    "text": "Como conseguir seu primeiro [cliente de consultoria/imóvel para alugar].",
+    "niches": ["b2b", "real_estate", "finance"]
+  },
+  {
+    "id": "h0181",
+    "text": "A [peça de roupa] que nunca sai de moda.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0182",
+    "text": "O guia do [investidor iniciante] para não cair em [golpes].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0183",
+    "text": "Como [reformar um apartamento] gastando pouco.",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0184",
+    "text": "A ciência por trás do [sono perfeito].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0185",
+    "text": "O [curso online] que te prepara para o [mercado de trabalho do futuro].",
+    "niches": ["education", "tech"]
+  },
+  {
+    "id": "h0186",
+    "text": "O que é [growth hacking] e como aplicá-lo no seu negócio.",
+    "niches": ["saas", "b2b", "ecommerce", "education"]
+  },
+  {
+    "id": "h0187",
+    "text": "O guia definitivo para [comprar/vender] um imóvel em [cidade].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0188",
+    "text": "Como usar o [TikTok/Instagram] para crescer sua [marca de comida].",
+    "niches": ["food", "ecommerce", "fashion"]
+  },
+  {
+    "id": "h0189",
+    "text": "A maneira mais inteligente de usar seu [13º salário/bônus].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0190",
+    "text": "O Fim da Desculpa 'Não Tenho Tempo Para [treinar/estudar]'.",
+    "niches": ["fitness", "education", "health"]
+  },
+  {
+    "id": "h0191",
+    "text": "Como o [design] pode aumentar o [valor percebido] do seu [imóvel/produto].",
+    "niches": ["real_estate", "ecommerce", "fashion"]
+  },
+  {
+    "id": "h0192",
+    "text": "O guia de [etiqueta] para [reuniões de negócios/jantares importantes].",
+    "niches": ["b2b", "food", "education"]
+  },
+  {
+    "id": "h0193",
+    "text": "Ainda perdido em [planilhas]? Conheça a automação.",
+    "niches": ["saas", "b2b", "finance"]
+  },
+  {
+    "id": "h0194",
+    "text": "O segredo para conseguir um [upgrade de quarto/desconto] em qualquer [hotel/loja].",
+    "niches": ["travel", "ecommerce", "finance"]
+  },
+  {
+    "id": "h0195",
+    "text": "O que os [pais] precisam saber sobre [educação financeira para filhos].",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0196",
+    "text": "[10] Looks com [peça coringa] para te inspirar.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0197",
+    "text": "A forma mais eficiente de [aprender a programar].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0198",
+    "text": "O que é [cloud computing] em termos que você entende.",
+    "niches": ["tech", "saas", "b2b", "education"]
+  },
+  {
+    "id": "h0199",
+    "text": "O Guia do Viajante para [comer barato] sem abrir mão da [qualidade].",
+    "niches": ["travel", "food"]
+  },
+  {
+    "id": "h0200",
+    "text": "Como criar um [orçamento familiar] que realmente funciona.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0201",
+    "text": "O método de [número] passos para [dobrar seu tráfego] sem gastar com anúncios.",
+    "niches": ["ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0202",
+    "text": "Ainda não tem uma [carteira de investimentos diversificada]? Você está correndo um risco enorme.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0203",
+    "text": "O que [seu tipo de corpo] diz sobre o [melhor tipo de treino] para você.",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0204",
+    "text": "O Fim do 'O que vamos jantar hoje?': um guia de [planejamento de refeições].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0205",
+    "text": "Como escolher o [melhor CRM] para sua [pequena empresa].",
+    "niches": ["saas", "b2b"]
+  },
+  {
+    "id": "h0206",
+    "text": "A verdade sobre [ser seu próprio chefe] que ninguém te conta.",
+    "niches": ["education", "finance", "b2b"]
+  },
+  {
+    "id": "h0207",
+    "text": "O guia definitivo para [montar o seu home office] perfeito.",
+    "niches": ["tech", "real_estate", "b2b"]
+  },
+  {
+    "id": "h0208",
+    "text": "Como [viajar sozinho(a)] com segurança e economia.",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0209",
+    "text": "O que [as cores que você usa] dizem sobre sua personalidade.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0210",
+    "text": "A maneira mais fácil de [criar um aplicativo] sem saber programar.",
+    "niches": ["tech", "saas", "education"]
+  },
+  {
+    "id": "h0211",
+    "text": "O que os [melhores vendedores] fazem nos primeiros [5 minutos] de uma chamada.",
+    "niches": ["b2b", "saas", "ecommerce", "real_estate"]
+  },
+  {
+    "id": "h0212",
+    "text": "O guia do [vegetariano] para [ganhar massa muscular].",
+    "niches": ["fitness", "health", "food"]
+  },
+  {
+    "id": "h0213",
+    "text": "Como [avaliar um imóvel] como um profissional.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0214",
+    "text": "O que [a filosofia estoica] pode te ensinar sobre [investir/liderança].",
+    "niches": ["education", "finance", "b2b"]
+  },
+  {
+    "id": "h0215",
+    "text": "A [ferramenta de IA] que [escreve e-mails/cria imagens] para você.",
+    "niches": ["tech", "saas", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0216",
+    "text": "O guia de [moda e estilo] para [o ambiente de trabalho].",
+    "niches": ["fashion", "b2b"]
+  },
+  {
+    "id": "h0217",
+    "text": "Como se livrar do [inchaço abdominal] em [24 horas].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0218",
+    "text": "O que é [SEO local] e por que seu [restaurante/loja] precisa dele.",
+    "niches": ["food", "ecommerce", "b2c"]
+  },
+  {
+    "id": "h0219",
+    "text": "A maneira mais inteligente de [acumular milhas aéreas].",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0220",
+    "text": "O que os [professores] mais bem-sucedidos fazem para [manter os alunos engajados].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0221",
+    "text": "O Fim das Reuniões Improdutivas: Um Guia para [gestores].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0222",
+    "text": "Como [preparar café] como um barista profissional.",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0223",
+    "text": "O que é [juro composto] e como usá-lo para [ficar rico].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0224",
+    "text": "O Guia do Mochileiro para a [América do Sul/Sudeste Asiático].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0225",
+    "text": "A verdade sobre [comprar seguidores] que ninguém te conta.",
+    "niches": ["ecommerce", "b2c"]
+  },
+  {
+    "id": "h0226",
+    "text": "O que [seu sono] tem a ver com [seu peso/sua produtividade].",
+    "niches": ["health", "fitness", "b2b"]
+  },
+  {
+    "id": "h0227",
+    "text": "O Guia Completo para a [manutenção do seu carro].",
+    "niches": ["b2c", "education"]
+  },
+  {
+    "id": "h0228",
+    "text": "Como [organizar seu guarda-roupa] para sempre ter o que vestir.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0229",
+    "text": "O erro de [um milhão de reais] que [fundadores de startups] cometem.",
+    "niches": ["saas", "tech", "finance", "b2b"]
+  },
+  {
+    "id": "h0230",
+    "text": "Ainda usa [Word] para [escrever seu livro]? Existe um jeito melhor.",
+    "niches": ["education", "tech", "saas"]
+  },
+  {
+    "id": "h0231",
+    "text": "O que [a marcenaria] pode te ensinar sobre [paciência e precisão].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0232",
+    "text": "O Guia de [sobrevivência] para [festas de fim de ano] sem [engordar/gastar muito].",
+    "niches": ["health", "finance", "food"]
+  },
+  {
+    "id": "h0233",
+    "text": "Como escolher o [melhor notebook] para [programação/design].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0234",
+    "text": "O que é [customer success] e por que ele é vital para o seu [SaaS].",
+    "niches": ["saas", "b2b"]
+  },
+  {
+    "id": "h0235",
+    "text": "A maneira mais rápida de conseguir [financiamento imobiliário].",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0236",
+    "text": "O que [as companhias aéreas] não querem que você saiba sobre [passagens baratas].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0237",
+    "text": "O guia definitivo para [treinar em casa] com resultados de academia.",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0238",
+    "text": "Como [fazer networking] do jeito certo, mesmo se você for [tímido].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0239",
+    "text": "O que [as abelhas] podem nos ensinar sobre [trabalho em equipe].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0240",
+    "text": "Ainda com medo de [falar em público/investir na bolsa]?",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0241",
+    "text": "O que [seu cérebro] faz quando você [aprende algo novo].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0242",
+    "text": "O guia de [presentes de Natal] para [o namorado/a namorada] que tem tudo.",
+    "niches": ["ecommerce", "fashion"]
+  },
+  {
+    "id": "h0243",
+    "text": "Como [a meditação] pode te tornar um [líder/investidor] melhor.",
+    "niches": ["health", "b2b", "finance"]
+  },
+  {
+    "id": "h0244",
+    "text": "O que [o código genético] e [um bom software] têm em comum.",
+    "niches": ["tech", "saas", "health"]
+  },
+  {
+    "id": "h0245",
+    "text": "A maneira mais fácil de [criar landing pages] que convertem.",
+    "niches": ["saas", "ecommerce", "b2b"]
+  },
+  {
+    "id": "h0246",
+    "text": "O guia definitivo para [o primeiro ano do seu bebê].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0247",
+    "text": "Como [cozinhar para a semana toda] em apenas [2 horas].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0248",
+    "text": "O que [os melhores hotéis do mundo] fazem para encantar os hóspedes.",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0249",
+    "text": "Ainda pagando [tarifas bancárias]? Você está no século passado.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0250",
+    "text": "O guia de [vinhos] para [o Dia dos Namorados].",
+    "niches": ["food", "ecommerce"]
+  },
+  {
+    "id": "h0251",
+    "text": "Como [construir crédito] do zero e conseguir [melhores taxas].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0252",
+    "text": "O que os [grandes estilistas] sabem sobre [caimento] que você não sabe.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0253",
+    "text": "Ainda não tem um [fundo de emergência]? Este é o primeiro passo.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0254",
+    "text": "O guia de [skincare] para [peles oleosas/secas].",
+    "niches": ["health", "fashion", "ecommerce"]
+  },
+  {
+    "id": "h0255",
+    "text": "Como [vencer a preguiça] e começar a [treinar] hoje.",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0256",
+    "text": "O que [a física quântica] pode te ensinar sobre [as possibilidades da vida].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0257",
+    "text": "O guia definitivo para [contratar os melhores talentos] para sua [startup].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0258",
+    "text": "Como [fotografar comida] como um profissional com seu [celular].",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0259",
+    "text": "O que [a história da arte] nos ensina sobre [branding e marketing].",
+    "niches": ["education", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0260",
+    "text": "Ainda não usa [autenticação de dois fatores]? Sua [segurança] está em risco.",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0261",
+    "text": "O guia do [ nômade digital] para [declarar impostos] sem enlouquecer.",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0262",
+    "text": "Como [fazer pão de fermentação natural] em casa.",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0263",
+    "text": "O que [os melhores educadores] fazem para [despertar a curiosidade] dos alunos.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0264",
+    "text": "Ainda sofre com [enxaqueca/ansiedade]? Uma solução natural pode ajudar.",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0265",
+    "text": "O guia definitivo para [escolher a melhor escola] para seus filhos.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0266",
+    "text": "Como [a teoria dos jogos] pode te ajudar a [negociar melhor].",
+    "niches": ["education", "b2b", "finance"]
+  },
+  {
+    "id": "h0267",
+    "text": "O que [os vikings] podem nos ensinar sobre [resiliência].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0268",
+    "text": "Ainda escreve [e-mails longos e chatos]? Seus [clientes] te odeiam por isso.",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0269",
+    "text": "O guia definitivo de [decoração] para [apartamentos alugados].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0270",
+    "text": "Como [a neurociência] pode te ajudar a [aprender mais rápido].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0271",
+    "text": "O que [os chefs com estrela Michelin] colocam na [salada] para deixá-la incrível.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0272",
+    "text": "Ainda não tem um [plano de marketing digital]? Você está invisível para seus clientes.",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0273",
+    "text": "O guia definitivo para [montar seu próprio PC gamer].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0274",
+    "text": "Como [ler relatórios financeiros] sem ser um [contador].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0275",
+    "text": "O que [os samurais] podem nos ensinar sobre [disciplina e foco].",
+    "niches": ["education", "fitness", "b2b"]
+  },
+  {
+    "id": "h0276",
+    "text": "Ainda tem [medo de avião]? Veja como superar.",
+    "niches": ["travel", "health"]
+  },
+  {
+    "id": "h0277",
+    "text": "O guia definitivo para [o chá de bebê] perfeito.",
+    "niches": ["b2c", "ecommerce"]
+  },
+  {
+    "id": "h0278",
+    "text": "Como [um bom storytelling] pode [triplicar suas vendas].",
+    "niches": ["b2b", "ecommerce", "education"]
+  },
+  {
+    "id": "h0279",
+    "text": "O que [os atletas de elite] comem no [café da manhã].",
+    "niches": ["fitness", "health", "food"]
+  },
+  {
+    "id": "h0280",
+    "text": "Ainda não sabe o que é [ESG]? Sua [empresa] pode estar ficando para trás.",
+    "niches": ["b2b", "finance"]
+  },
+  {
+    "id": "h0281",
+    "text": "O guia definitivo para [cuidar de orquídeas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0282",
+    "text": "Como [a inteligência artificial] está mudando o [mercado imobiliário].",
+    "niches": ["tech", "real_estate", "saas"]
+  },
+  {
+    "id": "h0283",
+    "text": "O que [os antigos filósofos gregos] diriam sobre [a sua rotina matinal].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0284",
+    "text": "Ainda usa [fotos de banco de imagem]? Seus [clientes] percebem.",
+    "niches": ["b2b", "ecommerce"]
+  },
+  {
+    "id": "h0285",
+    "text": "O guia definitivo para [fazer a mala de viagem] perfeita.",
+    "niches": ["travel", "fashion"]
+  },
+  {
+    "id": "h0286",
+    "text": "Como [a gamificação] pode [aumentar o engajamento] dos seus [alunos/funcionários].",
+    "niches": ["education", "saas", "b2b"]
+  },
+  {
+    "id": "h0287",
+    "text": "O que [os melhores negociadores do FBI] sabem sobre [persuasão].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0288",
+    "text": "Ainda não sabe qual é o seu [perfil de investidor]? Faça o teste.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0289",
+    "text": "O guia definitivo para [o churrasco] perfeito.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0290",
+    "text": "Como [a economia comportamental] pode te ajudar a [parar de gastar por impulso].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0291",
+    "text": "O que [os melhores compositores] podem nos ensinar sobre [criatividade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0292",
+    "text": "Ainda não otimizou seu [site] para [dispositivos móveis]? Você está perdendo [metade] dos clientes.",
+    "niches": ["tech", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0293",
+    "text": "O guia definitivo para [uma pele perfeita] depois dos [30 anos].",
+    "niches": ["health", "fashion"]
+  },
+  {
+    "id": "h0294",
+    "text": "Como [a impressão 3D] está revolucionando a [medicina/indústria].",
+    "niches": ["tech", "health", "b2b"]
+  },
+  {
+    "id": "h0295",
+    "text": "O que [os maiores exploradores da história] podem nos ensinar sobre [assumir riscos].",
+    "niches": ["education", "finance", "travel"]
+  },
+  {
+    "id": "h0296",
+    "text": "Ainda sofre com a [síndrome do impostor]? Veja como combatê-la.",
+    "niches": ["education", "b2b", "health"]
+  },
+  {
+    "id": "h0297",
+    "text": "O guia definitivo para [entender de arte moderna].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0298",
+    "text": "Como [a realidade virtual] vai mudar a forma como [viajamos/aprendemos].",
+    "niches": ["tech", "travel", "education"]
+  },
+  {
+    "id": "h0299",
+    "text": "O que [os cães] podem nos ensinar sobre [lealdade e amizade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0300",
+    "text": "Ainda não sabe a diferença entre [fundo de ações e fundo imobiliário]? Deixe-me explicar.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0301",
+    "text": "O método de [5 minutos] para [organizar suas ideias] e [aumentar a clareza].",
+    "niches": ["education", "b2b", "saas"]
+  },
+  {
+    "id": "h0302",
+    "text": "Ainda não fez [backup dos seus arquivos]? É uma questão de [quando], não [se] você vai perdê-los.",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0303",
+    "text": "O guia definitivo para [adestrar seu cachorro].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0304",
+    "text": "Como [a caligrafia] pode [reduzir o estresse] e [melhorar o foco].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0305",
+    "text": "O que [os melhores roteiristas de Hollywood] sabem sobre [contar histórias].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0306",
+    "text": "Ainda não sabe como usar o [Google Analytics]? Você está navegando às cegas.",
+    "niches": ["tech", "saas", "ecommerce", "b2b"]
+  },
+  {
+    "id": "h0307",
+    "text": "O guia definitivo para [uma horta em apartamento].",
+    "niches": ["food", "real_estate", "education"]
+  },
+  {
+    "id": "h0308",
+    "text": "Como [a música clássica] pode [aumentar sua produtividade].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0309",
+    "text": "O que [os chefs de sushi] podem nos ensinar sobre [dedicação e perfeccionismo].",
+    "niches": ["food", "education", "b2b"]
+  },
+  {
+    "id": "h0310",
+    "text": "Ainda não tem um [LinkedIn] otimizado? Você está perdendo [oportunidades de carreira].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0311",
+    "text": "O guia definitivo para [viver com menos plástico].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0312",
+    "text": "Como [o xadrez] pode te tornar um [estrategista] melhor nos [negócios].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0313",
+    "text": "O que [os astronautas] podem nos ensinar sobre [lidar com o isolamento].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0314",
+    "text": "Ainda não sabe o que é [machine learning]? Prepare-se para o futuro.",
+    "niches": ["tech", "saas", "education"]
+  },
+  {
+    "id": "h0315",
+    "text": "O guia definitivo para [superar um término de relacionamento].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0316",
+    "text": "Como [a jardinagem] pode ser uma [terapia] para a [ansiedade].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0317",
+    "text": "O que [os mágicos] sabem sobre [psicologia e atenção].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0318",
+    "text": "Ainda não sabe como [calcular seu custo de vida]? Você não controla suas finanças.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0319",
+    "text": "O guia definitivo para [o mochilão dos seus sonhos].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0320",
+    "text": "Como [a filosofia] pode te ajudar a [tomar decisões melhores].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0321",
+    "text": "Atenção: Você pode estar pagando [imposto] a mais sem saber.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0322",
+    "text": "O guia para [iniciantes] em [yoga/meditação].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0323",
+    "text": "A maneira mais rápida de validar sua [ideia de negócio].",
+    "niches": ["saas", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0324",
+    "text": "Como criar um [ambiente de estudo] que [maximiza o aprendizado].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0325",
+    "text": "O que [os melhores atletas] fazem para [acelerar a recuperação muscular].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0326",
+    "text": "O guia de [viagem] para [casais em lua de mel].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0327",
+    "text": "Como [construir uma marca pessoal] forte do zero.",
+    "niches": ["education", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0328",
+    "text": "O que [os estoicos] nos ensinaram sobre [não se preocupar com o que não podemos controlar].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0329",
+    "text": "O guia definitivo para [comprar um carro usado] sem ser enganado.",
+    "niches": ["finance", "b2c"]
+  },
+  {
+    "id": "h0330",
+    "text": "Como [a biologia] explica por que [amamos açúcar].",
+    "niches": ["health", "food", "education"]
+  },
+  {
+    "id": "h0331",
+    "text": "O que [os melhores líderes] fazem para [inspirar suas equipes].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0332",
+    "text": "Ainda não sabe como [investir no exterior]? Descubra as vantagens.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0333",
+    "text": "O guia definitivo para [uma noite de sono reparadora].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0334",
+    "text": "Como [a história] pode nos ajudar a [prever o futuro] dos [mercados].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0335",
+    "text": "O que [os melhores designers] sabem sobre [a experiência do usuário].",
+    "niches": ["tech", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0336",
+    "text": "Ainda não tem um [propósito de vida]? Veja como encontrar o seu.",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0337",
+    "text": "O guia definitivo para [a festa de aniversário infantil] perfeita.",
+    "niches": ["food", "b2c"]
+  },
+  {
+    "id": "h0338",
+    "text": "Como [a poesia] pode [expandir sua mente] e [melhorar sua escrita].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0339",
+    "text": "O que [os melhores investidores imobiliários] procuram em uma [propriedade].",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0340",
+    "text": "Ainda não sabe como [cozinhar o feijão perfeito]? O segredo está aqui.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0341",
+    "text": "O guia definitivo para [escrever seu primeiro livro].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0342",
+    "text": "Como [a contabilidade] pode ser a [melhor amiga] do seu [negócio].",
+    "niches": ["finance", "b2b"]
+  },
+  {
+    "id": "h0343",
+    "text": "O que [os melhores fotógrafos] sabem sobre [luz e composição].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0344",
+    "text": "Ainda não sabe como [fazer um bom networking] em [eventos]? Siga estas dicas.",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0345",
+    "text": "O guia definitivo para [escolher seus padrinhos de casamento].",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0346",
+    "text": "Como [a geologia] explica [as paisagens incríveis] que você visita.",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0347",
+    "text": "O que [os melhores gerentes de projeto] fazem para [entregar no prazo e no orçamento].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0348",
+    "text": "Ainda não sabe como [ler mais rápido]? A técnica está aqui.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0349",
+    "text": "O guia definitivo para [combinar queijos e vinhos].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0350",
+    "text": "Como [a antropologia] pode te ajudar a [entender seus clientes].",
+    "niches": ["b2b", "ecommerce", "education"]
+  },
+  {
+    "id": "h0351",
+    "text": "Atenção [Gerentes de RH]: Como [reter talentos] na era do [trabalho híbrido].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0352",
+    "text": "O que [os melhores podcasts] fazem para [prender sua atenção].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0353",
+    "text": "Ainda não sabe como [preparar um bom drink]? Impressione seus amigos.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0354",
+    "text": "O guia definitivo para [o seu primeiro mochilão na Europa].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0355",
+    "text": "Como [a sociologia] explica [as tendências de moda].",
+    "niches": ["fashion", "education"]
+  },
+  {
+    "id": "h0356",
+    "text": "O que [os melhores comediantes] sabem sobre [timing e conexão com a audiência].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0357",
+    "text": "Ainda não sabe como [usar o crédito] a seu favor? Você está perdendo dinheiro.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0358",
+    "text": "O guia definitivo para [plantar seus próprios temperos].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0359",
+    "text": "Como [a astronomia] pode nos dar uma [perspectiva] sobre nossos [problemas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0360",
+    "text": "O que [os melhores chefs de pastelaria] sabem sobre [a ciência do açúcar].",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0361",
+    "text": "Ainda não sabe como [delegar tarefas] de forma eficaz? Você não é um líder.",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0362",
+    "text": "O guia definitivo para [comprar diamantes] (e outras joias).",
+    "niches": ["fashion", "finance"]
+  },
+  {
+    "id": "h0363",
+    "text": "Como [a linguística] pode te ajudar a [escrever textos mais persuasivos].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0364",
+    "text": "O que [os melhores atletas de endurance] sabem sobre [superar a dor].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0365",
+    "text": "Ainda não sabe como [fazer conservas e compotas]? Redescubra este saber.",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0366",
+    "text": "O guia definitivo para [a sua primeira maratona].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0367",
+    "text": "Como [a oceanografia] nos ajuda a entender [as mudanças climáticas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0368",
+    "text": "O que [os melhores terapeutas] sabem sobre [como ouvir de verdade].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0369",
+    "text": "Ainda não sabe como [medir o ROI] das suas [ações de marketing]?",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0370",
+    "text": "O guia definitivo para [fotografia de paisagem].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0371",
+    "text": "Como [a teoria musical] pode [melhorar seu gosto] e [apreciação].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0372",
+    "text": "O que [os melhores pilotos de corrida] sabem sobre [foco sob pressão].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0373",
+    "text": "Ainda não sabe como [fazer um pitch de vendas] matador? Siga este roteiro.",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0374",
+    "text": "O guia definitivo para [sua primeira viagem de motorhome].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0375",
+    "text": "Como [a botânica] pode transformar seu [jardim] e sua [vida].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0376",
+    "text": "O que [os melhores diplomatas] sabem sobre [negociação e resolução de conflitos].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0377",
+    "text": "Ainda não sabe como [criar um orçamento base zero]? A liberdade financeira começa aqui.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0378",
+    "text": "O guia definitivo para [a culinária tailandesa] em casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0379",
+    "text": "Como [a arqueologia] nos ajuda a [entender quem somos].",
+    "niches": ["education", "travel"]
+  },
+  {
+    "id": "h0380",
+    "text": "O que [os melhores cirurgiões] sabem sobre [precisão e trabalho em equipe].",
+    "niches": ["health", "b2b", "education"]
+  },
+  {
+    "id": "h0381",
+    "text": "Ainda não sabe como [pedir um aumento]? Use este script.",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0382",
+    "text": "O guia definitivo para [a sua primeira tatuagem].",
+    "niches": ["fashion", "b2c"]
+  },
+  {
+    "id": "h0383",
+    "text": "Como [a química] explica o [sabor delicioso] de um [pão assando].",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0384",
+    "text": "O que [os melhores editores de vídeo] sabem sobre [ritmo e emoção].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0385",
+    "text": "Ainda não sabe o que é [um bom funil de marketing]? Você está perdendo vendas.",
+    "niches": ["ecommerce", "b2b", "saas"]
+  },
+  {
+    "id": "h0386",
+    "text": "O guia definitivo para [entender de uísque].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0387",
+    "text": "Como [a psicologia evolutiva] explica [nossas fobias e desejos].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0388",
+    "text": "O que [os melhores UX designers] sabem sobre [intuição e simplicidade].",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0389",
+    "text": "Ainda não sabe como [fazer um currículo] que se destaca? Use este template.",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0390",
+    "text": "O guia definitivo para [um detox digital].",
+    "niches": ["health", "tech"]
+  },
+  {
+    "id": "h0391",
+    "text": "Como [a literatura] pode te tornar [mais empático] e [inteligente].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0392",
+    "text": "O que [os melhores sommeliers] sabem sobre [descrever um sabor].",
+    "niches": ["food", "education"]
+  },
+  {
+    "id": "h0393",
+    "text": "Ainda não sabe como [automatizar tarefas repetitivas]? Liberte seu tempo.",
+    "niches": ["saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0394",
+    "text": "O guia definitivo para [sua primeira aula de dança].",
+    "niches": ["fitness", "education"]
+  },
+  {
+    "id": "h0395",
+    "text": "Como [a meteorologia] funciona (em termos simples).",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0396",
+    "text": "O que [os melhores recrutadores] procuram em um [candidato].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0397",
+    "text": "Ainda não sabe como [conseguir mais visualizações] no [YouTube]? Comece por aqui.",
+    "niches": ["tech", "ecommerce", "b2c"]
+  },
+  {
+    "id": "h0398",
+    "text": "O guia definitivo para [sua primeira viagem de acampamento].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0399",
+    "text": "Como [a matemática] está por trás de [tudo, da música à natureza].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0400",
+    "text": "O que [os melhores pais] fazem para [criar filhos felizes e resilientes].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0401",
+    "text": "Ainda não sabe como [fazer um plano de negócios]? Use nosso modelo.",
+    "niches": ["b2b", "finance", "ecommerce"]
+  },
+  {
+    "id": "h0402",
+    "text": "O guia definitivo para [começar a correr do zero].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0403",
+    "text": "Como [a tipografia] afeta [o que você sente] ao ler um texto.",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0404",
+    "text": "O que [os melhores críticos de cinema] observam em um [filme].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0405",
+    "text": "Ainda não sabe como [renegociar suas dívidas]? Você pode economizar milhares.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0406",
+    "text": "O guia definitivo para [um piquenique] perfeito.",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0407",
+    "text": "Como [a física] explica [o universo] (para leigos).",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0408",
+    "text": "O que [os melhores jogadores de pôquer] sabem sobre [ler pessoas].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0409",
+    "text": "Ainda não sabe como [cuidar de plantas de interior]? Este guia é para você.",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0410",
+    "text": "O guia definitivo para [entender a política] sem dor de cabeça.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0411",
+    "text": "Como [a cartografia] moldou [a nossa visão de mundo].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0412",
+    "text": "O que [os melhores alfaiates] sabem sobre [o caimento perfeito].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0413",
+    "text": "Ainda não sabe como [criar senhas seguras]? Proteja-se agora.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0414",
+    "text": "O guia definitivo para [o seu primeiro dia na academia].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0415",
+    "text": "Como [a improvisação teatral] pode te tornar [mais criativo] e [menos ansioso].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0416",
+    "text": "O que [os melhores organizadores de eventos] sabem sobre [criar experiências memoráveis].",
+    "niches": ["b2b", "travel", "food"]
+  },
+  {
+    "id": "h0417",
+    "text": "Ainda não sabe como [declarar seus investimentos] no [Imposto de Renda]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0418",
+    "text": "O guia definitivo para [entender de cerveja artesanal].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0419",
+    "text": "Como [a psicologia social] explica [por que seguimos tendências].",
+    "niches": ["fashion", "education"]
+  },
+  {
+    "id": "h0420",
+    "text": "O que [os melhores jornalistas investigativos] sabem sobre [encontrar a verdade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0421",
+    "text": "Ainda não sabe como [fazer o seu dinheiro trabalhar para você]? Comece aqui.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0422",
+    "text": "O guia definitivo para [o brunch] perfeito em casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0423",
+    "text": "Como [a lógica] pode te ajudar a [ganhar qualquer discussão].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0424",
+    "text": "O que [os melhores arquitetos] sabem sobre [espaço e bem-estar].",
+    "niches": ["real_estate", "health"]
+  },
+  {
+    "id": "h0425",
+    "text": "Ainda não sabe como [usar o Canva] para criar [designs profissionais]?",
+    "niches": ["saas", "tech", "ecommerce", "b2c"]
+  },
+  {
+    "id": "h0426",
+    "text": "O guia definitivo para [superar o medo de dirigir].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0427",
+    "text": "Como [a economia] funciona, explicado com [gomas de mascar].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0428",
+    "text": "O que [os melhores game designers] sabem sobre [engajamento e recompensa].",
+    "niches": ["tech", "saas", "education"]
+  },
+  {
+    "id": "h0429",
+    "text": "Ainda não sabe como [escolher o melhor seguro de viagem]?",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0430",
+    "text": "O guia definitivo para [escrever e-mails de marketing] que as pessoas realmente abrem.",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0431",
+    "text": "Como [a estatística] pode te ajudar a [não ser enganado] por [notícias falsas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0432",
+    "text": "O que [os melhores mágicos de close-up] sabem sobre [direcionar a atenção].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0433",
+    "text": "Ainda não sabe como [fazer um café coado] perfeito? O segredo está na [água].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0434",
+    "text": "O guia definitivo para [uma mudança de casa] sem estresse.",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0435",
+    "text": "Como [a retórica] pode te tornar um [comunicador] mais [eficaz].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0436",
+    "text": "O que [os melhores DJs] sabem sobre [construir e liberar energia].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0437",
+    "text": "Ainda não sabe como [usar o Trello] para [organizar sua vida]? Tutorial aqui.",
+    "niches": ["saas", "tech"]
+  },
+  {
+    "id": "h0438",
+    "text": "O guia definitivo para [entender o seu pet].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0439",
+    "text": "Como [a teoria das cores] afeta [suas emoções] e [decisões de compra].",
+    "niches": ["ecommerce", "fashion", "education"]
+  },
+  {
+    "id": "h0440",
+    "text": "O que [os melhores pilotos de avião] sabem sobre [checklists e segurança].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0441",
+    "text": "Ainda não sabe como [começar a investir] com [apenas R$50]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0442",
+    "text": "O guia definitivo para [o seu primeiro cruzeiro].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0443",
+    "text": "Como [a mitologia] ainda influencia [nossa cultura e linguagem].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0444",
+    "text": "O que [os melhores chefs] fazem para [extrair o máximo de sabor] dos [vegetais].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0445",
+    "text": "Ainda não sabe como [validar uma ideia de startup] sem [escrever uma linha de código]?",
+    "niches": ["saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0446",
+    "text": "O guia definitivo para [o treino de flexibilidade].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0447",
+    "text": "Como [a caligrafia chinesa] pode ensinar sobre [equilíbrio e fluxo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0448",
+    "text": "O que [os melhores vendedores de carros] sabem sobre [criar desejo].",
+    "niches": ["b2c", "ecommerce"]
+  },
+  {
+    "id": "h0449",
+    "text": "Ainda não sabe como [fazer um orçamento] para sua [viagem de sonhos]?",
+    "niches": ["travel", "finance"]
+  },
+  {
+    "id": "h0450",
+    "text": "O guia definitivo para [entender o seu ciclo menstrual].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0451",
+    "text": "O método de [número] perguntas para [desbloquear sua criatividade].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0452",
+    "text": "Ainda não sabe o que é [um NFT]? Explicado de forma simples.",
+    "niches": ["tech", "finance"]
+  },
+  {
+    "id": "h0453",
+    "text": "O guia definitivo para [a festa de Halloween] perfeita.",
+    "niches": ["food", "b2c"]
+  },
+  {
+    "id": "h0454",
+    "text": "Como [a psicologia positiva] pode [mudar sua vida] para melhor.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0455",
+    "text": "O que [os melhores tradutores] sabem sobre [o poder das palavras].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0456",
+    "text": "Ainda não sabe como [montar uma tábua de frios] impressionante?",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0457",
+    "text": "O guia definitivo para [sua primeira escalada].",
+    "niches": ["fitness", "travel"]
+  },
+  {
+    "id": "h0458",
+    "text": "Como [a arquitetura gótica] reflete [a espiritualidade] da [época].",
+    "niches": ["education", "travel"]
+  },
+  {
+    "id": "h0459",
+    "text": "O que [os melhores contadores de histórias] fazem para [nos fazer chorar].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0460",
+    "text": "Ainda não sabe como [escolher um bom azeite]? Fique de olho nisso.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0461",
+    "text": "O guia definitivo para [entender de relógios].",
+    "niches": ["fashion", "finance"]
+  },
+  {
+    "id": "h0462",
+    "text": "Como [a biotecnologia] está [curando doenças] e [mudando o futuro].",
+    "niches": ["tech", "health"]
+  },
+  {
+    "id": "h0463",
+    "text": "O que [os melhores produtores musicais] sabem sobre [criar um hit].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0464",
+    "text": "Ainda não sabe como [usar o Notion] para organizar [toda a sua vida]?",
+    "niches": ["saas", "tech"]
+  },
+  {
+    "id": "h0465",
+    "text": "O guia definitivo para [o seu primeiro triatlo].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0466",
+    "text": "Como [a filosofia existencialista] pode te ajudar a [encontrar sentido].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0467",
+    "text": "O que [os melhores marceneiros] sabem sobre [a alma da madeira].",
+    "niches": ["education"]
+  },
+{
+    "id": "h0468",
+    "text": "Ainda não sabe como [negociar o aluguel]? Você pode economizar uma boa quantia.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0469",
+    "text": "O guia definitivo para [fotografia de rua].",
+    "niches": ["education", "travel"]
+  },
+  {
+    "id": "h0470",
+    "text": "Como [a psicologia das fontes] influencia o que você pensa sobre uma [marca].",
+    "niches": ["tech", "ecommerce", "b2b", "education"]
+  },
+  {
+    "id": "h0471",
+    "text": "O que [os melhores chefs de churrasco] sabem sobre [o controle do fogo].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0472",
+    "text": "Ainda não sabe como [investir em si mesmo]? É o melhor investimento que existe.",
+    "niches": ["education", "finance", "health"]
+  },
+  {
+    "id": "h0473",
+    "text": "O guia definitivo para [a etiqueta em e-mails de trabalho].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0474",
+    "text": "Como [a observação de pássaros] pode ser uma [forma de meditação ativa].",
+    "niches": ["health", "travel", "education"]
+  },
+  {
+    "id": "h0475",
+    "text": "O que [os melhores atletas de crossfit] sabem sobre [superar limites mentais].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0476",
+    "text": "Ainda não sabe como [criar uma persona] para o seu [negócio]?",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0477",
+    "text": "O guia definitivo para [sua primeira viagem à Disney].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0478",
+    "text": "Como [a história da fotografia] mudou [a forma como vemos o mundo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0479",
+    "text": "O que [os melhores baristas] sabem sobre [a extração do espresso perfeito].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0480",
+    "text": "Ainda não sabe como [fazer um bom plano de estudos]? A organização é a chave.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0481",
+    "text": "O guia definitivo para [entender de ópera].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0482",
+    "text": "Como [o minimalismo digital] pode [aumentar seu foco] e [reduzir sua ansiedade].",
+    "niches": ["tech", "health", "saas"]
+  },
+  {
+    "id": "h0483",
+    "text": "O que [os melhores designers de interiores] sabem sobre [criar ambientes aconchegantes].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0484",
+    "text": "Ainda não sabe como [usar atalhos de teclado]? Você está perdendo horas de vida.",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0485",
+    "text": "O guia definitivo para [o seu primeiro piercing].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0486",
+    "text": "Como [a geopoética] nos convida a [ver o mundo com outros olhos].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0487",
+    "text": "O que [os melhores jogadores de basquete] sabem sobre [visão de jogo].",
+    "niches": ["fitness", "education"]
+  },
+  {
+    "id": "h0488",
+    "text": "Ainda não sabe como [calcular o seu patrimônio líquido]? É mais fácil do que parece.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0489",
+    "text": "O guia definitivo para [a ceia de Natal] perfeita.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0490",
+    "text": "Como [a permacultura] pode criar [sistemas sustentáveis] em [sua própria casa].",
+    "niches": ["real_estate", "food", "health", "education"]
+  },
+  {
+    "id": "h0491",
+    "text": "O que [os melhores dançarinos] sabem sobre [expressão corporal].",
+    "niches": ["fitness", "education"]
+  },
+  {
+    "id": "h0492",
+    "text": "Ainda não sabe como [organizar os arquivos do seu computador]? Acabe com a bagunça.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0493",
+    "text": "O guia definitivo para [sua primeira aula de surf].",
+    "niches": ["travel", "fitness"]
+  },
+  {
+    "id": "h0494",
+    "text": "Como [a história da moda] reflete [as mudanças sociais] de cada [década].",
+    "niches": ["fashion", "education"]
+  },
+  {
+    "id": "h0495",
+    "text": "O que [os melhores chefs de pizza] sabem sobre [fermentação].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0496",
+    "text": "Ainda não sabe como [criar um portfólio] que [impressiona recrutadores]?",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0497",
+    "text": "O guia definitivo para [uma viagem de carro pela costa oeste dos EUA].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0498",
+    "text": "Como [a biologia marinha] nos mostra [um universo incrível] sob as [ondas].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0499",
+    "text": "O que [os melhores animadores] sabem sobre [dar vida a personagens].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0500",
+    "text": "Ainda não sabe como [quitar suas dívidas] mais rápido? Use o método [bola de neve].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0501",
+    "text": "O guia definitivo para [um pedido de casamento] inesquecível.",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0502",
+    "text": "O que é [User Experience (UX)] e por que seu [site/app] precisa ser obcecado por isso.",
+    "niches": ["tech", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0503",
+    "text": "A forma mais rápida de aprender os [acordes básicos] no [violão].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0504",
+    "text": "O que os [grandes líderes] fazem quando [ninguém está olhando].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0505",
+    "text": "O Fim da [Dor Lombar]: [3 exercícios] simples que você pode fazer em casa.",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0506",
+    "text": "Ainda não usa [um gerenciador de senhas]? Sua vida digital está em perigo.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0507",
+    "text": "Como [viajar] com [crianças pequenas] e não enlouquecer.",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0508",
+    "text": "A psicologia por trás dos [preços terminados em ,99].",
+    "niches": ["ecommerce", "b2c", "finance", "education"]
+  },
+  {
+    "id": "h0509",
+    "text": "O guia de [moda] para o [entrevistado]: o que vestir para impressionar.",
+    "niches": ["fashion", "b2b"]
+  },
+  {
+    "id": "h0510",
+    "text": "Como [a falta de vitamina D] pode estar afetando seu [humor e energia].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0511",
+    "text": "O que [seu histórico do Google] revela sobre você (e como limpá-lo).",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0512",
+    "text": "O guia definitivo para [montar uma startup] com [pouco ou nenhum dinheiro].",
+    "niches": ["saas", "tech", "b2b", "ecommerce", "finance"]
+  },
+  {
+    "id": "h0513",
+    "text": "Como [um simples diário] pode organizar sua [mente] e acelerar suas [metas].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0514",
+    "text": "O que os [melhores e-commerces] fazem para [reduzir o abandono de carrinho].",
+    "niches": ["ecommerce"]
+  },
+  {
+    "id": "h0515",
+    "text": "Ainda sofre com [insônia]? Tente esta técnica de [respiração] hoje à noite.",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0516",
+    "text": "O guia definitivo para [o investidor] que quer viver de [dividendos].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0517",
+    "text": "Como [cozinhar] pode ser uma forma poderosa de [conectar-se com sua família].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0518",
+    "text": "O que [os monges Shaolin] sabem sobre [força e flexibilidade].",
+    "niches": ["fitness", "health", "education"]
+  },
+  {
+    "id": "h0519",
+    "text": "Ainda não sabe como [otimizar seu perfil no Instagram] para [negócios]?",
+    "niches": ["ecommerce", "b2c"]
+  },
+  {
+    "id": "h0520",
+    "text": "O guia definitivo para [sua primeira horta orgânica].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0521",
+    "text": "Como [a linguagem corporal] pode te dar uma [vantagem] em qualquer [negociação].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0522",
+    "text": "O que [os melhores CEOs] leem antes de [dormir].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0523",
+    "text": "Ainda não sabe o que é [inflação] e como ela [corrói seu dinheiro]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0524",
+    "text": "O guia definitivo para [o acampamento selvagem] com segurança.",
+    "niches": ["travel", "fitness"]
+  },
+  {
+    "id": "h0525",
+    "text": "Como [o jejum] pode [resetar] seu [metabolismo] e [melhorar sua clareza mental].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0526",
+    "text": "O que [os melhores designers de produto] sabem sobre [resolver problemas reais].",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0527",
+    "text": "Ainda não tem uma [rotina matinal]? Você está começando o dia perdendo.",
+    "niches": ["health", "fitness", "education"]
+  },
+  {
+    "id": "h0528",
+    "text": "O guia definitivo para [entender seu cachorro] (e o que ele tenta te dizer).",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0529",
+    "text": "Como [o efeito placebo] prova que [sua mente] é mais poderosa do que você pensa.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0530",
+    "text": "O que [os melhores corretores de imóveis] fazem para [vender uma casa] rápido.",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0531",
+    "text": "Ainda não sabe como [cozinhar grãos] perfeitamente? Siga estas dicas.",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0532",
+    "text": "O guia definitivo para [uma viagem econômica] pela [Patagônia].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0533",
+    "text": "Como [a arte de dar feedback] pode [transformar sua equipe].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0534",
+    "text": "O que [os melhores atletas de fisiculturismo] sabem sobre [nutrição e simetria].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0535",
+    "text": "Ainda não sabe o que é [API]? Explicado para quem não é [programador].",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0536",
+    "text": "O guia definitivo para [a festa de formatura] dos seus sonhos.",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0537",
+    "text": "Como [o design de som] em [filmes] manipula [suas emoções].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0538",
+    "text": "O que [os melhores chefs de sushi] procuram em um [peixe fresco].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0539",
+    "text": "Ainda não investe em [você mesmo]? Guia para [cursos e desenvolvimento pessoal].",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0540",
+    "text": "O guia definitivo para [a sua primeira viagem de trem pela Europa].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0541",
+    "text": "Como [a teoria da relatividade] de [Einstein] mudou o mundo (em 1 minuto).",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0542",
+    "text": "O que [os melhores copywriters] sabem sobre [escrever títulos] que as pessoas clicam.",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0543",
+    "text": "Ainda não sabe como [limpar e organizar] sua [geladeira] para [evitar desperdício]?",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0544",
+    "text": "O guia definitivo para [cuidar de cabelos cacheados].",
+    "niches": ["fashion", "health"]
+  },
+  {
+    "id": "h0545",
+    "text": "Como [a história da escrita] nos tornou quem somos.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0546",
+    "text": "O que [os melhores fotógrafos de casamento] sabem sobre [capturar emoções].",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0547",
+    "text": "Ainda não sabe como [criar um media kit] para sua [marca]?",
+    "niches": ["b2b", "ecommerce"]
+  },
+  {
+    "id": "h0548",
+    "text": "O guia definitivo para [entender de café especial].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0549",
+    "text": "Como [a química dos materiais] está criando [o futuro da tecnologia].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0550",
+    "text": "O que [os melhores gestores de tráfego] sabem sobre [leilões de anúncios].",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0551",
+    "text": "Ainda não sabe como [fazer networking] sem parecer [interessado]?",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0552",
+    "text": "O guia definitivo para [um intercâmbio] de sucesso.",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0553",
+    "text": "Como [a repetição espaçada] pode [turbinar] sua [memória].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0554",
+    "text": "O que [os melhores chefs de boulangerie] sabem sobre [a magia da farinha, água e sal].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0555",
+    "text": "Ainda não sabe como [calcular o preço] do seu [produto/serviço]?",
+    "niches": ["ecommerce", "b2b", "saas"]
+  },
+  {
+    "id": "h0556",
+    "text": "O guia definitivo para [uma road trip] pela [costa brasileira].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0557",
+    "text": "Como [a psicologia infantil] pode ajudar [pais] a lidar com [birras].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0558",
+    "text": "O que [os melhores podcasters] sabem sobre [criar uma conexão íntima] com os [ouvintes].",
+    "niches": ["b2b", "b2c", "education"]
+  },
+  {
+    "id": "h0559",
+    "text": "Ainda não sabe como [ler um rótulo nutricional] de verdade?",
+    "niches": ["health", "food", "fitness"]
+  },
+  {
+    "id": "h0560",
+    "text": "O guia definitivo para [sua primeira ultramaratona].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0561",
+    "text": "Como [os estoicos] lidavam com [a ansiedade e o medo].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0562",
+    "text": "O que [os melhores designers de logos] sabem sobre [simplicidade e memorização].",
+    "niches": ["b2b", "ecommerce"]
+  },
+  {
+    "id": "h0563",
+    "text": "Ainda não sabe como [usar o Pix] com segurança máxima?",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0564",
+    "text": "O guia definitivo para [entender de arte renascentista].",
+    "niches": ["education", "travel"]
+  },
+  {
+    "id": "h0565",
+    "text": "Como [o design biofílico] pode [melhorar seu bem-estar] em [casa/no escritório].",
+    "niches": ["real_estate", "health", "b2b"]
+  },
+  {
+    "id": "h0566",
+    "text": "O que [os melhores ilusionistas] sabem sobre [enganar a mente humana].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0567",
+    "text": "Ainda não sabe como [fazer um plano de parto]? Guia para [futuras mães].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0568",
+    "text": "O guia definitivo para [o seu primeiro safari na África].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0569",
+    "text": "Como [a história da computação] nos levou de [salas gigantes] a [aparelhos no bolso].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0570",
+    "text": "O que [os melhores autores de ficção científica] sabem sobre [imaginar o futuro].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0571",
+    "text": "Ainda não sabe como [fazer o seu próprio adubo orgânico]?",
+    "niches": ["food", "real_estate"]
+  },
+  {
+    "id": "h0572",
+    "text": "O guia definitivo para [um casamento no campo].",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0573",
+    "text": "Como [a teoria da evolução] explica [muito mais do que a biologia].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0574",
+    "text": "O que [os melhores atletas de natação] sabem sobre [hidrodinâmica e eficiência].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0575",
+    "text": "Ainda não sabe como [fazer um A/B test] para [otimizar suas conversões]?",
+    "niches": ["saas", "ecommerce"]
+  },
+  {
+    "id": "h0576",
+    "text": "O guia definitivo para [a culinária mexicana] autêntica.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0577",
+    "text": "Como [a linguística computacional] está por trás do [ChatGPT].",
+    "niches": ["tech", "saas", "education"]
+  },
+  {
+    "id": "h0578",
+    "text": "O que [os melhores terapeutas de casal] sabem sobre [comunicação e conflito].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0579",
+    "text": "Ainda não sabe como [investir em FIIs]? Renda passiva com imóveis.",
+    "niches": ["finance", "real_estate"]
+  },
+  {
+    "id": "h0580",
+    "text": "O guia definitivo para [o seu primeiro mergulho com cilindro].",
+    "niches": ["travel", "fitness"]
+  },
+  {
+    "id": "h0581",
+    "text": "Como [a história da música] pode ser contada através de [10 instrumentos].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0582",
+    "text": "O que [os melhores urbanistas] sabem sobre [criar cidades para pessoas].",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0583",
+    "text": "Ainda não sabe como [escrever uma boa bio] para o [Tinder/LinkedIn]?",
+    "niches": ["b2c", "b2b"]
+  },
+  {
+    "id": "h0584",
+    "text": "O guia definitivo para [entender de queijos].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0585",
+    "text": "Como [a psicologia forense] ajuda a [resolver crimes].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0586",
+    "text": "O que [os melhores jogadores de vôlei] sabem sobre [salto e tempo de bola].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0587",
+    "text": "Ainda não sabe como [usar o método GTD] para [zerar sua caixa de entrada]?",
+    "niches": ["saas", "b2b"]
+  },
+  {
+    "id": "h0588",
+    "text": "O guia definitivo para [sua primeira viagem à Índia].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0589",
+    "text": "Como [a história da medicina] é uma [saga de descobertas e erros].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0590",
+    "text": "O que [os melhores enólogos] sabem sobre [terroir e uvas].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0591",
+    "text": "Ainda não sabe como [fazer um pitch] que [conquista investidores]?",
+    "niches": ["saas", "tech", "finance", "b2b"]
+  },
+  {
+    "id": "h0592",
+    "text": "O guia definitivo para [o desfralde] do seu filho.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0593",
+    "text": "Como [a neuroplasticidade] prova que você pode [aprender qualquer coisa] em qualquer idade.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0594",
+    "text": "O que [os melhores designers de moda] sabem sobre [silhueta e proporção].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0595",
+    "text": "Ainda não sabe como [calcular o CAC e o LTV] da sua [empresa]?",
+    "niches": ["saas", "ecommerce", "b2b"]
+  },
+  {
+    "id": "h0596",
+    "text": "O guia definitivo para [entender a arte da cerâmica].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0597",
+    "text": "Como [a física de partículas] busca [as respostas fundamentais] do [universo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0598",
+    "text": "O que [os melhores atletas de escalada] sabem sobre [força nos dedos e resolução de problemas].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0599",
+    "text": "Ainda não sabe como [fazer a gestão de crise] da sua [marca] nas redes sociais?",
+    "niches": ["b2b", "ecommerce"]
+  },
+  {
+    "id": "h0600",
+    "text": "O guia definitivo para [o seu primeiro mochilão solo].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0601",
+    "text": "Como [aprender a dizer não] pode te deixar mais [produtivo e feliz].",
+    "niches": ["health", "b2b", "education"]
+  },
+  {
+    "id": "h0602",
+    "text": "O que os [melhores chefs de padaria] sabem sobre [a umidade do ar].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0603",
+    "text": "Ainda não sabe como [fazer marketing de afiliados]? Uma fonte de [renda passiva].",
+    "niches": ["finance", "ecommerce"]
+  },
+  {
+    "id": "h0604",
+    "text": "O guia definitivo para [a sua primeira aula de artes marciais].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0605",
+    "text": "Como [a psicologia reversa] funciona na [educação dos filhos] e no [marketing].",
+    "niches": ["education", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0606",
+    "text": "O que [os melhores marinheiros] sabem sobre [ler o vento e as marés].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0607",
+    "text": "Ainda não sabe como [fazer uma análise SWOT] do seu [negócio]?",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0608",
+    "text": "O guia definitivo para [entender de charutos].",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0609",
+    "text": "Como [o ciclo circadiano] governa [seu sono, fome e energia].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0610",
+    "text": "O que [os melhores diretores de fotografia] sabem sobre [contar uma história com a luz].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0611",
+    "text": "Ainda não sabe como [fazer o seu próprio gin tônica] perfeito?",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0612",
+    "text": "O guia definitivo para [uma viagem de baixo custo] pela [Escandinávia].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0613",
+    "text": "Como [a teoria do caos] explica [sistemas complexos] como [o clima e o mercado de ações].",
+    "niches": ["finance", "education"]
+  },
+  {
+    "id": "h0614",
+    "text": "O que [os melhores jogadores de tênis] sabem sobre [antecipação e geometria].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0615",
+    "text": "Ainda não sabe como [ter mais disciplina]? O segredo não é a [motivação].",
+    "niches": ["health", "fitness", "education"]
+  },
+  {
+    "id": "h0616",
+    "text": "O guia definitivo para [o Ano Novo] em [Copacabana].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0617",
+    "text": "Como [a arquitetura brutalista] reflete [uma utopia social].",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0618",
+    "text": "O que [os melhores roteiristas de comédia] sabem sobre [a estrutura de uma piada].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0619",
+    "text": "Ainda não sabe como [fazer seu dinheiro render] mais que a [poupança]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0620",
+    "text": "O guia definitivo para [entender seu gato].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0621",
+    "text": "[Número] Tendências de [Moda/Tecnologia] para Ficar de Olho em [Ano].",
+    "niches": ["fashion", "tech", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0622",
+    "text": "O Guia do [Pai/Mãe] de Primeira Viagem para [Sobreviver ao Primeiro Ano].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0623",
+    "text": "Como a [Sua Postura] Afeta Sua [Confiança] e [Saúde].",
+    "niches": ["health", "fitness", "b2b"]
+  },
+  {
+    "id": "h0624",
+    "text": "O Fim da Planilha de [Controle Financeiro]: Conheça o [App/Método].",
+    "niches": ["finance", "saas", "tech"]
+  },
+  {
+    "id": "h0625",
+    "text": "Por que [Pessoas Inteligentes] Tomam [Decisões Estúpidas] (e como evitar).",
+    "niches": ["education", "finance", "health"]
+  },
+  {
+    "id": "h0626",
+    "text": "O [Destino de Viagem] Perfeito para Cada [Signo do Zodíaco].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0627",
+    "text": "Ainda Não Conhece o [Ingrediente da Moda]? Ele Pode [Transformar Sua Pele].",
+    "niches": ["fashion", "health", "food"]
+  },
+  {
+    "id": "h0628",
+    "text": "O Guia Completo para [Fotografar a Lua] com [Qualquer Câmera].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0629",
+    "text": "Como [um hobby] pode se transformar em sua [principal fonte de renda].",
+    "niches": ["finance", "ecommerce", "education"]
+  },
+  {
+    "id": "h0630",
+    "text": "O Erro que [99% dos Alunos] Comete ao [Estudar para Provas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0631",
+    "text": "Aviso aos [Donos de Pequenos Negócios]: A [Nova Lei] Pode Afetar Você.",
+    "niches": ["b2b", "ecommerce", "finance"]
+  },
+  {
+    "id": "h0632",
+    "text": "Como o [Algoritmo do Instagram] Realmente Funciona (e como usá-lo a seu favor).",
+    "niches": ["ecommerce", "b2c"]
+  },
+  {
+    "id": "h0633",
+    "text": "O Guia Definitivo de [Sobrevivência] para [Festivais de Música].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0634",
+    "text": "Ainda Acha que [Carboidratos] Engordam? A Ciência Discorda.",
+    "niches": ["health", "fitness", "food"]
+  },
+  {
+    "id": "h0635",
+    "text": "Como [Construir um Robô] em Casa: Um Guia para [Iniciantes].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0636",
+    "text": "O Segredo dos [Poliglotas] para [Aprender um Idioma] em [Meses], Não Anos.",
+    "niches": ["education", "travel"]
+  },
+  {
+    "id": "h0637",
+    "text": "O Guia de [Estilo] para [Baixinhas/Altas].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0638",
+    "text": "Como [a Falta de Magnésio] Pode Ser a Causa da Sua [Ansiedade].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0639",
+    "text": "O Que os [Antigos Romanos] Podem Nos Ensinar sobre [Engenharia e Urbanismo].",
+    "niches": ["education", "real_estate", "travel"]
+  },
+  {
+    "id": "h0640",
+    "text": "Ainda Não Sabe [a Diferença entre UX e UI]? Não Passe Mais Vergonha.",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0641",
+    "text": "O Guia Completo para [a Comida de Rua] de [Bangkok/Cidade do México].",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0642",
+    "text": "Como [Vender Seu Imóvel] Pelo [Melhor Preço] e no [Menor Tempo].",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0643",
+    "text": "O Erro de [Iniciante] que Está [Matando Suas Plantas].",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0644",
+    "text": "Aviso: Sua [Senha] Pode Ter Sido [Vazada]. Veja o Que Fazer.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0645",
+    "text": "Como [o Sol] Afeta [Seu Cérebro] (Além da Vitamina D).",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0646",
+    "text": "O Guia do [Freelancer] para [Conseguir Mais Clientes] e [Cobrar Mais Caro].",
+    "niches": ["b2b", "finance", "education"]
+  },
+  {
+    "id": "h0647",
+    "text": "Ainda Acha que [Meditar] é [Ficar Parado Sem Pensar em Nada]?",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0648",
+    "text": "Como [o Efeito Dunning-Kruger] Explica por que [Incompetentes] se Acham [Gênios].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0649",
+    "text": "O Guia Definitivo para [a Culinária de Boteco] em Casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0650",
+    "text": "Por que [Fracassar] Pode Ser a Melhor Coisa que Acontece com Sua [Carreira].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0651",
+    "text": "Ainda Não Sabe [Qual o Seu Propósito]? Faça estas [5 Perguntas].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0652",
+    "text": "O Guia Completo para [a Manutenção da Sua Bicicleta].",
+    "niches": ["fitness", "b2c"]
+  },
+  {
+    "id": "h0653",
+    "text": "Como [a Teoria das Restrições] Pode [Destravar o Crescimento] da Sua [Empresa].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0654",
+    "text": "O Segredo dos [Supermercados] para Fazer Você [Gastar Mais].",
+    "niches": ["finance", "ecommerce", "food"]
+  },
+  {
+    "id": "h0655",
+    "text": "Aviso aos [Viajantes]: Não Entre [no País] Sem Este [Documento].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0656",
+    "text": "Como [o Silêncio] Pode Ser a Ferramenta Mais Poderosa em uma [Negociação].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0657",
+    "text": "O Guia de [Estilo] para [Construir um Guarda-Roupa] Cápsula.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0658",
+    "text": "Ainda Acha que [Seguro de Vida] é Só para [Pessoas Mais Velhas]? Pense de Novo.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0659",
+    "text": "Como [as Grandes Catedrais] Foram Construídas Sem [Tecnologia Moderna].",
+    "niches": ["education", "travel", "real_estate"]
+  },
+  {
+    "id": "h0660",
+    "text": "O Guia Definitivo para [Entender de Criptomoedas] de Uma Vez por Todas.",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0661",
+    "text": "Por que [se Comparar com os Outros] é a Forma Mais Rápida de Ser [Infeliz].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0662",
+    "text": "Ainda Não Sabe [o que é um Mínimo Produto Viável (MVP)]? Sua [Startup] Corre Perigo.",
+    "niches": ["saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0663",
+    "text": "O Guia Completo para [Degustação de Azeites].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0664",
+    "text": "Como [o Efeito de Rede] Fez com que [Facebook/Uber] Dominassem o Mundo.",
+    "niches": ["tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0665",
+    "text": "O Segredo dos [Melhores Vendedores] para [Ouvir Mais] e [Falar Menos].",
+    "niches": ["b2b", "ecommerce", "real_estate"]
+  },
+  {
+    "id": "h0666",
+    "text": "Aviso aos [Pais]: O [Novo Jogo/App] que Seus Filhos Estão Usando.",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0667",
+    "text": "Como [a Indústria da Moda Rápida] Está [Impactando o Planeta].",
+    "niches": ["fashion", "health"]
+  },
+  {
+    "id": "h0668",
+    "text": "O Guia de [Fitness] para Quem [Odeia Academia].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0669",
+    "text": "Ainda Acha que [o Cliente Tem Sempre Razão]? Talvez Não.",
+    "niches": ["b2b", "ecommerce"]
+  },
+  {
+    "id": "h0670",
+    "text": "Como [a Desidratação] Afeta [Sua Performance] (Muito Mais do que Você Pensa).",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0671",
+    "text": "O Guia Definitivo para [Comprar Roupas] em [Brechós de Luxo].",
+    "niches": ["fashion", "ecommerce"]
+  },
+  {
+    "id": "h0672",
+    "text": "Por que [Ter um Mentor] Pode [Acelerar Sua Carreira] em [Anos].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0673",
+    "text": "Ainda Não Sabe [a Diferença entre Preço e Valor]? Seu [Negócio] Pode Quebrar por Causa Disso.",
+    "niches": ["finance", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0674",
+    "text": "O Guia Completo de [Vinhos Brancos] para [Dias Quentes].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0675",
+    "text": "Como [a Imprensa de Gutenberg] Criou o Mundo Moderno.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0676",
+    "text": "O Segredo dos [Melhores Oradores] para [Conquistar a Plateia] no [Primeiro Minuto].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0677",
+    "text": "Aviso aos [Investidores]: Não Caia na [Armadilha da Rentabilidade Passada].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0678",
+    "text": "Como [um Banho Frio] Pode [Melhorar Sua Imunidade] e [Foco].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0679",
+    "text": "O Guia de [Viagem] para [Explorar o Seu Próprio Bairro] como um [Turista].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0680",
+    "text": "Ainda Acha que [Criatividade] é um [Dom]? A Ciência Prova que é uma [Habilidade].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0681",
+    "text": "Como [o Princípio de Pareto (80/20)] Pode Ser Aplicado em [Sua Dieta/Seus Investimentos/Seu Negócio].",
+    "niches": ["health", "fitness", "finance", "b2b", "saas"]
+  },
+  {
+    "id": "h0682",
+    "text": "O Guia Definitivo para [Entender de Chá].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0683",
+    "text": "Por que [a Gratidão] é a Habilidade Mais Subestimada para o [Sucesso].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0684",
+    "text": "Ainda Não Sabe [o que é Open Banking]? O Futuro das [Suas Finanças] é Este.",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0685",
+    "text": "O Guia Completo para [Fazer Conservas] em Casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0686",
+    "text": "Como [a Arquitetura Hostil] é Usada nas [Cidades] para [Controlar Comportamentos].",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0687",
+    "text": "O Segredo dos [Melhores Professores] para [Simplificar Tópicos Complexos].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0688",
+    "text": "Aviso aos [Donos de E-commerce]: O [Google] Mudou o [Algoritmo] de Novo.",
+    "niches": ["ecommerce", "tech"]
+  },
+  {
+    "id": "h0689",
+    "text": "Como [o Tédio] Pode Ser um [Catalisador] para a [Criatividade].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0690",
+    "text": "O Guia de [Decoração] para [Deixar Sua Casa] com [Cara de Capa de Revista].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0691",
+    "text": "Ainda Acha que [Falar Sozinho] é Coisa de [Louco]? Pode Ser um Sinal de [Inteligência].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0692",
+    "text": "Como [a Análise Preditiva] Está [Moldando o Futuro] do [Varejo].",
+    "niches": ["ecommerce", "saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0693",
+    "text": "O Guia Definitivo para [Entender a Sua Conta de Luz].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0694",
+    "text": "Por que [Adiar Decisões] é a Pior Decisão de Todas.",
+    "niches": ["finance", "health", "b2b"]
+  },
+  {
+    "id": "h0695",
+    "text": "Ainda Não Sabe [o que é um BDR]? Invista nas [Maiores Empresas do Mundo] sem Sair do [Brasil].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0696",
+    "text": "O Guia Completo para [o Jantar Romântico] Perfeito em Casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0697",
+    "text": "Como [a Descoberta do Fogo] Foi o [Software Update] Mais Importante da [Humanidade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0698",
+    "text": "O Segredo dos [Melhores Músicos] para [Praticar Deliberadamente].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0699",
+    "text": "Aviso: [Sua Postura Sentado] Pode Estar [Destruindo Sua Coluna].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0700",
+    "text": "Como [a Curiosidade] é Mais Importante que a [Inteligência].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0701",
+    "text": "O Guia de [Viagem] para [Ver a Aurora Boreal] com [Orçamento Limitado].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0702",
+    "text": "Ainda Acha que [Musculação] Deixa as [Mulheres] com [Aparência Masculina]?",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0703",
+    "text": "Como [o Conceito de Antifragilidade] Pode [Fortalecer] Seus [Investimentos/Sua Vida].",
+    "niches": ["finance", "health", "education"]
+  },
+  {
+    "id": "h0704",
+    "text": "O Guia Definitivo para [a Cozinha Vegetariana] Cheia de Sabor.",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0705",
+    "text": "Por que [Pessoas que Leem Ficção] São [Mais Empáticas].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0706",
+    "text": "Ainda Não Sabe [o que é Phishing]? Você Pode Ser a Próxima Vítima.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0707",
+    "text": "O Guia Completo para [Lidar com Clientes Difíceis].",
+    "niches": ["b2b", "ecommerce", "b2c"]
+  },
+  {
+    "id": "h0708",
+    "text": "Como [o Cérebro] Toma [Decisões] (e como podemos influenciá-lo).",
+    "niches": ["b2b", "ecommerce", "education"]
+  },
+  {
+    "id": "h0709",
+    "text": "O Segredo dos [Melhores Atendentes] para [Transformar uma Reclamação] em [Fidelidade].",
+    "niches": ["b2c", "ecommerce"]
+  },
+  {
+    "id": "h0710",
+    "text": "Aviso aos [Freelancers]: Cuidado com a [Síndrome de Burnout].",
+    "niches": ["b2b", "health"]
+  },
+  {
+    "id": "h0711",
+    "text": "Como [o Cheiro de Pão Quente] nos [Faz Sentir em Casa].",
+    "niches": ["food", "real_estate"]
+  },
+  {
+    "id": "h0712",
+    "text": "O Guia de [Estilo] para [Parecer Mais Alto/Alta].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0713",
+    "text": "Ainda Acha que [Só se Vive Uma Vez] (YOLO)? Os [Filósofos] Discordam.",
+    "niches": ["education", "finance", "health"]
+  },
+  {
+    "id": "h0714",
+    "text": "Como [um Orçamento] Pode Te Dar [Mais Liberdade], Não Menos.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0715",
+    "text": "O Guia Definitivo para [a Manutenção do Ar Condicionado].",
+    "niches": ["b2c", "real_estate"]
+  },
+  {
+    "id": "h0716",
+    "text": "Por que [Comer em Família] é Tão Importante para o [Desenvolvimento Infantil].",
+    "niches": ["health", "food", "education"]
+  },
+  {
+    "id": "h0717",
+    "text": "Ainda Não Sabe [o que é a Taxa Selic]? Ela Afeta [Sua Vida] Todos os Dias.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0718",
+    "text": "O Guia Completo para [a Sua Primeira Habilitação].",
+    "niches": ["b2c", "education"]
+  },
+  {
+    "id": "h0719",
+    "text": "Como [a Revolução Industrial] Criou o [Mundo em que Vivemos].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0720",
+    "text": "O Segredo dos [Melhores Redatores] para [Vencer o Bloqueio Criativo].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0721",
+    "text": "Aviso aos [Usuários de Android/iOS]: [Atualize Seu Sistema] Agora.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0722",
+    "text": "Como [o Contato com a Natureza] Pode [Reduzir Seus Níveis de Cortisol].",
+    "niches": ["health", "travel"]
+  },
+  {
+    "id": "h0723",
+    "text": "O Guia de [Sobremesas] para [Quem Não Tem Habilidade] na [Cozinha].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0724",
+    "text": "Ainda Acha que [Aprender a Programar] é [Difícil Demais]? Mude de Ideia.",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0725",
+    "text": "Como [o Efeito IKEA] nos Faz [Valorizar Mais] o que [Nós Mesmos Construímos].",
+    "niches": ["ecommerce", "education"]
+  },
+  {
+    "id": "h0726",
+    "text": "O Guia Definitivo para [Escolher um Vinho] no [Supermercado] sem Errar.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0727",
+    "text": "Por que [Pessoas que Viajam Sozinhas] São [Mais Confiantes e Independentes].",
+    "niches": ["travel", "health"]
+  },
+  {
+    "id": "h0728",
+    "text": "Ainda Não Sabe [o que faz um Product Manager]? A [Profissão do Futuro].",
+    "niches": ["tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0729",
+    "text": "O Guia Completo para [o Treino HIIT] (e por que ele queima tanta gordura).",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0730",
+    "text": "Como [a Descoberta da Penicilina] Mudou a [História da Humanidade].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0731",
+    "text": "O Segredo dos [Melhores Entrevistadores] para [Fazer as Pessoas se Abrirem].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0732",
+    "text": "Aviso aos [Consumidores]: Cuidado com a [Técnica de 'Isca e Troca'].",
+    "niches": ["ecommerce", "finance"]
+  },
+  {
+    "id": "h0733",
+    "text": "Como [o seu Microbioma Intestinal] Governa [Sua Saúde e Humor].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0734",
+    "text": "O Guia de [Etiqueta] para [Videoconferências].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0735",
+    "text": "Ainda Acha que [Felicidade] é [Ter Tudo o que Quer]? A [Ciência] Mostra o Contrário.",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0736",
+    "text": "Como [o Conceito de 'Jobs to be Done'] Pode [Revolucionar] seu [Marketing].",
+    "niches": ["saas", "b2b", "ecommerce"]
+  },
+  {
+    "id": "h0737",
+    "text": "O Guia Definitivo para [o Acabamento Perfeito] na [Pintura de Paredes].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0738",
+    "text": "Por que [Ter um Animal de Estimação] Pode [Aumentar sua Expectativa de Vida].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0739",
+    "text": "Ainda Não Sabe [a Diferença entre Renda Fixa e Renda Variável]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0740",
+    "text": "O Guia Completo para [Sua Primeira Tatuagem] (e como não se arrepender).",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0741",
+    "text": "Como [a Queda do Império Romano] nos Ensina sobre [Sistemas Complexos].",
+    "niches": ["education", "finance"]
+  },
+  {
+    "id": "h0742",
+    "text": "O Segredo dos [Melhores Barbeiros] para [um Barbear Perfeito].",
+    "niches": ["b2c", "fashion"]
+  },
+  {
+    "id": "h0743",
+    "text": "Aviso: A [Luz Azul] das [Telas] Pode Estar [Sabotando Seu Sono].",
+    "niches": ["tech", "health"]
+  },
+  {
+    "id": "h0744",
+    "text": "Como [o Voluntariado] Pode [Beneficiar Sua Carreira] e [Sua Saúde Mental].",
+    "niches": ["b2b", "health", "education"]
+  },
+  {
+    "id": "h0745",
+    "text": "O Guia de [Presentes] para [Aquele Amigo] que [Já Tem de Tudo].",
+    "niches": ["ecommerce"]
+  },
+  {
+    "id": "h0746",
+    "text": "Ainda Acha que [Networking] é [Trocar Cartões de Visita]? Você Está Fazendo Errado.",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0747",
+    "text": "Como [o Viés de Confirmação] nos Impede de [Ver a Verdade].",
+    "niches": ["education", "finance", "health"]
+  },
+  {
+    "id": "h0748",
+    "text": "O Guia Definitivo para [o Café da Manhã] Perfeito (e saudável).",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0749",
+    "text": "Por que [Escrever à Mão] Pode [Melhorar Sua Memória] e [Aprendizado].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0750",
+    "text": "Ainda Não Sabe [o que é um 'Lead']? Guia Básico de [Marketing Digital].",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0751",
+    "text": "O Guia Completo para [Montar uma Adega] em Casa.",
+    "niches": ["food", "real_estate"]
+  },
+  {
+    "id": "h0752",
+    "text": "Como [a Corrida Espacial] Acelerou o [Desenvolvimento Tecnológico].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0753",
+    "text": "O Segredo dos [Melhores Negociadores] para [Nunca Fazer a Primeira Oferta].",
+    "niches": ["b2b", "finance", "real_estate"]
+  },
+  {
+    "id": "h0754",
+    "text": "Aviso aos [Gerentes]: A [Microgestão] Está [Matando a Produtividade] da Sua [Equipe].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0755",
+    "text": "Como [o Cheiro de Grama Cortada] nos [Traz Memórias] (A Ciência por Trás Disso).",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0756",
+    "text": "O Guia de [Estilo] para [Homens que Querem se Vestir Melhor] sem Esforço.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0757",
+    "text": "Ainda Acha que [o Mercado de Ações] é um [Cassino]? Entenda a Diferença.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0758",
+    "text": "Como [o Conceito de 'Flow'] Pode [Desbloquear Sua Performance Máxima].",
+    "niches": ["health", "fitness", "b2b", "education"]
+  },
+  {
+    "id": "h0759",
+    "text": "O Guia Definitivo para [o Molho Pesto] Perfeito.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0760",
+    "text": "Por que [Pessoas Bilingues] Têm [Cérebros Mais Saudáveis].",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0761",
+    "text": "Ainda Não Sabe [o que é Computação em Nuvem]? Vamos Simplificar.",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0762",
+    "text": "O Guia Completo para [uma Viagem de Fim de Semana] Perfeita.",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0763",
+    "text": "Como [a Invenção do Arado] Mudou a [Sociedade Humana] Para Sempre.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0764",
+    "text": "O Segredo dos [Melhores Storytellers] para [Criar Tensão e Suspense].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0765",
+    "text": "Aviso: Aquele [Desconto] Pode Ser uma [Armadilha] (A Psicologia das Promoções).",
+    "niches": ["ecommerce", "finance"]
+  },
+  {
+    "id": "h0766",
+    "text": "Como [Abraçar Alguém] Libera [Ocitocina] e [Reduz o Estresse].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0767",
+    "text": "O Guia de [Presentes] de [Aniversário] para [Cada Tipo de Personalidade].",
+    "niches": ["ecommerce", "b2c"]
+  },
+  {
+    "id": "h0768",
+    "text": "Ainda Acha que [Talento] é Mais Importante que [Esforço]? Os [Estudos] Dizem o Contrário.",
+    "niches": ["education", "fitness", "b2b"]
+  },
+  {
+    "id": "h0769",
+    "text": "Como [o 'Efeito de Ancoragem'] Influencia [Quanto Você Paga] por [Tudo].",
+    "niches": ["finance", "ecommerce"]
+  },
+  {
+    "id": "h0770",
+    "text": "O Guia Definitivo para [Cuidar da Sua Barba].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0771",
+    "text": "Por que [Caminhar na Natureza] é Tão Eficaz Contra a [Depressão].",
+    "niches": ["health", "fitness", "travel"]
+  },
+  {
+    "id": "h0772",
+    "text": "Ainda Não Sabe [o que é um 'Cookie' de Internet]? Proteja Sua [Privacidade].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0773",
+    "text": "O Guia Completo para [o Jantar de Ação de Graças].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0774",
+    "text": "Como [a Descoberta do DNA] Revolucionou a [Medicina e a Ciência].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0775",
+    "text": "O Segredo dos [Melhores Compositores] para [Criar Melodias] que [Ficam na Cabeça].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0776",
+    "text": "Aviso aos [Pais]: Seus [Filhos] Podem Estar [Expostos a Riscos] Nestes [Apps].",
+    "niches": ["tech", "health"]
+  },
+  {
+    "id": "h0777",
+    "text": "Como [Aprender a Dançar] Pode [Melhorar Sua Coordenação] e [Confiança].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0778",
+    "text": "O Guia de [Sapatos] para [Cada Ocasião].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0779",
+    "text": "Ainda Acha que [o Cérebro] Tem um [Lado Criativo] e um [Lado Lógico]? Isso é um Mito.",
+    "niches": ["education", "health"]
+  },
+  {
+    "id": "h0780",
+    "text": "Como [o Viés da Negatividade] nos Faz [Focar nos Problemas] e [Ignorar as Coisas Boas].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0781",
+    "text": "O Guia Definitivo para [o Risoto] Perfeito.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0782",
+    "text": "Por que [Pessoas que Têm um Cachorro] Tendem a Ser [Mais Ativas].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0783",
+    "text": "Ainda Não Sabe [como o 5G vai mudar o mundo]? Prepare-se.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0784",
+    "text": "O Guia Completo para [uma Viagem de Carro] pela [Serra Gaúcha].",
+    "niches": ["travel", "food"]
+  },
+  {
+    "id": "h0785",
+    "text": "Como [a Invenção da Escrita] Permitiu que [o Conhecimento] Viajasse pelo [Tempo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0786",
+    "text": "O Segredo dos [Melhores Atletas Mentais] para [Memorizar de Tudo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0787",
+    "text": "Aviso aos [Trabalhadores Remotos]: Não Caia na [Armadilha da Solidão].",
+    "niches": ["b2b", "health"]
+  },
+  {
+    "id": "h0788",
+    "text": "Como [Rir] Pode [Fortalecer Seu Sistema Imunológico].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0789",
+    "text": "O Guia de [Acessórios] que [Elevam Qualquer Look].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0790",
+    "text": "Ainda Acha que [Você Precisa de Dinheiro] para [Ganhar Dinheiro]? Errado.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0791",
+    "text": "Como [a 'Falácia do Custo Irrecuperável'] te Mantém [Preso a Decisões Ruins].",
+    "niches": ["finance", "b2b", "education"]
+  },
+  {
+    "id": "h0792",
+    "text": "O Guia Definitivo para [Entender de Arte Abstrata].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0793",
+    "text": "Por que [Aprender a Cozinhar] é a [Habilidade de Vida] Mais Importante de Todas.",
+    "niches": ["food", "health", "finance", "education"]
+  },
+  {
+    "id": "h0794",
+    "text": "Ainda Não Sabe [como o seu cartão de crédito acumula pontos]? Você está perdendo viagens.",
+    "niches": ["finance", "travel"]
+  },
+  {
+    "id": "h0795",
+    "text": "O Guia Completo para [a Sua Primeira Escalada em Rocha].",
+    "niches": ["fitness", "travel"]
+  },
+  {
+    "id": "h0796",
+    "text": "Como [a Invenção do Telescópio] [Expandiu Nosso Universo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0797",
+    "text": "O Segredo dos [Melhores Terapeutas] para [Construir Confiança].",
+    "niches": ["health", "b2b"]
+  },
+  {
+    "id": "h0798",
+    "text": "Aviso: Aquele [Alimento 'Saudável'] Pode Estar [Cheio de Açúcar].",
+    "niches": ["health", "food"]
+  },
+  {
+    "id": "h0799",
+    "text": "Como [Ouvir Audiolivros] Pode [Otimizar Seu Tempo] no [Trânsito].",
+    "niches": ["education", "b2c"]
+  },
+  {
+    "id": "h0800",
+    "text": "O Guia de [Plantas] para [Apartamentos com Pouca Luz].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0801",
+    "text": "Ainda Acha que [o Email Marketing Morreu]? Os [Dados] Mostram o Contrário.",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0802",
+    "text": "Como [a Prova Social] Influencia [95%] das [Suas Decisões de Compra].",
+    "niches": ["ecommerce", "b2c"]
+  },
+  {
+    "id": "h0803",
+    "text": "O Guia Definitivo para [Fazer o Café Gelado] Perfeito.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0804",
+    "text": "Por que [Pessoas que Escrevem Metas] Têm [Mais Chances] de [Alcançá-las].",
+    "niches": ["education", "b2b", "fitness", "finance"]
+  },
+  {
+    "id": "h0805",
+    "text": "Ainda Não Sabe [o que é um CRM]? Sua [Equipe de Vendas] Precisa de Um.",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0806",
+    "text": "O Guia Completo para [uma Viagem de Fim de Semana] em [Campos do Jordão].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0807",
+    "text": "Como [a Descoberta da Agricultura] Criou a [Civilização].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0808",
+    "text": "O Segredo dos [Melhores Atores] para [Memorizar Textos Longos].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0809",
+    "text": "Aviso aos [Gerentes de Projeto]: Cuidado com o ['Scope Creep'].",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0810",
+    "text": "Como [Cantar no Chuveiro] Pode [Reduzir Sua Pressão Arterial].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0811",
+    "text": "O Guia de [Estilo] para [Combinar Estampas] sem Medo.",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0812",
+    "text": "Ainda Acha que [Diversificar Investimentos] é [Complicado]? Não é.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0813",
+    "text": "Como [o 'Paradoxo da Escolha'] nos Deixa [Paralisados] e [Menos Felizes].",
+    "niches": ["ecommerce", "health", "education"]
+  },
+  {
+    "id": "h0814",
+    "text": "O Guia Definitivo para [o Bife] Perfeito.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0815",
+    "text": "Por que [Ter um Hobby] é Essencial para [Sua Saúde Mental].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0816",
+    "text": "Ainda Não Sabe [o que é SEO]? É por isso que [Ninguém Encontra Seu Site].",
+    "niches": ["tech", "ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0817",
+    "text": "O Guia Completo para [Sua Primeira Viagem à Tailândia].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0818",
+    "text": "Como [a Invenção do Relógio] Mudou [Nossa Percepção do Tempo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0819",
+    "text": "O Segredo dos [Melhores Políticos] para [Usar a Retórica] e [Persuadir].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0820",
+    "text": "Aviso: Aquele [Wi-Fi Público] Pode Ser uma [Porta de Entrada para Hackers].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0821",
+    "text": "Como [Aprender a Desenhar] Pode [Melhorar Sua Observação] e [Criatividade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0822",
+    "text": "O Guia de [Sobrevivência] para [o Primeiro Ano de Casamento].",
+    "niches": ["b2c"]
+  },
+  {
+    "id": "h0823",
+    "text": "Ainda Acha que [o Sucesso] Acontece [da Noite para o Dia]? A História de [Pessoa Famosa].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0824",
+    "text": "Como [o 'Efeito Halo'] Faz com que [Pessoas Bonitas] Pareçam [Mais Inteligentes].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0825",
+    "text": "O Guia Definitivo para [Fazer Massa Fresca] em Casa.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0826",
+    "text": "Por que [os Melhores Programadores] São [Preguiçosos] (no bom sentido).",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0827",
+    "text": "Ainda Não Sabe [a Diferença entre um ETF e um Fundo Mútuo]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0828",
+    "text": "O Guia Completo para [a Sua Primeira Corrida de Montanha].",
+    "niches": ["fitness", "travel"]
+  },
+  {
+    "id": "h0829",
+    "text": "Como [a Invenção da Fotografia] Mudou [a Arte e a Memória].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0830",
+    "text": "O Segredo dos [Melhores Chefs] para [Equilibrar Sabores] (Doce, Salgado, Ácido, Amargo).",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0831",
+    "text": "Aviso aos [Pais]: Cuidado com o [Excesso de Tempo de Tela] dos Seus Filhos.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0832",
+    "text": "Como [o Contato Visual] Pode [Aumentar a Confiança] Instantaneamente.",
+    "niches": ["b2b", "b2c"]
+  },
+  {
+    "id": "h0833",
+    "text": "O Guia de [Combinações] de [Roupas] que [Sempre Funcionam].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0834",
+    "text": "Ainda Acha que [Falar sobre Dinheiro] é [Tabu]? Quebre essa Barreira.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0835",
+    "text": "Como [o Viés de Sobrevivência] nos Leva a [Tirar Conclusões Erradas].",
+    "niches": ["finance", "b2b", "education"]
+  },
+  {
+    "id": "h0836",
+    "text": "O Guia Definitivo para [Entender a Bolsa de Valores] de uma vez por todas.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0837",
+    "text": "Por que [Passar Tempo Sozinho] é Crucial para [Sua Saúde Mental].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0838",
+    "text": "Ainda Não Sabe [o que é Inbound Marketing]? Seu [Concorrente] Sabe.",
+    "niches": ["b2b", "saas"]
+  },
+  {
+    "id": "h0839",
+    "text": "O Guia Completo para [a Sua Primeira Aula de Spinning].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0840",
+    "text": "Como [a Invenção do Concreto] Permitiu que os [Romanos] Construíssem [Impérios].",
+    "niches": ["real_estate", "education"]
+  },
+  {
+    "id": "h0841",
+    "text": "O Segredo dos [Melhores Mágicos] para [Criar uma Ilusão Perfeita].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0842",
+    "text": "Aviso: Aquele [Suco de Caixinha] Pode Ter [Mais Açúcar] que um [Refrigerante].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0843",
+    "text": "Como [Dançar] Pode [Proteger Seu Cérebro] do [Envelhecimento].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0844",
+    "text": "O Guia de [Maquiagem] para [o Dia a Dia] em [5 Minutos].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0845",
+    "text": "Ainda Acha que [Precisa de um Diploma] para [Ter Sucesso]? A História de [Gênio sem Diploma].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0846",
+    "text": "Como [o 'Efeito Manada'] Influencia Suas [Decisões de Investimento].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0847",
+    "text": "O Guia Definitivo para [Fazer Compras] em um [Mercado de Pulgas].",
+    "niches": ["travel", "ecommerce", "fashion"]
+  },
+  {
+    "id": "h0848",
+    "text": "Por que [Pessoas Otimistas] Vivem [Mais e Melhor].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0849",
+    "text": "Ainda Não Sabe [como funciona um Leilão de Imóveis]? Oportunidades Escondidas.",
+    "niches": ["real_estate", "finance"]
+  },
+  {
+    "id": "h0850",
+    "text": "O Guia Completo para [o Vinho do Porto].",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0851",
+    "text": "O que [os melhores diretores de RH] buscam em uma [entrevista de emprego].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0852",
+    "text": "A forma mais simples de [entender a inflação] e se [proteger] dela.",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0853",
+    "text": "Como [um bom café da manhã] pode [definir o sucesso] do seu dia.",
+    "niches": ["health", "food", "fitness"]
+  },
+  {
+    "id": "h0854",
+    "text": "O guia para [comprar online] com [segurança] e [economia].",
+    "niches": ["ecommerce", "tech", "finance"]
+  },
+  {
+    "id": "h0855",
+    "text": "Ainda não tem um [hobby criativo]? Veja por que você deveria.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0856",
+    "text": "O que [o seu jeito de andar] diz sobre sua [personalidade].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0857",
+    "text": "Aviso: Pare de usar [jargões corporativos] se você quer ser [entendido].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0858",
+    "text": "Como [a arquitetura] de um [escritório] pode [aumentar ou diminuir] a [produtividade].",
+    "niches": ["b2b", "real_estate"]
+  },
+  {
+    "id": "h0859",
+    "text": "O guia completo de [atalhos] para [Windows/Mac] que você vai usar todos os dias.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0860",
+    "text": "Por que [cozinhar em panelas de ferro] faz bem para sua [comida] e sua [saúde].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0861",
+    "text": "Ainda não sabe [o poder do 'não']? Uma lição sobre [foco e limites].",
+    "niches": ["b2b", "health"]
+  },
+  {
+    "id": "h0862",
+    "text": "O guia para [escolher o melhor travesseiro] para uma [noite de sono] perfeita.",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0863",
+    "text": "Como [a simetria] afeta nossa [percepção de beleza].",
+    "niches": ["fashion", "real_estate", "education"]
+  },
+  {
+    "id": "h0864",
+    "text": "O que [os melhores atletas de endurance] pensam durante uma [prova].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0865",
+    "text": "O fim do [cartão de crédito físico]? Entenda a [tecnologia NFC].",
+    "niches": ["tech", "finance"]
+  },
+  {
+    "id": "h0866",
+    "text": "Como [uma caminhada de 20 minutos] após o [jantar] pode [transformar sua digestão].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0867",
+    "text": "O guia completo para [o mercado de carbono] e os [investimentos verdes].",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0868",
+    "text": "Por que [viajar para lugares desconhecidos] nos torna mais [criativos].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0869",
+    "text": "Ainda não sabe [como seu cérebro armazena memórias]? Uma viagem fascinante.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0870",
+    "text": "O guia para [uma alimentação anti-inflamatória].",
+    "niches": ["health", "food", "fitness"]
+  },
+  {
+    "id": "h0871",
+    "text": "Como [a forma como você respira] pode [controlar sua ansiedade].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0872",
+    "text": "O que [os melhores gerentes de comunidade] sabem sobre [criar pertencimento].",
+    "niches": ["b2b", "saas", "ecommerce"]
+  },
+  {
+    "id": "h0873",
+    "text": "O fim do [trabalho das 9h às 17h]? A ascensão da [economia de projetos].",
+    "niches": ["b2b", "finance"]
+  },
+  {
+    "id": "h0874",
+    "text": "Como [o tipo de música que você ouve] afeta seu [desempenho no treino].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0875",
+    "text": "O guia completo para [a etiqueta japonesa] para [viajantes].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0876",
+    "text": "Por que [ter menos coisas] pode te fazer [mais feliz].",
+    "niches": ["health", "finance"]
+  },
+  {
+    "id": "h0877",
+    "text": "Ainda não sabe [o que é um REIT]? Invista em [imóveis americanos] com [pouco dinheiro].",
+    "niches": ["finance", "real_estate"]
+  },
+  {
+    "id": "h0878",
+    "text": "O guia para [fazer seu próprio kombucha] em casa.",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0879",
+    "text": "Como [os efeitos especiais] do cinema evoluíram de [miniaturas] para [CGI].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0880",
+    "text": "O que [os melhores chefs de hambúrguer] sabem sobre [a proporção de gordura].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0881",
+    "text": "O fim do [dinheiro em espécie]? O avanço das [moedas digitais de bancos centrais].",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0882",
+    "text": "Como [o senso de humor] pode ser sua [maior arma] no [mundo dos negócios].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0883",
+    "text": "O guia completo para [as Sete Maravilhas do Mundo Antigo].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0884",
+    "text": "Por que [aprender a programar] é o novo ['inglês'].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0885",
+    "text": "Ainda não sabe [como a blockchain funciona]? Pense em [um livro-caixa digital].",
+    "niches": ["tech", "finance"]
+  },
+  {
+    "id": "h0886",
+    "text": "O guia para [superar o jet lag] rapidamente.",
+    "niches": ["travel", "health"]
+  },
+  {
+    "id": "h0887",
+    "text": "Como [o design de um supermercado] te guia para [comprar mais].",
+    "niches": ["ecommerce", "food"]
+  },
+  {
+    "id": "h0888",
+    "text": "O que [os melhores maratonistas] sabem sobre [ritmo e gestão de energia].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0889",
+    "text": "O fim da [privacidade]? Como [seus dados] são [coletados e vendidos].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0890",
+    "text": "Como [uma boa noite de sono] é mais importante que [qualquer suplemento].",
+    "niches": ["health", "fitness"]
+  },
+  {
+    "id": "h0891",
+    "text": "O guia completo para [investir em ouro] e outros [metais preciosos].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0892",
+    "text": "Por que [algumas músicas nos dão arrepios]? A [ciência] explica.",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0893",
+    "text": "Ainda não sabe [o que é a Internet das Coisas (IoT)]? Sua [geladeira] em breve saberá.",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0894",
+    "text": "O guia para [combinar fontes] como um [designer profissional].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0895",
+    "text": "Como [os grandes impérios] caíram (e as lições para [hoje]).",
+    "niches": ["education", "finance", "b2b"]
+  },
+  {
+    "id": "h0896",
+    "text": "O que [os melhores jogadores de xadrez] sabem sobre [pensar vários movimentos à frente].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0897",
+    "text": "O fim do [escritório tradicional]? Como [o metaverso] pode mudar o [trabalho].",
+    "niches": ["tech", "b2b", "saas"]
+  },
+  {
+    "id": "h0898",
+    "text": "Como [o estoicismo] pode te ajudar a ser [mais resiliente] em [tempos difíceis].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0899",
+    "text": "O guia completo para [a culinária indiana] (e seus temperos).",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0900",
+    "text": "Por que [fazer pausas] aumenta sua [produtividade].",
+    "niches": ["b2b", "health", "saas"]
+  },
+  {
+    "id": "h0901",
+    "text": "Ainda não sabe [como usar o marketing de conteúdo] para [atrair clientes]?",
+    "niches": ["b2b", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0902",
+    "text": "O guia para [escolher o melhor protetor solar] para sua [pele].",
+    "niches": ["health", "fashion"]
+  },
+  {
+    "id": "h0903",
+    "text": "Como [a sua alimentação] afeta diretamente a [saúde do seu cérebro].",
+    "niches": ["health", "food"]
+  },
+  {
+    "id": "h0904",
+    "text": "O que [os melhores guias de turismo] sabem sobre [contar a história de um lugar].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0905",
+    "text": "O fim da [mídia tradicional]? O poder dos [criadores de conteúdo].",
+    "niches": ["b2c", "ecommerce"]
+  },
+  {
+    "id": "h0906",
+    "text": "Como [o design de um site] afeta a [confiança] que o [cliente] tem em você.",
+    "niches": ["tech", "ecommerce", "saas"]
+  },
+  {
+    "id": "h0907",
+    "text": "O guia completo para [identificar notícias falsas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0908",
+    "text": "Por que [os erros] são a parte mais importante do [processo de aprendizado].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0909",
+    "text": "Ainda não sabe [como o juro sobre juro] pode te deixar [rico]?",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0910",
+    "text": "O guia para [uma massagem relaxante] em casa.",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0911",
+    "text": "Como [o olfato] está diretamente ligado à [memória emocional].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0912",
+    "text": "O que [os melhores recrutadores] sabem sobre [encontrar talentos escondidos].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0913",
+    "text": "O fim da [propriedade]? A ascensão da [economia do acesso] (Uber, Airbnb, etc).",
+    "niches": ["tech", "finance", "travel"]
+  },
+  {
+    "id": "h0914",
+    "text": "Como [o alongamento diário] pode [prevenir lesões] e [melhorar sua postura].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0915",
+    "text": "O guia completo para [o carnaval] do [Rio/Salvador].",
+    "niches": ["travel"]
+  },
+  {
+    "id": "h0916",
+    "text": "Por que [as abelhas] são os [animais mais importantes] do [planeta].",
+    "niches": ["health", "food", "education"]
+  },
+  {
+    "id": "h0917",
+    "text": "Ainda não sabe [o que é um 'call to action']? Você está perdendo conversões.",
+    "niches": ["ecommerce", "saas", "b2b"]
+  },
+  {
+    "id": "h0918",
+    "text": "O guia para [superar a timidez] em [situações sociais].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0919",
+    "text": "Como [a invenção do avião] encurtou [o mundo].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0920",
+    "text": "O que [os melhores chefs de sobremesa] sabem sobre [o equilíbrio do açúcar].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0921",
+    "text": "O fim do [escritório de advocacia] tradicional? A tecnologia jurídica está aqui.",
+    "niches": ["b2b", "tech", "saas"]
+  },
+  {
+    "id": "h0922",
+    "text": "Como [a sua linguagem corporal] na [primeira impressão] define [todo o resto].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0923",
+    "text": "O guia completo para [entender o ciclo da água].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0924",
+    "text": "Por que [ter um plano B] pode, na verdade, [diminuir suas chances de sucesso].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0925",
+    "text": "Ainda não sabe [o que é a cultura DevOps]? A chave para [entregas de software mais rápidas].",
+    "niches": ["tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0926",
+    "text": "O guia para [a feijoada] perfeita.",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0927",
+    "text": "Como [o som da chuva] nos [ajuda a relaxar e dormir].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0928",
+    "text": "O que [os melhores detetives] sabem sobre [observar detalhes].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0929",
+    "text": "O fim da [loja física]? Como [o varejo] está se [reinventando].",
+    "niches": ["ecommerce", "real_estate"]
+  },
+  {
+    "id": "h0930",
+    "text": "Como [a hidratação adequada] pode [aumentar sua performance] em [até 20%].",
+    "niches": ["fitness", "health"]
+  },
+  {
+    "id": "h0931",
+    "text": "O guia completo para [a mitologia grega].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0932",
+    "text": "Por que [ensinar algo a alguém] é a melhor forma de [aprender].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0933",
+    "text": "Ainda não sabe [o que é cashback]? Você está deixando de receber [dinheiro de volta].",
+    "niches": ["finance", "ecommerce"]
+  },
+  {
+    "id": "h0934",
+    "text": "O guia para [lidar com o estresse] no [trabalho].",
+    "niches": ["b2b", "health"]
+  },
+  {
+    "id": "h0935",
+    "text": "Como [os grandes pintores] usavam [a matemática] em suas [obras-primas].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0936",
+    "text": "O que [os melhores surfistas] sabem sobre [ler o mar].",
+    "niches": ["fitness", "travel"]
+  },
+  {
+    "id": "h0937",
+    "text": "O fim do [motor a combustão]? A [revolução dos carros elétricos].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0938",
+    "text": "Como [a vulnerabilidade] pode ser sua [maior força] como [líder].",
+    "niches": ["b2b", "health"]
+  },
+  {
+    "id": "h0939",
+    "text": "O guia completo para [a culinária japonesa] além do [sushi].",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0940",
+    "text": "Por que [escrever um diário] é uma das [ferramentas mais poderosas] de [autoconhecimento].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0941",
+    "text": "Ainda não sabe [o que é um podcast]? Você está perdendo [conteúdo incrível].",
+    "niches": ["b2c", "education"]
+  },
+  {
+    "id": "h0942",
+    "text": "O guia para [a sua primeira horta de ervas aromáticas].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0943",
+    "text": "Como [a invenção do zero] mudou [a matemática e o mundo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0944",
+    "text": "O que [os melhores atletas de ginástica olímpica] sabem sobre [consciência corporal].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0945",
+    "text": "O fim do [jornal impresso]? O [futuro do jornalismo].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0946",
+    "text": "Como [um aperto de mão firme] pode [mudar a percepção] que as pessoas têm de você.",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0947",
+    "text": "O guia completo para [entender a tabela periódica].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0948",
+    "text": "Por que [algumas marcas] criam [fãs devotos] e outras não.",
+    "niches": ["ecommerce", "b2b", "saas"]
+  },
+  {
+    "id": "h0949",
+    "text": "Ainda não sabe [o que é um 'smart contract']? A [tecnologia] por trás das [criptomoedas].",
+    "niches": ["tech", "finance"]
+  },
+  {
+    "id": "h0950",
+    "text": "O guia para [um detox de açúcar] de [7 dias].",
+    "niches": ["health", "food", "fitness"]
+  },
+  {
+    "id": "h0951",
+    "text": "Como [a invenção do microscópio] revelou [um universo invisível].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0952",
+    "text": "O que [os melhores designers de móveis] sabem sobre [ergonomia e conforto].",
+    "niches": ["real_estate"]
+  },
+  {
+    "id": "h0953",
+    "text": "O fim da [TV aberta]? A ascensão dos [serviços de streaming].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0954",
+    "text": "Como [o tédio na infância] é [essencial] para o [desenvolvimento da criatividade].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0955",
+    "text": "O guia completo para [a culinária peruana].",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0956",
+    "text": "Por que [você deveria ler os termos de serviço] (pelo menos uma vez).",
+    "niches": ["tech", "finance"]
+  },
+  {
+    "id": "h0957",
+    "text": "Ainda não sabe [como a Netflix sabe do que você gosta]? O poder dos [algoritmos].",
+    "niches": ["tech", "saas"]
+  },
+  {
+    "id": "h0958",
+    "text": "O guia para [superar o fim de um namoro].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0959",
+    "text": "Como [a invenção do ar-condicionado] possibilitou [o crescimento de cidades] em [desertos].",
+    "niches": ["real_estate", "tech", "education"]
+  },
+  {
+    "id": "h0960",
+    "text": "O que [os melhores atletas de levantamento de peso] sabem sobre [a forma correta].",
+    "niches": ["fitness"]
+  },
+  {
+    "id": "h0961",
+    "text": "O fim da [busca por emprego]? Como [as empresas] estão [encontrando você].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0962",
+    "text": "Como [o jejum de dopamina] pode [resetar seus centros de prazer].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0963",
+    "text": "O guia completo para [a história do cinema].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0964",
+    "text": "Por que [tomar decisões difíceis] é o que te faz [crescer].",
+    "niches": ["b2b", "health", "education"]
+  },
+  {
+    "id": "h0965",
+    "text": "Ainda não sabe [o que é AGI - Inteligência Artificial Geral]? O [próximo passo] da [evolução].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0966",
+    "text": "O guia para [uma pele brilhante] através da [alimentação].",
+    "niches": ["health", "food", "fashion"]
+  },
+  {
+    "id": "h0967",
+    "text": "Como [a invenção da roda] foi a [maior startup] de todos os tempos.",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0968",
+    "text": "O que [os melhores jogadores de golfe] sabem sobre [o poder do swing mental].",
+    "niches": ["fitness", "b2b"]
+  },
+  {
+    "id": "h0969",
+    "text": "O fim do [dinheiro como o conhecemos]? Uma olhada no [futuro das finanças].",
+    "niches": ["finance", "tech"]
+  },
+  {
+    "id": "h0970",
+    "text": "Como [arrumar a cama todas as manhãs] pode [mudar sua vida].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0971",
+    "text": "O guia completo para [a culinária vietnamita].",
+    "niches": ["food", "travel"]
+  },
+  {
+    "id": "h0972",
+    "text": "Por que [as histórias] são a forma mais antiga e eficaz de [transmitir conhecimento].",
+    "niches": ["education", "b2b"]
+  },
+  {
+    "id": "h0973",
+    "text": "Ainda não sabe [o que é um 'growth hacker']? O [novo tipo de marketeiro].",
+    "niches": ["saas", "tech", "b2b"]
+  },
+  {
+    "id": "h0974",
+    "text": "O guia para [a sua primeira tatuagem] depois dos [40].",
+    "niches": ["fashion"]
+  },
+  {
+    "id": "h0975",
+    "text": "Como [a invenção do telégrafo] criou [a primeira internet].",
+    "niches": ["tech", "education"]
+  },
+  {
+    "id": "h0976",
+    "text": "O que [os melhores alpinistas] sabem sobre [gerenciar o risco].",
+    "niches": ["fitness", "finance", "b2b"]
+  },
+  {
+    "id": "h0977",
+    "text": "O fim da [humanidade]? Os [riscos e promessas] da [inteligência artificial].",
+    "niches": ["tech"]
+  },
+  {
+    "id": "h0978",
+    "text": "Como [a gratidão] pode [reconfigurar seu cérebro] para a [felicidade].",
+    "niches": ["health"]
+  },
+  {
+    "id": "h0979",
+    "text": "O guia completo para [a história do rock and roll].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0980",
+    "text": "Por que [celebrar pequenas vitórias] é crucial para [manter a motivação].",
+    "niches": ["b2b", "fitness", "health"]
+  },
+  {
+    "id": "h0981",
+    "text": "Ainda não sabe [o que é 'cultura organizacional']? É a [alma] da sua [empresa].",
+    "niches": ["b2b"]
+  },
+  {
+    "id": "h0982",
+    "text": "O guia para [um churrasco vegetariano] delicioso.",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0983",
+    "text": "Como [a invenção da pílula anticoncepcional] causou uma [revolução social].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0984",
+    "text": "O que [os melhores chefs de ramen] sabem sobre [a profundidade do umami].",
+    "niches": ["food"]
+  },
+  {
+    "id": "h0985",
+    "text": "O fim do [conceito de aposentadoria]? Como [as pessoas] estão [trabalhando por mais tempo].",
+    "niches": ["finance", "health"]
+  },
+  {
+    "id": "h0986",
+    "text": "Como [ter uma boa caligrafia] ainda importa na [era digital].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0987",
+    "text": "O guia completo para [entender a arte da Renascença].",
+    "niches": ["travel", "education"]
+  },
+  {
+    "id": "h0988",
+    "text": "Por que [o fracasso] é um [professor] melhor que [o sucesso].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0989",
+    "text": "Ainda não sabe [o que é um 'data lake']? O [novo petróleo] dos [negócios].",
+    "niches": ["tech", "saas", "b2b"]
+  },
+  {
+    "id": "h0990",
+    "text": "O guia para [um café da manhã] que te dá [energia] até o [almoço].",
+    "niches": ["food", "health"]
+  },
+  {
+    "id": "h0991",
+    "text": "Como [a invenção do saneamento básico] [salvou mais vidas] que a [medicina].",
+    "niches": ["health", "education"]
+  },
+  {
+    "id": "h0992",
+    "text": "O que [os melhores comediantes de improviso] sabem sobre [ouvir e construir junto].",
+    "niches": ["b2b", "education"]
+  },
+  {
+    "id": "h0993",
+    "text": "O fim da [universidade tradicional]? O [futuro da educação].",
+    "niches": ["education", "tech"]
+  },
+  {
+    "id": "h0994",
+    "text": "Como [um simples elogio] pode [mudar o dia] de alguém.",
+    "niches": ["health", "b2b"]
+  },
+  {
+    "id": "h0995",
+    "text": "O guia completo para [a história da filosofia] em [10 minutos].",
+    "niches": ["education"]
+  },
+  {
+    "id": "h0996",
+    "text": "Por que [os melhores investidores] são [extremamente pacientes].",
+    "niches": ["finance"]
+  },
+  {
+    "id": "h0997",
+    "text": "Ainda não sabe [o que é 'gamificação']? Como [transformar tarefas chatas] em [jogos].",
+    "niches": ["saas", "education", "b2b"]
+  },
+  {
+    "id": "h0998",
+    "text": "O guia para [o seu primeiro cultivo indoor].",
+    "niches": ["real_estate", "food"]
+  },
+  {
+    "id": "h0999",
+    "text": "Como [o Império Mongol] criou [a primeira era de globalização].",
+    "niches": ["travel", "education", "finance"]
+  },
+  {
+    "id": "h1000",
+    "text": "O que [os melhores pais] sabem sobre [criar filhos curiosos].",
+    "niches": ["education", "health"]
+  }
+]

@@ -1,0 +1,9993 @@
+[
+  {
+    "id": "es0001",
+    "text": "Não abra este e-mail",
+    "niches": [
+      "generic",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "es0002",
+    "text": "Seu [Benefício] está esperando",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0003",
+    "text": "O segredo para [Resultado] que ninguém te conta",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0004",
+    "text": "Você cometeu este erro em [Área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0005",
+    "text": "Última chance: Seu [Desconto] expira hoje!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0006",
+    "text": "Como [Público] está [Ação] em [Tempo]",
+    "niches": [
+      "generic",
+      "proof",
+      "fitness",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0007",
+    "text": "[Nome], temos algo para você",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0008",
+    "text": "Finalmente uma forma de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0009",
+    "text": "Você ignora isso por sua conta e risco",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0010",
+    "text": "A revolução em [Nicho] que você esperava",
+    "niches": [
+      "generic",
+      "authority",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "es0011",
+    "text": "[Problema]? A solução está neste e-mail",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0012",
+    "text": "Não compre [Produto] antes de ler isto",
+    "niches": [
+      "generic",
+      "curiosity",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "es0013",
+    "text": "Seu [Recurso] está a um clique de distância",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0014",
+    "text": "Parabéns, você ganhou [Prêmio]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "marketing",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0015",
+    "text": "[Número] formas de [Ação] que funcionam",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "es0016",
+    "text": "O que os [Especialistas] sabem que você não sabe?",
+    "niches": [
+      "generic",
+      "authority",
+      "finance",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0017",
+    "text": "Sua [Jornada] começa com este e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0018",
+    "text": "Chega de [Frustração]!",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0019",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "fitness",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0020",
+    "text": "A verdade chocante sobre [Assunto]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "health"
+    ]
+  },
+  {
+    "id": "es0021",
+    "text": "Um presente para você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0022",
+    "text": "Por que [Concorrente] está perdendo clientes?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0023",
+    "text": "O segredo para [Objetivo] sem [Dificuldade]",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "education"
+    ]
+  },
+  {
+    "id": "es0024",
+    "text": "[Número] vagas restantes!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "es0025",
+    "text": "Transforme seu [Problema] em [Oportunidade]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "es0026",
+    "text": "A maneira mais fácil de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "home"
+    ]
+  },
+  {
+    "id": "es0027",
+    "text": "Você está a [Número] passos de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0028",
+    "text": "Nossa nova [Ferramenta] está no ar",
+    "niches": [
+      "generic",
+      "announcement",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0029",
+    "text": "Como [Pessoa Comum] alcançou [Resultado]",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0030",
+    "text": "Você tem [Tempo] para ler isto?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "es0031",
+    "text": "Sua [Vaga] está quase esgotada!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "es0032",
+    "text": "O Guia completo para [Ação] está aqui",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0033",
+    "text": "Isso pode mudar a sua [Vida]",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "es0034",
+    "text": "O que você faria com [Recurso]? Descubra.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "es0035",
+    "text": "Sua [Conta] será desativada em [Tempo]",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0036",
+    "text": "O único [Recurso] que você precisa",
+    "niches": [
+      "generic",
+      "authority",
+      "business",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0037",
+    "text": "Não cometa este erro fatal",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0038",
+    "text": "Se você pudesse [Ação], você faria?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0039",
+    "text": "[Número] dicas para [Resultado]",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "es0040",
+    "text": "Uma oferta que você não pode ignorar",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0041",
+    "text": "Paramos de fazer [Serviço]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "es0042",
+    "text": "Isso é um convite para você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "es0043",
+    "text": "O que [Autoridade] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0044",
+    "text": "Deseja [Resultado]? Clique aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0045",
+    "text": "Atenção: Acesso cancelado!",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "online-course"
+    ]
+  },
+  {
+    "id": "es0046",
+    "text": "Sua vida vai mudar depois deste e-mail",
+    "niches": [
+      "generic",
+      "excitement",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0047",
+    "text": "Não abra se não quiser [Benefício]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0048",
+    "text": "Você faz parte do nosso [Grupo]?",
+    "niches": [
+      "generic",
+      "community",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0049",
+    "text": "O que fazer quando [Problema] acontece?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal",
+      "business"
+    ]
+  },
+  {
+    "id": "es0050",
+    "text": "Sim, é verdade. Você pode [Conquista]",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0051",
+    "text": "Esqueça [Método Antigo]. Tente isto.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0052",
+    "text": "A solução para seu [Problema] é [Simples/Inovadora]",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0053",
+    "text": "Você está perdendo [Recurso] por causa de [Erro]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "es0054",
+    "text": "Isso me fez [Conquista] e pode fazer o mesmo por você",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0055",
+    "text": "Seu [Código] de [Desconto] espera",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0056",
+    "text": "A verdade que a [Indústria] esconde",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0057",
+    "text": "O que você não pode fazer em [Ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0058",
+    "text": "Um convite que você não pode recusar",
+    "niches": [
+      "generic",
+      "excitement",
+      "event",
+      "coaching"
+    ]
+  },
+  {
+    "id": "es0059",
+    "text": "Nossa promessa a você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "direct",
+      "service-based"
+    ]
+  },
+  {
+    "id": "es0060",
+    "text": "Como [Público] está [Ação Positiva]?",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "education"
+    ]
+  },
+  {
+    "id": "es0061",
+    "text": "O [Livro] que vai te fazer [Resultado]",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0062",
+    "text": "Chegou a hora de [Ação]",
+    "niches": [
+      "generic",
+      "urgency",
+      "fitness",
+      "business"
+    ]
+  },
+  {
+    "id": "es0063",
+    "text": "Por que [Número] pessoas se arrependeram?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0064",
+    "text": "A nova [Tecnologia] que vai mudar [Nicho]",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "es0065",
+    "text": "Se você [Ação], você precisa disto",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "es0066",
+    "text": "O que [Autoridade] faria para [Ação]?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "career"
+    ]
+  },
+  {
+    "id": "es0067",
+    "text": "Sua [Opinião] é importante para nós, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "service-based",
+      "customer-service"
+    ]
+  },
+  {
+    "id": "es0068",
+    "text": "Você já pensou em [Conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0069",
+    "text": "Vagas acabando: [Evento] está quase lotado!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "es0070",
+    "text": "Transforme seu [Problema] em [Resultado] com este e-mail",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0071",
+    "text": "Nós quebramos as regras para [Ação]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0072",
+    "text": "Você não vai acreditar neste [Desconto]",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0073",
+    "text": "O que [Empresa Famosa] tem em comum com você?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0074",
+    "text": "Como [Público] está [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0075",
+    "text": "A [Estratégia] que você precisa para [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "es0076",
+    "text": "Não espere. Seu [Benefício] está aqui",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0077",
+    "text": "Você está a apenas um passo de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0078",
+    "text": "Sua [Assinatura] expira em [Tempo]!",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0079",
+    "text": "O guia de [Nicho] para [Iniciantes]",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "es0080",
+    "text": "A melhor forma de [Ação] que você já viu",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0081",
+    "text": "Você tem um [Problema]? Nós temos a solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "health"
+    ]
+  },
+  {
+    "id": "es0082",
+    "text": "Aviso: Sua [Conta] foi desativada",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0083",
+    "text": "Seu [Objetivo] não é tão difícil quanto parece",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "es0084",
+    "text": "Fomos questionados sobre [Assunto]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0085",
+    "text": "O que você não sabe sobre [Nicho] pode te prejudicar",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0086",
+    "text": "Você está [Fazendo Algo Errado]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "business"
+    ]
+  },
+  {
+    "id": "es0087",
+    "text": "Se você quer [Resultado], leia este e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "education"
+    ]
+  },
+  {
+    "id": "es0088",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0089",
+    "text": "O que [Empresa Famosa] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0090",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0091",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0092",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0093",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0094",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0095",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0096",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0097",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0098",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0099",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0100",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0101",
+    "text": "Não abra este e-mail",
+    "niches": [
+      "generic",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "es0102",
+    "text": "Seu [Benefício] está esperando",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0103",
+    "text": "O segredo para [Resultado] que ninguém te conta",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0104",
+    "text": "Você cometeu este erro em [Área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0105",
+    "text": "Última chance: Seu [Desconto] expira hoje!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0106",
+    "text": "Como [Público] está [Ação] em [Tempo]",
+    "niches": [
+      "generic",
+      "proof",
+      "fitness",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0107",
+    "text": "[Nome], temos algo para você",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0108",
+    "text": "Finalmente uma forma de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0109",
+    "text": "Você ignora isso por sua conta e risco",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0110",
+    "text": "A revolução em [Nicho] que você esperava",
+    "niches": [
+      "generic",
+      "authority",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "es0111",
+    "text": "[Problema]? A solução está neste e-mail",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0112",
+    "text": "Não compre [Produto] antes de ler isto",
+    "niches": [
+      "generic",
+      "curiosity",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "es0113",
+    "text": "Seu [Recurso] está a um clique de distância",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0114",
+    "text": "Parabéns, você ganhou [Prêmio]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "marketing",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0115",
+    "text": "[Número] formas de [Ação] que funcionam",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "es0116",
+    "text": "O que os [Especialistas] sabem que você não sabe?",
+    "niches": [
+      "generic",
+      "authority",
+      "finance",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0117",
+    "text": "Sua [Jornada] começa com este e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0118",
+    "text": "Chega de [Frustração]!",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0119",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "fitness",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0120",
+    "text": "A verdade chocante sobre [Assunto]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "health"
+    ]
+  },
+  {
+    "id": "es0121",
+    "text": "Um presente para você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0122",
+    "text": "Por que [Concorrente] está perdendo clientes?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0123",
+    "text": "O segredo para [Objetivo] sem [Dificuldade]",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "education"
+    ]
+  },
+  {
+    "id": "es0124",
+    "text": "[Número] vagas restantes!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "es0125",
+    "text": "Transforme seu [Problema] em [Oportunidade]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "es0126",
+    "text": "A maneira mais fácil de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "home"
+    ]
+  },
+  {
+    "id": "es0127",
+    "text": "Você está a [Número] passos de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0128",
+    "text": "Nossa nova [Ferramenta] está no ar",
+    "niches": [
+      "generic",
+      "announcement",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0129",
+    "text": "Como [Pessoa Comum] alcançou [Resultado]",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0130",
+    "text": "Você tem [Tempo] para ler isto?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "es0131",
+    "text": "Sua [Vaga] está quase esgotada!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "es0132",
+    "text": "O Guia completo para [Ação] está aqui",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0133",
+    "text": "Isso pode mudar a sua [Vida]",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "es0134",
+    "text": "O que você faria com [Recurso]? Descubra.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "es0135",
+    "text": "Sua [Conta] será desativada em [Tempo]",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0136",
+    "text": "O único [Recurso] que você precisa",
+    "niches": [
+      "generic",
+      "authority",
+      "business",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0137",
+    "text": "Não cometa este erro fatal",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0138",
+    "text": "Se você pudesse [Ação], você faria?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0139",
+    "text": "[Número] dicas para [Resultado]",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "es0140",
+    "text": "Uma oferta que você não pode ignorar",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0141",
+    "text": "Paramos de fazer [Serviço]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "es0142",
+    "text": "Isso é um convite para você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "es0143",
+    "text": "O que [Autoridade] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0144",
+    "text": "Deseja [Resultado]? Clique aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0145",
+    "text": "Atenção: Acesso cancelado!",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "online-course"
+    ]
+  },
+  {
+    "id": "es0146",
+    "text": "Sua vida vai mudar depois deste e-mail",
+    "niches": [
+      "generic",
+      "excitement",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0147",
+    "text": "Não abra se não quiser [Benefício]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0148",
+    "text": "Você faz parte do nosso [Grupo]?",
+    "niches": [
+      "generic",
+      "community",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0149",
+    "text": "O que fazer quando [Problema] acontece?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal",
+      "business"
+    ]
+  },
+  {
+    "id": "es0150",
+    "text": "Sim, é verdade. Você pode [Conquista]",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0151",
+    "text": "Esqueça [Método Antigo]. Tente isto.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0152",
+    "text": "A solução para seu [Problema] é [Simples/Inovadora]",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0153",
+    "text": "Você está perdendo [Recurso] por causa de [Erro]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "es0154",
+    "text": "Isso me fez [Conquista] e pode fazer o mesmo por você",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0155",
+    "text": "Seu [Código] de [Desconto] espera",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0156",
+    "text": "A verdade que a [Indústria] esconde",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0157",
+    "text": "O que você não pode fazer em [Ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0158",
+    "text": "Um convite que você não pode recusar",
+    "niches": [
+      "generic",
+      "excitement",
+      "event",
+      "coaching"
+    ]
+  },
+  {
+    "id": "es0159",
+    "text": "Nossa promessa a você, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "direct",
+      "service-based"
+    ]
+  },
+  {
+    "id": "es0160",
+    "text": "Como [Público] está [Ação Positiva]?",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "education"
+    ]
+  },
+  {
+    "id": "es0161",
+    "text": "O [Livro] que vai te fazer [Resultado]",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0162",
+    "text": "Chegou a hora de [Ação]",
+    "niches": [
+      "generic",
+      "urgency",
+      "fitness",
+      "business"
+    ]
+  },
+  {
+    "id": "es0163",
+    "text": "Por que [Número] pessoas se arrependeram?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0164",
+    "text": "A nova [Tecnologia] que vai mudar [Nicho]",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "es0165",
+    "text": "Se você [Ação], você precisa disto",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "es0166",
+    "text": "O que [Autoridade] faria para [Ação]?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "career"
+    ]
+  },
+  {
+    "id": "es0167",
+    "text": "Sua [Opinião] é importante para nós, [Nome]",
+    "niches": [
+      "generic",
+      "personalization",
+      "service-based",
+      "customer-service"
+    ]
+  },
+  {
+    "id": "es0168",
+    "text": "Você já pensou em [Conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "es0169",
+    "text": "Vagas acabando: [Evento] está quase lotado!",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "es0170",
+    "text": "Transforme seu [Problema] em [Resultado] com este e-mail",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0171",
+    "text": "Nós quebramos as regras para [Ação]",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0172",
+    "text": "Você não vai acreditar neste [Desconto]",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0173",
+    "text": "O que [Empresa Famosa] tem em comum com você?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0174",
+    "text": "Como [Público] está [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0175",
+    "text": "A [Estratégia] que você precisa para [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "es0176",
+    "text": "Não espere. Seu [Benefício] está aqui",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "es0177",
+    "text": "Você está a apenas um passo de [Conquista]",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "es0178",
+    "text": "Sua [Assinatura] expira em [Tempo]!",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "es0179",
+    "text": "O guia de [Nicho] para [Iniciantes]",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "es0180",
+    "text": "A melhor forma de [Ação] que você já viu",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "es0181",
+    "text": "Você tem um [Problema]? Nós temos a solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "health"
+    ]
+  },
+  {
+    "id": "es0182",
+    "text": "Aviso: Sua [Conta] foi desativada",
+    "niches": [
+      "generic",
+      "urgency",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0183",
+    "text": "Seu [Objetivo] não é tão difícil quanto parece",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "es0184",
+    "text": "Fomos questionados sobre [Assunto]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0185",
+    "text": "O que você não sabe sobre [Nicho] pode te prejudicar",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "relationships"
+    ]
+  },
+  {
+    "id": "es0186",
+    "text": "Você está [Fazendo Algo Errado]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "business"
+    ]
+  },
+  {
+    "id": "es0187",
+    "text": "Se você quer [Resultado], leia este e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "education"
+    ]
+  },
+  {
+    "id": "es0188",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0189",
+    "text": "O que [Empresa Famosa] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0190",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0191",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0192",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0193",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0194",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0195",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0196",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0197",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0198",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0199",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0200",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0201",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0202",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0203",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0204",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0205",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0206",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0207",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0208",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0209",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0210",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0211",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0212",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0213",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0214",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0215",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0216",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0217",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0218",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0219",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0220",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0221",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0222",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0223",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0224",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0225",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0226",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0227",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0228",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0229",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0230",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0231",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0232",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0233",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0234",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0235",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0236",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0237",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0238",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0239",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0240",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0241",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0242",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0243",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0244",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0245",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0246",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0247",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0248",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0249",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0250",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0251",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0252",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0253",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0254",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0255",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0256",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0257",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0258",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0259",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0260",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0261",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0262",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0263",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0264",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0265",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0266",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0267",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0268",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0269",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0270",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0271",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0272",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0273",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0274",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0275",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0276",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0277",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0278",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0279",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0280",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0281",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0282",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0283",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0284",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0285",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0286",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0287",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0288",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0289",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0290",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0291",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0292",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0293",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0294",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0295",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0296",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0297",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0298",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0299",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0300",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0301",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0302",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0303",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0304",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0305",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0306",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0307",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0308",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0309",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0310",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0311",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0312",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0313",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0314",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0315",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0316",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0317",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0318",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0319",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0320",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0321",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0322",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0323",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0324",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0325",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0326",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0327",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0328",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0329",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0330",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0331",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0332",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0333",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0334",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0335",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0336",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0337",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0338",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0339",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0340",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0341",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0342",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0343",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0344",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0345",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0346",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0347",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0348",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0349",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0350",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0351",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0352",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0353",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0354",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0355",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0356",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0357",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0358",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0359",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0360",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0361",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0362",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0363",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0364",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0365",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0366",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0367",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0368",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0369",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0370",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0371",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0372",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0373",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0374",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0375",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0376",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0377",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0378",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0379",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0380",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0381",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0382",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0383",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0384",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0385",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0386",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0387",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0388",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0389",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0390",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0391",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0392",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0393",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0394",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0395",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0396",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0397",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0398",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0399",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0400",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0401",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0402",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0403",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0404",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0405",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0406",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0407",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0408",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0409",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0410",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0411",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0412",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0413",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0414",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0415",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0416",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0417",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0418",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0419",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0420",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0421",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0422",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0423",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0424",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0425",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0426",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0427",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0428",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0429",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0430",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0431",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0432",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0433",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0434",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0435",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0436",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0437",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0438",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0439",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0440",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0441",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0442",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0443",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0444",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0445",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0446",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0447",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0448",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0449",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0450",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0451",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0452",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0453",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0454",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0455",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0456",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0457",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0458",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0459",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0460",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0461",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0462",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0463",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0464",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0465",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0466",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0467",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0468",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0469",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0470",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0471",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0472",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0473",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0474",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0475",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0476",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0477",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0478",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0479",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0480",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0481",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0482",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0483",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0484",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0485",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0486",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0487",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0488",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0489",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0490",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0491",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0492",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0493",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0494",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0495",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0496",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0497",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0498",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0499",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0500",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+
+  {
+    "id": "es0501",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0502",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0503",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0504",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0505",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0506",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0507",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0508",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0509",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0510",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0511",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0512",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0513",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0514",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0515",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0516",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0517",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0518",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0519",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0520",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0521",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0522",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0523",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0524",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0525",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0526",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0527",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0528",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0529",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0530",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0531",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0532",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0533",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0534",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0535",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0536",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0537",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0538",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0539",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0540",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0541",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0542",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0543",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0544",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0545",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0546",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0547",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0548",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0549",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0550",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0551",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0552",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0553",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0554",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0555",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0556",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0557",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0558",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0559",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0560",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0561",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0562",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0563",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0564",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0565",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0566",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0567",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0568",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0569",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0570",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0571",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0572",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0573",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0574",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0575",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0576",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0577",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0578",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0579",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0580",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0581",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0582",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0583",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0584",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0585",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0586",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0587",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0588",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0589",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0590",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0591",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0592",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0593",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0594",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0595",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0596",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0597",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0598",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0599",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0600",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0601",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0602",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0603",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0604",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0605",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0606",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0607",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0608",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0609",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0610",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0611",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0612",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0613",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0614",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0615",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0616",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0617",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0618",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0619",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0620",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0621",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0622",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0623",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0624",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0625",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0626",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0627",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0628",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0629",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0630",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0631",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0632",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0633",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0634",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0635",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0636",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0637",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0638",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0639",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0640",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0641",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0642",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0643",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0644",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0645",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0646",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0647",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0648",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0649",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0650",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0651",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0652",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0653",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0654",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0655",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0656",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0657",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0658",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0659",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0660",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0661",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0662",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0663",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0664",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0665",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0666",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0667",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0668",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0669",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0670",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0671",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0672",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0673",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0674",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0675",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0676",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0677",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0678",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0679",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0680",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0681",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0682",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0683",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0684",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0685",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0686",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0687",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0688",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0689",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0690",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0691",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0692",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0693",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0694",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0695",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0696",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0697",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0698",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0699",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0700",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0701",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0702",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0703",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0704",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0705",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0706",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0707",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0708",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0709",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0710",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0711",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0712",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0713",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0714",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0715",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0716",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0717",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0718",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0719",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0720",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0721",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0722",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0723",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0724",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0725",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0726",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0727",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0728",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0729",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0730",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0731",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0732",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0733",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0734",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0735",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0736",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0737",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0738",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0739",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0740",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0741",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0742",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0743",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0744",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0745",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0746",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0747",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0748",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0749",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0750",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0751",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0752",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0753",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0754",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0755",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0756",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0757",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0758",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0759",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0760",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0761",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0762",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0763",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0764",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0765",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0766",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0767",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0768",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0769",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0770",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0771",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0772",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0773",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0774",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0775",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0776",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0777",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0778",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0779",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0780",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0781",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0782",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0783",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0784",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0785",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0786",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0787",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0788",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0789",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0790",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0791",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0792",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0793",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0794",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0795",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0796",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0797",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0798",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0799",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0800",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0801",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0802",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0803",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0804",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0805",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0806",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0807",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0808",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0809",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0810",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0811",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0812",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0813",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0814",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0815",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0816",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0817",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0818",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0819",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0820",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0821",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0822",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0823",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0824",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0825",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0826",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0827",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0828",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0829",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0830",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0831",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0832",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0833",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0834",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0835",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0836",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0837",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0838",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0839",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0840",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0841",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0842",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0843",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0844",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0845",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0846",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0847",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0848",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0849",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0850",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0851",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0852",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0853",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0854",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0855",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0856",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0857",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0858",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0859",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0860",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0861",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0862",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0863",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0864",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0865",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0866",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0867",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0868",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0869",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0870",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0871",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0872",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0873",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0874",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0875",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0876",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0877",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0878",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0879",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0880",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0881",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0882",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0883",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0884",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0885",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0886",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0887",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0888",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0889",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0890",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0891",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0892",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0893",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0894",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0895",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0896",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0897",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0898",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0899",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0900",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0901",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0902",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0903",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0904",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0905",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0906",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0907",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0908",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0909",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0910",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0911",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0912",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0913",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0914",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0915",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0916",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0917",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0918",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0919",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0920",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0921",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0922",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0923",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0924",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0925",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0926",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0927",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0928",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0929",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0930",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0931",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0932",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0933",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0934",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0935",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0936",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0937",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0938",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0939",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0940",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0941",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0942",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0943",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0944",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0945",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0946",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0947",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0948",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0949",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0950",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0951",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0952",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0953",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0954",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0955",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0956",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0957",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0958",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0959",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0960",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0961",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0962",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0963",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0964",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0965",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0966",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0967",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0968",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0969",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0970",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0971",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0972",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0973",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0974",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0975",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0976",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0977",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0978",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0979",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0980",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0981",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0982",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es0983",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0984",
+    "text": "A forma mais simples de [Ação]",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0985",
+    "text": "A [Estratégia] que viralizou na internet",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "es0986",
+    "text": "Se você tem [Problema], este e-mail é para você",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "es0987",
+    "text": "Não espere. [Ação] agora!",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0988",
+    "text": "O que [Autoridade] tem a dizer?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "es0989",
+    "text": "A [Tecnologia] que vai mudar a sua vida",
+    "niches": [
+      "generic",
+      "excitement",
+      "technology",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0990",
+    "text": "[Número]% de desconto em [Produto]!",
+    "niches": [
+      "generic",
+      "excitement",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "es0991",
+    "text": "O que você faria diferente, [Nome]?",
+    "niches": [
+      "generic",
+      "personalization",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "es0992",
+    "text": "A melhor forma de [Ação] sem [Recurso]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "es0993",
+    "text": "Fizemos isso para você",
+    "niches": [
+      "generic",
+      "direct",
+      "marketing",
+      "saas"
+    ]
+  },
+  {
+    "id": "es0994",
+    "text": "Você está perdendo a oportunidade de [Conquista]",
+    "niches": [
+      "generic",
+      "urgency",
+      "finance",
+      "career"
+    ]
+  },
+  {
+    "id": "es0995",
+    "text": "Chega de [Problema]. Hora de [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "home"
+    ]
+  },
+  {
+    "id": "es0996",
+    "text": "A prova que você precisava para [Ação]",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "es0997",
+    "text": "Temos um presente, [Nome]. Clique aqui.",
+    "niches": [
+      "generic",
+      "personalization",
+      "ecommerce",
+      "event"
+    ]
+  },
+  {
+    "id": "es0998",
+    "text": "Seu [Futuro] começa neste e-mail",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "es0999",
+    "text": "O que está por vir em [Indústria]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "technology"
+    ]
+  },
+  {
+    "id": "es1000",
+    "text": "Você quase se esqueceu disto",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "marketing"
+    ]
+  }
+]

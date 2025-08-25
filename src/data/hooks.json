@@ -1,0 +1,9816 @@
+[
+  {
+    "id": "hk0001",
+    "text": "Se você pudesse [resultado] em apenas [tempo], você faria?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0002",
+    "text": "Pare de rolar a tela! Este vídeo pode mudar sua vida.",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0003",
+    "text": "Você sabia que [fato chocante] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0004",
+    "text": "Você já se sentiu [emoção negativa] com [problema]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0005",
+    "text": "Eu era como você... até descobrir [solução].",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0006",
+    "text": "O segredo para [resultado] em [tempo] está aqui.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0007",
+    "text": "Imagine sua vida sem [problema].",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0008",
+    "text": "O que os [autoridades do nicho] têm em comum?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0009",
+    "text": "Pare de perder [recurso]. Este é o método que funciona.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "time-management"
+    ]
+  },
+  {
+    "id": "hk0010",
+    "text": "Finalmente, uma forma de [conquista] sem [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0011",
+    "text": "Você está a [número] segundos de [transformação].",
+    "niches": [
+      "generic",
+      "urgency",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0012",
+    "text": "Eu odeio [problema], e você?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0013",
+    "text": "O que você faria se [situação hipotética]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0014",
+    "text": "A [única coisa] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0015",
+    "text": "Não clique aqui. Sério, não clique.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0016",
+    "text": "Você não vai acreditar no que aconteceu com [Pessoa].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0017",
+    "text": "Sua [oportunidade] está prestes a expirar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0018",
+    "text": "O guia de [nicho] que eles não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0019",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "technology",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0020",
+    "text": "Eu te prometo: você vai [conquista] com isso.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0021",
+    "text": "O que [Empresa Famosa] tem a dizer sobre [assunto]?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0022",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0023",
+    "text": "A forma mais rápida de [resultado] que eu conheço.",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0024",
+    "text": "Você está a apenas [número] de cliques de [objetivo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0025",
+    "text": "Como eu consegui [conquista] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0026",
+    "text": "Sua vida vai mudar quando você [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0027",
+    "text": "E se eu te dissesse que [fato surpreendente]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0028",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0029",
+    "text": "A verdade por trás de [mito comum].",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0030",
+    "text": "Um método comprovado para [resultado]!",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0031",
+    "text": "O que está te impedindo de [conquista]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0032",
+    "text": "Esta oferta é só para você.",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0033",
+    "text": "Chega de [dor]. A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "hk0034",
+    "text": "Você já viu algo assim antes?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "technology",
+      "design"
+    ]
+  },
+  {
+    "id": "hk0035",
+    "text": "Não confie em mim, confie em [autoridade do nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0036",
+    "text": "O meu [segredo] para [conquista].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "personal-development"
+    ]
+  },
+  {
+    "id": "hk0037",
+    "text": "Você precisa de [recurso] para [ação]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0038",
+    "text": "A melhor forma de [ação] com [benefício].",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0039",
+    "text": "Atenção: sua [oportunidade] termina em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0040",
+    "text": "Eu duvido que você consiga [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0041",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0042",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0043",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0044",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0045",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0046",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0047",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0048",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0049",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0050",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0051",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0052",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0053",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0054",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0055",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0056",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0057",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0058",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0059",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0060",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0061",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0062",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0063",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0064",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0065",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0066",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0067",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0068",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0069",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0070",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0071",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0072",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0073",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0074",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0075",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0076",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0077",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0078",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0079",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0080",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0081",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0082",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0083",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0084",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0085",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0086",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0087",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0088",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0089",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0090",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0091",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0092",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0093",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0094",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0095",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0096",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0097",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0098",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0099",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0100",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0101",
+    "text": "Se você pudesse [resultado] em apenas [tempo], você faria?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0102",
+    "text": "Pare de rolar a tela! Este vídeo pode mudar sua vida.",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0103",
+    "text": "Você sabia que [fato chocante] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0104",
+    "text": "Você já se sentiu [emoção negativa] com [problema]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0105",
+    "text": "Eu era como você... até descobrir [solução].",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0106",
+    "text": "O segredo para [resultado] em [tempo] está aqui.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0107",
+    "text": "Imagine sua vida sem [problema].",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0108",
+    "text": "O que os [autoridades do nicho] têm em comum?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0109",
+    "text": "Pare de perder [recurso]. Este é o método que funciona.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "time-management"
+    ]
+  },
+  {
+    "id": "hk0110",
+    "text": "Finalmente, uma forma de [conquista] sem [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0111",
+    "text": "Você está a [número] segundos de [transformação].",
+    "niches": [
+      "generic",
+      "urgency",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0112",
+    "text": "Eu odeio [problema], e você?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0113",
+    "text": "O que você faria se [situação hipotética]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0114",
+    "text": "A [única coisa] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0115",
+    "text": "Não clique aqui. Sério, não clique.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0116",
+    "text": "Você não vai acreditar no que aconteceu com [Pessoa].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0117",
+    "text": "Sua [oportunidade] está prestes a expirar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0118",
+    "text": "O guia de [nicho] que eles não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0119",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "technology",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0120",
+    "text": "Eu te prometo: você vai [conquista] com isso.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0121",
+    "text": "O que [Empresa Famosa] tem a dizer sobre [assunto]?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0122",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0123",
+    "text": "A forma mais rápida de [resultado] que eu conheço.",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0124",
+    "text": "Você está a [número] de cliques de [objetivo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0125",
+    "text": "Como eu consegui [conquista] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0126",
+    "text": "Sua vida vai mudar quando você [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0127",
+    "text": "E se eu te dissesse que [fato surpreendente]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0128",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0129",
+    "text": "A verdade por trás de [mito comum].",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0130",
+    "text": "Um método comprovado para [resultado]!",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0131",
+    "text": "O que está te impedindo de [conquista]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0132",
+    "text": "Esta oferta é só para você.",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0133",
+    "text": "Chega de [dor]. A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "hk0134",
+    "text": "Você já viu algo assim antes?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "technology",
+      "design"
+    ]
+  },
+  {
+    "id": "hk0135",
+    "text": "Não confie em mim, confie em [autoridade do nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0136",
+    "text": "O meu [segredo] para [conquista].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "personal-development"
+    ]
+  },
+  {
+    "id": "hk0137",
+    "text": "Você precisa de [recurso] para [ação]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0138",
+    "text": "A melhor forma de [ação] com [benefício].",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0139",
+    "text": "Atenção: sua [oportunidade] termina em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0140",
+    "text": "Eu duvido que você consiga [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0141",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0142",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0143",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0144",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0145",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0146",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0147",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0148",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0149",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0150",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0151",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0152",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0153",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0154",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0155",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0156",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0157",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0158",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0159",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0160",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0161",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0162",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0163",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0164",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0165",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0166",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0167",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0168",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0169",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0170",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0171",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0172",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0173",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0174",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0175",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0176",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0177",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0178",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0179",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0180",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0181",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0182",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0183",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0184",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0185",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0186",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0187",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0188",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0189",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0190",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0191",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0192",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0193",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0194",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0195",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0196",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0197",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0198",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0199",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0200",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0201",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0202",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0203",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0204",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0205",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0206",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0207",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0208",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0209",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0210",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0211",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0212",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0213",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0214",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0215",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0216",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0217",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0218",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0219",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0220",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0221",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0222",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0223",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0224",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0225",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0226",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0227",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0228",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0229",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0230",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0231",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0232",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0233",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0234",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0235",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0236",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0237",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0238",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0239",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0240",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0241",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0242",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0243",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0244",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0245",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0246",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0247",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0248",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0249",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0250",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0251",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0252",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0253",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0254",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0255",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0256",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0257",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0258",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0259",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0260",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0261",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0262",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0263",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0264",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0265",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0266",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0267",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0268",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0269",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0270",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0271",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0272",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0273",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0274",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0275",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0276",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0277",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0278",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0279",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0280",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0281",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0282",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0283",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0284",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0285",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0286",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0287",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0288",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0289",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0290",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0291",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0292",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0293",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0294",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0295",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0296",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0297",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0298",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0299",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0300",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0301",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0302",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0303",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0304",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0305",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0306",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0307",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0308",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0309",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0310",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0311",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0312",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0313",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0314",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0315",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0316",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0317",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0318",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0319",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0320",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0321",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0322",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0323",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0324",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0325",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0326",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0327",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0328",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0329",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0330",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0331",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0332",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0333",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0334",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0335",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0336",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0337",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0338",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0339",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0340",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0341",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0342",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0343",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0344",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0345",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0346",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0347",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0348",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0349",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0350",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0351",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0352",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0353",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0354",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0355",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0356",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0357",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0358",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0359",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0360",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0361",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0362",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0363",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0364",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0365",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0366",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0367",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0368",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0369",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0370",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0371",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0372",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0373",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0374",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0375",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0376",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0377",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0378",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0379",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0380",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0381",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0382",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0383",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0384",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0385",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0386",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0387",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0388",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0389",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0390",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0391",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0392",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0393",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0394",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0395",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0396",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0397",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0398",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0399",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0400",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0401",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0402",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0403",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0404",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0405",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0406",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0407",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0408",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0409",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0410",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0411",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0412",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0413",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0414",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0415",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0416",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0417",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0418",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0419",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0420",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0421",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0422",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0423",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0424",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0425",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0426",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0427",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0428",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0429",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0430",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0431",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0432",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0433",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0434",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0435",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0436",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0437",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0438",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0439",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0440",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0441",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0442",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0443",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0444",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0445",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0446",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0447",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0448",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0449",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0450",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0451",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0452",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0453",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0454",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0455",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0456",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0457",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0458",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0459",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0460",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0461",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0462",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0463",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0464",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0465",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0466",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0467",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0468",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0469",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0470",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0471",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0472",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0473",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0474",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0475",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0476",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0477",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0478",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0479",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0480",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0481",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0482",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0483",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0484",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0485",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0486",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0487",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0488",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0489",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0490",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0491",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0492",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0493",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0494",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0495",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0496",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0497",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0498",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0499",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0500",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+
+  {
+    "id": "hk0501",
+    "text": "Se você pudesse [resultado] em apenas [tempo], você faria?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0502",
+    "text": "Pare de rolar a tela! Este vídeo pode mudar sua vida.",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0503",
+    "text": "Você sabia que [fato chocante] sobre [assunto]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0504",
+    "text": "Você já se sentiu [emoção negativa] com [problema]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0505",
+    "text": "Eu era como você... até descobrir [solução].",
+    "niches": [
+      "generic",
+      "proof",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0506",
+    "text": "O segredo para [resultado] em [tempo] está aqui.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0507",
+    "text": "Imagine sua vida sem [problema].",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0508",
+    "text": "O que os [autoridades do nicho] têm em comum?",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0509",
+    "text": "Pare de perder [recurso]. Este é o método que funciona.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "time-management"
+    ]
+  },
+  {
+    "id": "hk0510",
+    "text": "Finalmente, uma forma de [conquista] sem [objeção].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0511",
+    "text": "Você está a [número] segundos de [transformação].",
+    "niches": [
+      "generic",
+      "urgency",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0512",
+    "text": "Eu odeio [problema], e você?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0513",
+    "text": "O que você faria se [situação hipotética]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0514",
+    "text": "A [única coisa] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0515",
+    "text": "Não clique aqui. Sério, não clique.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0516",
+    "text": "Você não vai acreditar no que aconteceu com [Pessoa].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0517",
+    "text": "Sua [oportunidade] está prestes a expirar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0518",
+    "text": "O guia de [nicho] que eles não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0519",
+    "text": "Chega de [método ineficaz]. Isso é o futuro.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "technology",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0520",
+    "text": "Eu te prometo: você vai [conquista] com isso.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0521",
+    "text": "O que [Empresa Famosa] tem a dizer sobre [assunto]?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0522",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0523",
+    "text": "A forma mais rápida de [resultado] que eu conheço.",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0524",
+    "text": "Você está a [número] de cliques de [objetivo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "ecommerce",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0525",
+    "text": "Como eu consegui [conquista] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0526",
+    "text": "Sua vida vai mudar quando você [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0527",
+    "text": "E se eu te dissesse que [fato surpreendente]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0528",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0529",
+    "text": "A verdade por trás de [mito comum].",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0530",
+    "text": "Um método comprovado para [resultado]!",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0531",
+    "text": "O que está te impedindo de [conquista]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0532",
+    "text": "Esta oferta é só para você.",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0533",
+    "text": "Chega de [dor]. A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "hk0534",
+    "text": "Você já viu algo assim antes?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "technology",
+      "design"
+    ]
+  },
+  {
+    "id": "hk0535",
+    "text": "Não confie em mim, confie em [autoridade do nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "proof",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0536",
+    "text": "O meu [segredo] para [conquista].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "personal-development"
+    ]
+  },
+  {
+    "id": "hk0537",
+    "text": "Você precisa de [recurso] para [ação]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0538",
+    "text": "A melhor forma de [ação] com [benefício].",
+    "niches": [
+      "generic",
+      "direct",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0539",
+    "text": "Atenção: sua [oportunidade] termina em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0540",
+    "text": "Eu duvido que você consiga [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0541",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0542",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0543",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0544",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0545",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0546",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0547",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0548",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0549",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0550",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0551",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0552",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0553",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0554",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0555",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0556",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0557",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0558",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0559",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0560",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0561",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0562",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0563",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0564",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0565",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0566",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0567",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0568",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0569",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0570",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0571",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0572",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0573",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0574",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0575",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0576",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0577",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0578",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0579",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0580",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0581",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0582",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0583",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0584",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0585",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0586",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0587",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0588",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0589",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0590",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0591",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0592",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0593",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0594",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0595",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0596",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0597",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0598",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0599",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0600",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0601",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0602",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0603",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0604",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0605",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0606",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0607",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0608",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0609",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0610",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0611",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0612",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0613",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0614",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0615",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0616",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0617",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0618",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0619",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0620",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0621",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0622",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0623",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0624",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0625",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0626",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0627",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0628",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0629",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0630",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0631",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0632",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0633",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0634",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0635",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0636",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0637",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0638",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0639",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0640",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0641",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0642",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0643",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0644",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0645",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0646",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0647",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0648",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0649",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0650",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0651",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0652",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0653",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0654",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0655",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0656",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0657",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0658",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0659",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0660",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0661",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0662",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0663",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0664",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0665",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0666",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0667",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0668",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0669",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0670",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0671",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0672",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0673",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0674",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0675",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0676",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0677",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0678",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0679",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0680",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0681",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0682",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0683",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0684",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0685",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0686",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0687",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0688",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0689",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0690",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0691",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0692",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0693",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0694",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0695",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0696",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0697",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0698",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0699",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0700",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0701",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0702",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0703",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0704",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0705",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0706",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0707",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0708",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0709",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0710",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0711",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0712",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0713",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0714",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0715",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0716",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0717",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0718",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0719",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0720",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0721",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0722",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0723",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0724",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0725",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0726",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0727",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0728",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0729",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0730",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0731",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0732",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0733",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0734",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0735",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0736",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0737",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0738",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0739",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0740",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0741",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0742",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0743",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0744",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0745",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0746",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0747",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0748",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0749",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0750",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0751",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0752",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0753",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0754",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0755",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0756",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0757",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0758",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0759",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0760",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0761",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0762",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0763",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0764",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0765",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0766",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0767",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0768",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0769",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0770",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0771",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0772",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0773",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0774",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0775",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0776",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0777",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0778",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0779",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0780",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0781",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0782",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0783",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0784",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0785",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0786",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0787",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0788",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0789",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0790",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0791",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0792",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0793",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0794",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0795",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0796",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0797",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0798",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0799",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0800",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0801",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0802",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0803",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0804",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0805",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0806",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0807",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0808",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0809",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0810",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0811",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0812",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0813",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0814",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0815",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0816",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0817",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0818",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0819",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0820",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0821",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0822",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0823",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0824",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0825",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0826",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0827",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0828",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0829",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0830",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0831",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0832",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0833",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0834",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0835",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0836",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0837",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0838",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0839",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0840",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0841",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0842",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0843",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0844",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0845",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0846",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0847",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0848",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0849",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0850",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0851",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0852",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0853",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0854",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0855",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0856",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0857",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0858",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0859",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0860",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0861",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0862",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0863",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0864",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0865",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0866",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0867",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0868",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0869",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0870",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0871",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0872",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0873",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0874",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0875",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0876",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0877",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0878",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0879",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0880",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0881",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0882",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0883",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0884",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0885",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0886",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0887",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0888",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0889",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0890",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0891",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0892",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0893",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0894",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0895",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0896",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0897",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0898",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0899",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0900",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "hk0901",
+    "text": "Você está a apenas um passo de [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0902",
+    "text": "Não pule esse vídeo se você quer [benefício].",
+    "niches": [
+      "generic",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0903",
+    "text": "O [produto] que [público] está amando.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0904",
+    "text": "Você cometeu o [erro] em [nicho]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0905",
+    "text": "A melhor maneira de [ação] que ninguém te fala.",
+    "niches": [
+      "generic",
+      "authority",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0906",
+    "text": "Eu te desafio a [ação] por [tempo].",
+    "niches": [
+      "generic",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0907",
+    "text": "O que está por trás de [sucesso de celebridade]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0908",
+    "text": "Chega de [dor]! A solução está aqui.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0909",
+    "text": "Como [público] está [ação] em [tempo].",
+    "niches": [
+      "generic",
+      "proof",
+      "marketing",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0910",
+    "text": "Sua [oportunidade] de [conquista] está prestes a acabar.",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "event"
+    ]
+  },
+  {
+    "id": "hk0911",
+    "text": "Uma história de [inspiração] que vai te motivar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0912",
+    "text": "A [única ferramenta] que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0913",
+    "text": "Você já se perguntou se [situação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0914",
+    "text": "Não cometa esse [erro] em [área].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0915",
+    "text": "O que eu faria se fosse [público] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0916",
+    "text": "Finalmente, uma forma de [ação] sem [perda de tempo].",
+    "niches": [
+      "generic",
+      "direct",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0917",
+    "text": "Esta oferta vai expirar em [tempo].",
+    "niches": [
+      "generic",
+      "urgency",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0918",
+    "text": "O que você precisa para [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0919",
+    "text": "Como [público] está [ação positiva] com a nossa [ferramenta].",
+    "niches": [
+      "generic",
+      "proof",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0920",
+    "text": "O [segredo] para [resultado] que os [autoridade] não querem que você descubra.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0921",
+    "text": "Não assista se você [não quer benefício].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0922",
+    "text": "A prova que você precisava para [ação].",
+    "niches": [
+      "generic",
+      "proof",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0923",
+    "text": "Chega de [frustração]. Chegou a hora da [solução].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0924",
+    "text": "O [produto] que mudou a vida de [número] de pessoas.",
+    "niches": [
+      "generic",
+      "proof",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0925",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0926",
+    "text": "Uma história [emocionante] que vai te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0927",
+    "text": "Você já pensou em [ação] sem ter que [objeção]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0928",
+    "text": "O que os [autoridade] fariam em seu lugar?",
+    "niches": [
+      "generic",
+      "authority",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0929",
+    "text": "Não perca essa chance de [conquista], [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0930",
+    "text": "O guia definitivo para [assunto].",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0931",
+    "text": "O que [evento] está fazendo agora?",
+    "niches": [
+      "generic",
+      "authority",
+      "news",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0932",
+    "text": "Isso vai explodir sua mente.",
+    "niches": [
+      "generic",
+      "excitement",
+      "science"
+    ]
+  },
+  {
+    "id": "hk0933",
+    "text": "A melhor forma de [ação] para [público].",
+    "niches": [
+      "generic",
+      "direct",
+      "fitness",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0934",
+    "text": "Sua [oportunidade] expira em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0935",
+    "text": "Como eu [conquista] e saí de [situação ruim].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0936",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0937",
+    "text": "A verdade por trás de [escândalo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0938",
+    "text": "O que você não pode fazer em [área]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0939",
+    "text": "O único vídeo que você precisa para [resultado] em [tempo].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0940",
+    "text": "Sua [transformação] começa com este vídeo.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0941",
+    "text": "O que a [indústria] não quer que você saiba.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0942",
+    "text": "Finalmente, uma [solução] que realmente funciona.",
+    "niches": [
+      "generic",
+      "direct",
+      "problem-solving",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0943",
+    "text": "Veja como [público] está [ação positiva].",
+    "niches": [
+      "generic",
+      "proof",
+      "community",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0944",
+    "text": "Não perca essa chance, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0945",
+    "text": "Uma [novidade] que vai te surpreender.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0946",
+    "text": "Se você ainda [problema], este vídeo é pra você.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "business",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0947",
+    "text": "O [passo] que todos os [autoridade] dão para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0948",
+    "text": "Sua [transformação] começa aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0949",
+    "text": "O que você faria se [recurso] caísse do céu?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "finance",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0950",
+    "text": "Uma história de [superação] para te inspirar.",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "hk0951",
+    "text": "Não clique aqui se você [não quer algo].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0952",
+    "text": "A melhor [solução] para [problema] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "health",
+      "saas"
+    ]
+  },
+  {
+    "id": "hk0953",
+    "text": "Como eu [ação] e você pode fazer o mesmo.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0954",
+    "text": "A última vez que [situação]...",
+    "niches": [
+      "generic",
+      "curiosity",
+      "news",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0955",
+    "text": "Você tem [problema]? Este é o único vídeo que você precisa.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "fitness",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0956",
+    "text": "A maneira mais inteligente de [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0957",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0958",
+    "text": "O segredo para [resultado] que os [autoridades] usam.",
+    "niches": [
+      "generic",
+      "authority",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0959",
+    "text": "Não espere. [Recurso] acaba em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0960",
+    "text": "Um convite exclusivo para [público].",
+    "niches": [
+      "generic",
+      "personalization",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "hk0961",
+    "text": "O que aconteceria se você [ação]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0962",
+    "text": "Você precisa de uma nova [estratégia] para [objetivo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0963",
+    "text": "Isso vai te chocar.",
+    "niches": [
+      "generic",
+      "excitement",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0964",
+    "text": "A prova de que [mito] é mentira.",
+    "niches": [
+      "generic",
+      "proof",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "id": "hk0965",
+    "text": "O que eu aprendi depois de [número] anos em [nicho].",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0966",
+    "text": "Seu [objetivo] é mais fácil do que você pensa.",
+    "niches": [
+      "generic",
+      "direct",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0967",
+    "text": "O [problema] que todos enfrentam em [nicho].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "relationships",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0968",
+    "text": "Esta oferta vai acabar em [tempo].",
+    "niches": [
+      "generic",
+      "scarcity",
+      "urgency",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0969",
+    "text": "Eu te desafio a [ação].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0970",
+    "text": "Finalmente uma [ferramenta] para [ação].",
+    "niches": [
+      "generic",
+      "direct",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "hk0971",
+    "text": "O [segredo] que me levou a [conquista].",
+    "niches": [
+      "generic",
+      "storytelling",
+      "self-help",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0972",
+    "text": "Você não pode ignorar isso se quer [resultado].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "urgency",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0973",
+    "text": "O que está faltando em seu [projeto]?",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "hk0974",
+    "text": "Não assista se você [não quer resultado].",
+    "niches": [
+      "generic",
+      "curiosity",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0975",
+    "text": "O [método] que [público] está usando para [resultado].",
+    "niches": [
+      "generic",
+      "proof",
+      "authority",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0976",
+    "text": "Sua chance de [conquista] está aqui.",
+    "niches": [
+      "generic",
+      "direct",
+      "ecommerce",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0977",
+    "text": "Isso vai fazer você [reação grandiosa].",
+    "niches": [
+      "generic",
+      "excitement",
+      "entertainment",
+      "travel"
+    ]
+  },
+  {
+    "id": "hk0978",
+    "text": "O que você faria se tivesse [recurso]?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "business",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0979",
+    "text": "O que me levou de [ponto A] a [ponto B].",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0980",
+    "text": "A melhor forma de [ação] com [custo baixo].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "hk0981",
+    "text": "Isso é o que acontece quando você [ação errada].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0982",
+    "text": "A [única ferramenta] para [resultado] que você vai precisar.",
+    "niches": [
+      "generic",
+      "authority",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0983",
+    "text": "Sua [oportunidade] está no final do vídeo.",
+    "niches": [
+      "generic",
+      "urgency",
+      "curiosity",
+      "online-course"
+    ]
+  },
+  {
+    "id": "hk0984",
+    "text": "Não comece [ação] sem ver isso antes.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0985",
+    "text": "O que me fez [conquista] e pode fazer o mesmo por você.",
+    "niches": [
+      "generic",
+      "proof",
+      "storytelling",
+      "marketing"
+    ]
+  },
+  {
+    "id": "hk0986",
+    "text": "A [estratégia] que viralizou na internet.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "marketing",
+      "social-media"
+    ]
+  },
+  {
+    "id": "hk0987",
+    "text": "Você está a [distância] do seu [objetivo].",
+    "niches": [
+      "generic",
+      "direct",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "hk0988",
+    "text": "O que está por trás de [sucesso de concorrente]?",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0989",
+    "text": "Chega de [frustração]. Chegou a hora de [ação].",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "finance"
+    ]
+  },
+  {
+    "id": "hk0990",
+    "text": "O único vídeo que você precisa para [resultado].",
+    "niches": [
+      "generic",
+      "authority",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "hk0991",
+    "text": "Não perca essa [oportunidade] única, [Nome].",
+    "niches": [
+      "generic",
+      "personalization",
+      "scarcity",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "hk0992",
+    "text": "Eu te desafio a não [reação] com isso.",
+    "niches": [
+      "generic",
+      "curiosity",
+      "engagement",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "hk0993",
+    "text": "O que eu faria se tivesse [recurso] hoje?",
+    "niches": [
+      "generic",
+      "authority",
+      "storytelling",
+      "business"
+    ]
+  },
+  {
+    "id": "hk0994",
+    "text": "A verdade que a [indústria] esconde.",
+    "niches": [
+      "generic",
+      "authority",
+      "curiosity",
+      "news"
+    ]
+  },
+  {
+    "id": "hk0995",
+    "text": "Se você ainda [problema], você precisa ver isso.",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "health",
+      "relationships"
+    ]
+  },
+  {
+    "id": "hk0996",
+    "text": "Como [público] está [ação positiva] sem [recurso].",
+    "niches": [
+      "generic",
+      "proof",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "hk0997",
+    "text": "O que você faria se [problema] nunca mais existisse?",
+    "niches": [
+      "generic",
+      "curiosity",
+      "problem-solving",
+      "self-help"
+    ]
+  },
+  {
+    "id": "hk0998",
+    "text": "Você já pensou em [conquista]?",
+    "niches": [
+      "generic",
+      "direct",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "hk0999",
+    "text": "O futuro de [nicho] está aqui.",
+    "niches": [
+      "generic",
+      "announcement",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "hk1000",
+    "text": "Chega de perder tempo!",
+    "niches": [
+      "generic",
+      "urgency",
+      "productivity",
+      "all"
+    ]
+  }
+]

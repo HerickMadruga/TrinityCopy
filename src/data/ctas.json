@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "cta0001",
+    "text": "Compre Agora e Ganhe Desconto",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0002",
+    "text": "Baixe o Ebook Grátis",
+    "niches": [
+      "generic",
+      "education",
+      "marketing",
+      "lead-generation"
+    ]
+  },
+  {
+    "id": "cta0003",
+    "text": "Comece Seu Teste Gratuito",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0004",
+    "text": "Agende Sua Consulta Hoje",
+    "niches": [
+      "generic",
+      "health",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0005",
+    "text": "Assista o Vídeo Agora",
+    "niches": [
+      "generic",
+      "marketing",
+      "media"
+    ]
+  },
+  {
+    "id": "cta0006",
+    "text": "Inscreva-se e Mude de Vida",
+    "niches": [
+      "generic",
+      "self-help",
+      "education",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0007",
+    "text": "Garanta Sua Vaga Agora",
+    "niches": [
+      "generic",
+      "education",
+      "event",
+      "coaching"
+    ]
+  },
+  {
+    "id": "cta0008",
+    "text": "Descubra a Solução",
+    "niches": [
+      "generic",
+      "business",
+      "saas",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "cta0009",
+    "text": "Fale com um Especialista",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0010",
+    "text": "Receba Seu Orçamento Grátis",
+    "niches": [
+      "generic",
+      "service-based",
+      "construction",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0011",
+    "text": "Aprenda Mais Sobre o Assunto",
+    "niches": [
+      "generic",
+      "education",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0012",
+    "text": "Comece a Transformação",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0013",
+    "text": "Cadastre-se e Receba Novidades",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0014",
+    "text": "Entrar em Contato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0015",
+    "text": "Quero o meu Desconto",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail",
+      "fashion"
+    ]
+  },
+  {
+    "id": "cta0016",
+    "text": "Começar a Economizar",
+    "niches": [
+      "generic",
+      "finance",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0017",
+    "text": "Crie Sua Conta Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "technology",
+      "social-media"
+    ]
+  },
+  {
+    "id": "cta0018",
+    "text": "Obtenha Acesso Imediato",
+    "niches": [
+      "generic",
+      "education",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0019",
+    "text": "Simular o seu Financiamento",
+    "niches": [
+      "generic",
+      "finance",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0020",
+    "text": "Ver Planos e Preços",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0021",
+    "text": "Resgate Seu Brinde",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0022",
+    "text": "Baixar o Guia Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0023",
+    "text": "Comece a Usar Agora",
+    "niches": [
+      "generic",
+      "saas",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0024",
+    "text": "Reserve Sua Sessão",
+    "niches": [
+      "generic",
+      "health",
+      "coaching",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0025",
+    "text": "Acesse a Aula Gratuita",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0026",
+    "text": "Quero o meu Ebook Grátis",
+    "niches": [
+      "generic",
+      "lead-generation",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0027",
+    "text": "Assine Nossa Newsletter",
+    "niches": [
+      "generic",
+      "content-marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0028",
+    "text": "Comece a Perder Peso",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0029",
+    "text": "Saiba Como Funciona",
+    "niches": [
+      "generic",
+      "technology",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0030",
+    "text": "Vamos Conversar",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0031",
+    "text": "Sim, Quero a Promoção",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0032",
+    "text": "Transforme Seu Negócio",
+    "niches": [
+      "generic",
+      "business",
+      "marketing",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0033",
+    "text": "Fazer Meu Cadastro",
+    "niches": [
+      "generic",
+      "saas",
+      "education",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0034",
+    "text": "Quero Minha Liberdade Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0035",
+    "text": "Leia o Estudo de Caso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0036",
+    "text": "Ver Mais Depoimentos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0037",
+    "text": "Acesse a Plataforma",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0038",
+    "text": "Otimize Seu Tempo",
+    "niches": [
+      "generic",
+      "productivity",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0039",
+    "text": "Quero Meu Resultado",
+    "niches": [
+      "generic",
+      "health",
+      "fitness",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0040",
+    "text": "Explore as Funcionalidades",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0041",
+    "text": "Comprar Agora",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0042",
+    "text": "Fazer Download",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0043",
+    "text": "Experimente Grátis",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0044",
+    "text": "Pedir Orçamento",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0045",
+    "text": "Inscreva-se Agora",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0046",
+    "text": "Saber Mais",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0047",
+    "text": "Comece a Aprender",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0048",
+    "text": "Vamos Juntos",
+    "niches": [
+      "generic",
+      "self-help",
+      "coaching"
+    ]
+  },
+  {
+    "id": "cta0049",
+    "text": "Conheça Nossos Serviços",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0050",
+    "text": "Receber as Notícias",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0051",
+    "text": "Criar Meu Plano",
+    "niches": [
+      "generic",
+      "finance",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0052",
+    "text": "Quero o Melhor Preço",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0053",
+    "text": "Começar a Vender",
+    "niches": [
+      "generic",
+      "business",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0054",
+    "text": "Descubra a Próxima Etapa",
+    "niches": [
+      "generic",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0055",
+    "text": "Faça Sua Reserva",
+    "niches": [
+      "generic",
+      "travel",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "cta0056",
+    "text": "Ativar Minha Conta",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0057",
+    "text": "Garantir Meu Acesso",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0058",
+    "text": "Otimizar Meu Fluxo de Trabalho",
+    "niches": [
+      "generic",
+      "productivity",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0059",
+    "text": "Comece a Negociar",
+    "niches": [
+      "generic",
+      "finance",
+      "trading"
+    ]
+  },
+  {
+    "id": "cta0060",
+    "text": "Quero o meu [Benefício]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0061",
+    "text": "Junte-se a Nós",
+    "niches": [
+      "generic",
+      "community",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0062",
+    "text": "Conheça o Time",
+    "niches": [
+      "generic",
+      "business",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0063",
+    "text": "Ver Produtos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0064",
+    "text": "Transforme Seu Corpo",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0065",
+    "text": "Construir Meu Site",
+    "niches": [
+      "generic",
+      "web-dev",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0066",
+    "text": "Quero Saber Meu Nível",
+    "niches": [
+      "generic",
+      "education",
+      "testing"
+    ]
+  },
+  {
+    "id": "cta0067",
+    "text": "Acesse Nossos Recursos",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0068",
+    "text": "Quero uma Vida Melhor",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0069",
+    "text": "Solicite uma Demonstração",
+    "niches": [
+      "generic",
+      "saas",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0070",
+    "text": "Obtenha o seu Resultado",
+    "niches": [
+      "generic",
+      "fitness",
+      "health",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0071",
+    "text": "Ler o Artigo Completo",
+    "niches": [
+      "generic",
+      "blog",
+      "news"
+    ]
+  },
+  {
+    "id": "cta0072",
+    "text": "Seja um Afiliado",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0073",
+    "text": "Aprenda a Investir",
+    "niches": [
+      "generic",
+      "finance",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0074",
+    "text": "Resolver Meu Problema",
+    "niches": [
+      "generic",
+      "health",
+      "legal",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0075",
+    "text": "Comece a Crescer",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0076",
+    "text": "Fazer o Download Agora",
+    "niches": [
+      "generic",
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0077",
+    "text": "Comprar o Curso Online",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0078",
+    "text": "Ver Mais Detalhes",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0079",
+    "text": "Quero a [Solução] Imediata",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0080",
+    "text": "Garantir Minha Matrícula",
+    "niches": [
+      "generic",
+      "education",
+      "university"
+    ]
+  },
+  {
+    "id": "cta0081",
+    "text": "Fazer um Tour Gratuito",
+    "niches": [
+      "generic",
+      "saas",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0082",
+    "text": "Quero Acessar o Conteúdo",
+    "niches": [
+      "generic",
+      "education",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0083",
+    "text": "Obtenha Mais Informações",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0084",
+    "text": "Comece Sua [Jornada]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0085",
+    "text": "Explorar o Menu",
+    "niches": [
+      "generic",
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "cta0086",
+    "text": "Criar Meu [Produto]",
+    "niches": [
+      "generic",
+      "design",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0087",
+    "text": "Ver as Opções",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0088",
+    "text": "Quero o meu [Ebook]",
+    "niches": [
+      "generic",
+      "marketing",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0089",
+    "text": "Junte-se à Nossa Comunidade",
+    "niches": [
+      "generic",
+      "community",
+      "social-media"
+    ]
+  },
+  {
+    "id": "cta0090",
+    "text": "Quero a minha [Transformação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0091",
+    "text": "Obter Acesso Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "saas",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0092",
+    "text": "Aprenda com [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "coaching"
+    ]
+  },
+  {
+    "id": "cta0093",
+    "text": "Vamos Mudar o Mundo",
+    "niches": [
+      "generic",
+      "non-profit",
+      "social-impact"
+    ]
+  },
+  {
+    "id": "cta0094",
+    "text": "Ver Portfólio",
+    "niches": [
+      "generic",
+      "design",
+      "photography",
+      "art"
+    ]
+  },
+  {
+    "id": "cta0095",
+    "text": "Construa Seu Futuro",
+    "niches": [
+      "generic",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0096",
+    "text": "Quero Minha [Vantagem]",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0097",
+    "text": "Começar a Fazer",
+    "niches": [
+      "generic",
+      "hobbies",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0098",
+    "text": "Obter Minha [Solução]",
+    "niches": [
+      "generic",
+      "health",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0099",
+    "text": "Quero Ajudar",
+    "niches": [
+      "generic",
+      "non-profit",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0100",
+    "text": "Descubra o Próximo Passo",
+    "niches": [
+      "generic",
+      "self-help",
+      "business",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0101",
+    "text": "Compre Agora e Aproveite",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0102",
+    "text": "Assine para Receber Conteúdo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0103",
+    "text": "Comece de Graça",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0104",
+    "text": "Marque Seu Horário",
+    "niches": [
+      "generic",
+      "health",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0105",
+    "text": "Ver o Vídeo Explicativo",
+    "niches": [
+      "generic",
+      "marketing",
+      "media"
+    ]
+  },
+  {
+    "id": "cta0106",
+    "text": "Quero o meu [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0107",
+    "text": "Reserve Sua Mesa",
+    "niches": [
+      "generic",
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "cta0108",
+    "text": "Descubra o Método Secreto",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0109",
+    "text": "Obter Ajuda Profissional",
+    "niches": [
+      "generic",
+      "consulting",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0110",
+    "text": "Quero uma Avaliação Gratuita",
+    "niches": [
+      "generic",
+      "service-based",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0111",
+    "text": "Ler o Artigo na Íntegra",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0112",
+    "text": "Comece a Mudar de Hábito",
+    "niches": [
+      "generic",
+      "self-help",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0113",
+    "text": "Junte-se à Nossa Lista VIP",
+    "niches": [
+      "generic",
+      "marketing",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0114",
+    "text": "Entrar em Contato Agora",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0115",
+    "text": "Comprar com Desconto",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0116",
+    "text": "Calcular o Meu Preço",
+    "niches": [
+      "generic",
+      "finance",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0117",
+    "text": "Abrir Minha Conta Grátis",
+    "niches": [
+      "generic",
+      "saas",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0118",
+    "text": "Acesso ao Conteúdo Completo",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0119",
+    "text": "Fazer Simulação de [Ação]",
+    "niches": [
+      "generic",
+      "finance",
+      "insurance"
+    ]
+  },
+  {
+    "id": "cta0120",
+    "text": "Ver Todos os Planos",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0121",
+    "text": "Resgatar Meu Cupom",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0122",
+    "text": "Baixar o Checklist Grátis",
+    "niches": [
+      "generic",
+      "education",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0123",
+    "text": "Começar a Vender Mais",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0124",
+    "text": "Entender o Processo",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0125",
+    "text": "Assista ao Trailer",
+    "niches": [
+      "generic",
+      "media",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0126",
+    "text": "Quero o meu [Resultado]",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0127",
+    "text": "Fazer parte da Comunidade",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0128",
+    "text": "Parar de [Problema]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0129",
+    "text": "Quero Mais Informações",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0130",
+    "text": "Entrar em Contato com Vendas",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0131",
+    "text": "Não perca a Oportunidade",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0132",
+    "text": "Faça Seu Login",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0133",
+    "text": "Comece a Usar a [Ferramenta]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0134",
+    "text": "Quero Ser [Autoridade]",
+    "niches": [
+      "generic",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0135",
+    "text": "Leia o Nosso Blog",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0136",
+    "text": "Ver o que Falam de Nós",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0137",
+    "text": "Acesse Nossa Galeria",
+    "niches": [
+      "generic",
+      "art",
+      "design",
+      "photography"
+    ]
+  },
+  {
+    "id": "cta0138",
+    "text": "Faça Sua Doação",
+    "niches": [
+      "generic",
+      "non-profit",
+      "social-impact"
+    ]
+  },
+  {
+    "id": "cta0139",
+    "text": "Quero Ser o Melhor",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0140",
+    "text": "Veja as Vagas Abertas",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0141",
+    "text": "Compre com Confiança",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0142",
+    "text": "Baixar o Relatório Completo",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0143",
+    "text": "Comece Seu Projeto",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0144",
+    "text": "Agende uma Reunião",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0145",
+    "text": "Inscreva-se Gratuitamente",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0146",
+    "text": "Quero Resolver Meu [Problema]",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0147",
+    "text": "Ver os Próximos Eventos",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0148",
+    "text": "Quero um Futuro Melhor",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0149",
+    "text": "Faça Sua Inscrição",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0150",
+    "text": "Baixe o Aplicativo",
+    "niches": [
+      "generic",
+      "technology",
+      "app-development"
+    ]
+  },
+  {
+    "id": "cta0151",
+    "text": "Quero um Desconto Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0152",
+    "text": "Obtenha [Benefício] Grátis",
+    "niches": [
+      "generic",
+      "lead-generation",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0153",
+    "text": "Ver Mais Fotos",
+    "niches": [
+      "generic",
+      "photography",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0154",
+    "text": "Quero o meu [Produto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0155",
+    "text": "Planejar Minha [Ação]",
+    "niches": [
+      "generic",
+      "travel",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0156",
+    "text": "Fazer um Tour Virtual",
+    "niches": [
+      "generic",
+      "real-estate",
+      "travel"
+    ]
+  },
+  {
+    "id": "cta0157",
+    "text": "Ver as Últimas Notícias",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0158",
+    "text": "Comece a Investir Agora",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0159",
+    "text": "Seja o Primeiro a Saber",
+    "niches": [
+      "generic",
+      "marketing",
+      "launch"
+    ]
+  },
+  {
+    "id": "cta0160",
+    "text": "Simular Minha [Meta]",
+    "niches": [
+      "generic",
+      "finance",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0161",
+    "text": "Compre o seu [Item]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0162",
+    "text": "Fazer Download do [Recurso]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0163",
+    "text": "Assista a Demo Completa",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0164",
+    "text": "Marcar um Horário",
+    "niches": [
+      "generic",
+      "health",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0165",
+    "text": "Acesse o [Conteúdo] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0166",
+    "text": "Quero Fazer Parte",
+    "niches": [
+      "generic",
+      "community",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0167",
+    "text": "Descubra o Nosso Potencial",
+    "niches": [
+      "generic",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0168",
+    "text": "Obter uma [Solução] Eficaz",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0169",
+    "text": "Entre em Contato com um Consultor",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0170",
+    "text": "Quero o meu [Desconto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0171",
+    "text": "Conheça Nossas Soluções",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0172",
+    "text": "Comece a [Ação Positiva]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0173",
+    "text": "Aprenda com [Mentores]",
+    "niches": [
+      "generic",
+      "education",
+      "coaching"
+    ]
+  },
+  {
+    "id": "cta0174",
+    "text": "Ver Nossos Projetos",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0175",
+    "text": "Construir Meu Futuro Financeiro",
+    "niches": [
+      "generic",
+      "finance",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0176",
+    "text": "Quero Vender Mais",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0177",
+    "text": "Ver a Agenda de Cursos",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0178",
+    "text": "Fazer a Matrícula Agora",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0179",
+    "text": "Quero o meu [Ebook] Grátis",
+    "niches": [
+      "generic",
+      "lead-generation",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0180",
+    "text": "Ver as Vantagens Exclusivas",
+    "niches": [
+      "generic",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0181",
+    "text": "Aproveite a Oferta Única",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0182",
+    "text": "Baixe a Ferramenta Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0183",
+    "text": "Acesse a Versão Demo",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0184",
+    "text": "Aprenda a [Habilidade]",
+    "niches": [
+      "generic",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0185",
+    "text": "Resolver de uma vez",
+    "niches": [
+      "generic",
+      "health",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "cta0186",
+    "text": "Quero saber mais",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0187",
+    "text": "Fazer Parte do [Clube]",
+    "niches": [
+      "generic",
+      "community",
+      "membership"
+    ]
+  },
+  {
+    "id": "cta0188",
+    "text": "Começar a [Ação]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0189",
+    "text": "Quero a minha [Promoção]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0190",
+    "text": "Criar Meu [Projeto]",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0191",
+    "text": "Comprar [Produto] Online",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0192",
+    "text": "Faça seu Cadastro Grátis",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0193",
+    "text": "Assine Nosso [Plano]",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0194",
+    "text": "Obtenha seu [Resultado] Hoje",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0195",
+    "text": "Quero o meu [Guia]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0196",
+    "text": "Agende uma Conversa",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0197",
+    "text": "Ver Mais Fotos",
+    "niches": [
+      "generic",
+      "photography",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0198",
+    "text": "Acesse a [Biblioteca] Digital",
+    "niches": [
+      "generic",
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0199",
+    "text": "Venda Mais com Nossa [Ferramenta]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0200",
+    "text": "Quero Mudar de [Área]",
+    "niches": [
+      "generic",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0201",
+    "text": "Compre o Combo Exclusivo",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0202",
+    "text": "Baixe o [Conteúdo] Agora",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0203",
+    "text": "Comece a sua Jornada",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0204",
+    "text": "Marque Seu Compromisso",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0205",
+    "text": "Veja o [Vídeo] de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0206",
+    "text": "Inscreva-se e Participe",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0207",
+    "text": "Garantir Minha Reserva",
+    "niches": [
+      "generic",
+      "travel",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "cta0208",
+    "text": "Descubra o seu [Potencial]",
+    "niches": [
+      "generic",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0209",
+    "text": "Fale com um de Nossos Agentes",
+    "niches": [
+      "generic",
+      "finance",
+      "insurance"
+    ]
+  },
+  {
+    "id": "cta0210",
+    "text": "Ver Mais Detalhes sobre o [Produto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0211",
+    "text": "Ler as Avaliações",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0212",
+    "text": "Começar a Fazer [Ação]",
+    "niches": [
+      "generic",
+      "hobbies",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0213",
+    "text": "Assinar Nossa [Lista]",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0214",
+    "text": "Entrar em Contato e Tirar Dúvidas",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0215",
+    "text": "Quero o [Melhor] para o meu [Negócio]",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0216",
+    "text": "Simular Meu [Resultado]",
+    "niches": [
+      "generic",
+      "finance",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0217",
+    "text": "Comece a sua [Mudança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0218",
+    "text": "Explorar os [Recursos]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0219",
+    "text": "Quero a minha [Promoção] Exclusiva",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0220",
+    "text": "Otimize sua [Vida]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0221",
+    "text": "Aprenda a [Habilidade] Certa",
+    "niches": [
+      "generic",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0222",
+    "text": "Ver o Catálogo Completo",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0223",
+    "text": "Construir Meu [Sonho]",
+    "niches": [
+      "generic",
+      "real-estate",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0224",
+    "text": "Junte-se à Nossa Causa",
+    "niches": [
+      "generic",
+      "non-profit",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0225",
+    "text": "Quero [Crescer]",
+    "niches": [
+      "generic",
+      "business",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0226",
+    "text": "Leia o nosso [Conteúdo] de Graça",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0227",
+    "text": "Começar a Organizar",
+    "niches": [
+      "generic",
+      "productivity",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0228",
+    "text": "Fazer Parte da [Equipe]",
+    "niches": [
+      "generic",
+      "career",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0229",
+    "text": "Quero Ser [Autoridade] no Assunto",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0230",
+    "text": "Acesse os Benefícios",
+    "niches": [
+      "generic",
+      "saas",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0231",
+    "text": "Compre os [Produtos] Mais Vendidos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0232",
+    "text": "Baixe a Ferramenta [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0233",
+    "text": "Inicie o seu Teste Gratuito",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0234",
+    "text": "Quero agendar uma [Ação]",
+    "niches": [
+      "generic",
+      "service-based",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0235",
+    "text": "Assista o [Webinar] Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0236",
+    "text": "Junte-se a [Número] de [Público]",
+    "niches": [
+      "generic",
+      "community",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0237",
+    "text": "Descubra o Melhor Caminho",
+    "niches": [
+      "generic",
+      "self-help",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0238",
+    "text": "Fale com nosso Suporte",
+    "niches": [
+      "generic",
+      "customer-service",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0239",
+    "text": "Quero [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0240",
+    "text": "Ver Nossas Soluções",
+    "niches": [
+      "generic",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0241",
+    "text": "Compre com Envio Grátis",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0242",
+    "text": "Baixar o PDF Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0243",
+    "text": "Comece Sua [Rotina]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0244",
+    "text": "Peça um Contato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0245",
+    "text": "Inscreva-se e Não Perca Nada",
+    "niches": [
+      "generic",
+      "content-marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0246",
+    "text": "Quero o meu [Plano]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0247",
+    "text": "Ver Mais Produtos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0248",
+    "text": "Transformar Minha [Vida]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0249",
+    "text": "Obtenha [Vantagem]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0250",
+    "text": "Comece a [Ação] de Graça",
+    "niches": [
+      "generic",
+      "saas",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0251",
+    "text": "Quero minha [Solução] Eficaz",
+    "niches": [
+      "generic",
+      "health",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "cta0252",
+    "text": "Baixar o [Material] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0253",
+    "text": "Agende uma Demonstração",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0254",
+    "text": "Ver Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0255",
+    "text": "Fazer o Tour Completo",
+    "niches": [
+      "generic",
+      "real-estate",
+      "travel"
+    ]
+  },
+  {
+    "id": "cta0256",
+    "text": "Quero me Inscrever Agora",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0257",
+    "text": "Obter Acesso Vitalício",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0258",
+    "text": "Quero o meu [Relatório]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0259",
+    "text": "Veja como é Fácil",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0260",
+    "text": "Ler o Case de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0261",
+    "text": "Compre em 12x Sem Juros",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0262",
+    "text": "Baixar o [Recurso] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0263",
+    "text": "Comece Sua [Mudança]",
+    "niches": [
+      "generic",
+      "health",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0264",
+    "text": "Agende uma Ligação",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0265",
+    "text": "Assine e Receba Descontos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0266",
+    "text": "Quero o meu [Resultado] Rápido",
+    "niches": [
+      "generic",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0267",
+    "text": "Conheça a Nossa Equipe",
+    "niches": [
+      "generic",
+      "business",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0268",
+    "text": "Obtenha a Solução Completa",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0269",
+    "text": "Não Perca a Oportunidade",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0270",
+    "text": "Faça o seu Pedido",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0271",
+    "text": "Compre o Livro Agora",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0272",
+    "text": "Baixe o [Software] Grátis",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0273",
+    "text": "Comece a [Ação] sem Sair de Casa",
+    "niches": [
+      "generic",
+      "education",
+      "fitness",
+      "remote-work"
+    ]
+  },
+  {
+    "id": "cta0274",
+    "text": "Ver as Opções de [Serviço]",
+    "niches": [
+      "generic",
+      "service-based",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0275",
+    "text": "Inscreva-se e Concorra",
+    "niches": [
+      "generic",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0276",
+    "text": "Quero o meu [Ebook] VIP",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0277",
+    "text": "Crie sua [Obra] de Arte",
+    "niches": [
+      "generic",
+      "art",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0278",
+    "text": "Obtenha a [Reserva] Perfeita",
+    "niches": [
+      "generic",
+      "travel",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "cta0279",
+    "text": "Acesse Nossa [Biblioteca] de [Recursos]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0280",
+    "text": "Quero [Fazer Algo] agora",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0281",
+    "text": "Compre com Frete Grátis",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0282",
+    "text": "Baixe o [Guia] Passo a Passo",
+    "niches": [
+      "generic",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0283",
+    "text": "Comece a [Aprender]",
+    "niches": [
+      "generic",
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0284",
+    "text": "Fale com a [Equipe]",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0285",
+    "text": "Assista o [Episódio] Completo",
+    "niches": [
+      "generic",
+      "media",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "cta0286",
+    "text": "Quero o meu [Plano] Personalizado",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0287",
+    "text": "Faça parte da nossa [Comunidade]",
+    "niches": [
+      "generic",
+      "community",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0288",
+    "text": "Otimize sua [Produtividade]",
+    "niches": [
+      "generic",
+      "productivity",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0289",
+    "text": "Descubra as Melhores [Opções]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0290",
+    "text": "Quero a [Solução] Rápida",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0291",
+    "text": "Compre sem Sair de Casa",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0292",
+    "text": "Fazer o Teste Gratuito",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0293",
+    "text": "Obtenha Resultados Imediatos",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0294",
+    "text": "Agendar uma Avaliação",
+    "niches": [
+      "generic",
+      "service-based",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0295",
+    "text": "Inscreva-se para a [Vaga]",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0296",
+    "text": "Quero o meu [Certificado]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0297",
+    "text": "Veja Nossos Depoimentos",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0298",
+    "text": "Quero a [Ajuda] que preciso",
+    "niches": [
+      "generic",
+      "self-help",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0299",
+    "text": "Acesse a Versão Completa",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0300",
+    "text": "Baixe a Amostra Gratuita",
+    "niches": [
+      "generic",
+      "food",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0301",
+    "text": "Compre o seu [Livro] Físico",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0302",
+    "text": "Fazer o Download de [Conteúdo]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0303",
+    "text": "Comece a [Treinar]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0304",
+    "text": "Quero mais Informações",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0305",
+    "text": "Ver o [Documentário] Completo",
+    "niches": [
+      "generic",
+      "media",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0306",
+    "text": "Quero Fazer Parte do [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0307",
+    "text": "Garantir Meu [Lugar]",
+    "niches": [
+      "generic",
+      "event",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0308",
+    "text": "Descubra seu [Propósito]",
+    "niches": [
+      "generic",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "cta0309",
+    "text": "Fale com nosso [Suporte]",
+    "niches": [
+      "generic",
+      "customer-service",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0310",
+    "text": "Ver o [Projeto] em Ação",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0311",
+    "text": "Compre e Receba em [Tempo]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0312",
+    "text": "Baixar o [Template] Grátis",
+    "niches": [
+      "generic",
+      "design",
+      "marketing",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0313",
+    "text": "Comece a [Organizar]",
+    "niches": [
+      "generic",
+      "home",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0314",
+    "text": "Acesse o [Ebook] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0315",
+    "text": "Inscreva-se e Ganhe Desconto",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0316",
+    "text": "Quero o meu [Guia] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0317",
+    "text": "Crie seu [Plano] Financeiro",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0318",
+    "text": "Obtenha a [Consultoria] Gratuita",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0319",
+    "text": "Não Fique de Fora",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0320",
+    "text": "Ver Nossas Conquistas",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0321",
+    "text": "Compre e Ajude uma Causa",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0322",
+    "text": "Baixe o Guia [Completo]",
+    "niches": [
+      "generic",
+      "education",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0323",
+    "text": "Comece a [Construir]",
+    "niches": [
+      "generic",
+      "development",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0324",
+    "text": "Marque sua [Sessão]",
+    "niches": [
+      "generic",
+      "coaching",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0325",
+    "text": "Assista ao [Filme] Agora",
+    "niches": [
+      "generic",
+      "media",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "cta0326",
+    "text": "Quero o meu [Certificado] Profissional",
+    "niches": [
+      "generic",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0327",
+    "text": "Fazer o Meu Login",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0328",
+    "text": "Transformar meu [Negócio] em [Sucesso]",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0329",
+    "text": "Fale com nossos Consultores",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0330",
+    "text": "Ver as Opções de [Plano]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0331",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0332",
+    "text": "Baixe o [Conteúdo] de Alta Qualidade",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0333",
+    "text": "Comece a Mudar seu [Hábito]",
+    "niches": [
+      "generic",
+      "self-help",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0334",
+    "text": "Agendar um [Serviço]",
+    "niches": [
+      "generic",
+      "service-based",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0335",
+    "text": "Inscreva-se no [Webinar] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0336",
+    "text": "Quero o meu [Plano] Semanal",
+    "niches": [
+      "generic",
+      "fitness",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0337",
+    "text": "Veja nosso [Portfólio]",
+    "niches": [
+      "generic",
+      "design",
+      "photography"
+    ]
+  },
+  {
+    "id": "cta0338",
+    "text": "Obtenha a [Solução] para [Problema]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0339",
+    "text": "Fazer Parte do [Grupo] Exclusivo",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0340",
+    "text": "Ver as [Notícias] mais recentes",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0341",
+    "text": "Compre os Melhores [Produtos]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0342",
+    "text": "Baixe o [Software] Versão Completa",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0343",
+    "text": "Comece a [Organizar] sua [Vida]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0344",
+    "text": "Quero minha [Consulta] Gratuita",
+    "niches": [
+      "generic",
+      "health",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0345",
+    "text": "Acesse a Plataforma [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0346",
+    "text": "Obtenha seu [Guia] para [Objetivo]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0347",
+    "text": "Ver Mais [Opções] de [Produto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0348",
+    "text": "Quero uma [Vida] mais Saudável",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0349",
+    "text": "Explore a [Tecnologia] por trás",
+    "niches": [
+      "generic",
+      "technology",
+      "science"
+    ]
+  },
+  {
+    "id": "cta0350",
+    "text": "Descubra como [Ação]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0351",
+    "text": "Compre o Pacote Essencial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0352",
+    "text": "Baixe o Relatório [Anual]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0353",
+    "text": "Comece a [Investir] sem Medo",
+    "niches": [
+      "generic",
+      "finance",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0354",
+    "text": "Faça Sua Inscrição com Desconto",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0355",
+    "text": "Ver a [Aula] Gratuita",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0356",
+    "text": "Quero o meu [Guia] Completo",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0357",
+    "text": "Obtenha a [Ferramenta] de Sucesso",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0358",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0359",
+    "text": "Quero a [Solução] Definitiva",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0360",
+    "text": "Comece a [Ação] com Confiança",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0361",
+    "text": "Compre o Pacote Promocional",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0362",
+    "text": "Fazer Download do [Material]",
+    "niches": [
+      "generic",
+      "education",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0363",
+    "text": "Comece a [Ação] e Veja os Resultados",
+    "niches": [
+      "generic",
+      "business",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0364",
+    "text": "Agende uma [Avaliação] Grátis",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0365",
+    "text": "Acesse a Versão [Premium]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0366",
+    "text": "Quero me Juntar à [Comunidade]",
+    "niches": [
+      "generic",
+      "community",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0367",
+    "text": "Garantir minha [Vaga] no [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0368",
+    "text": "Ver as [Notícias] da Semana",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0369",
+    "text": "Quero o meu [Bônus] Exclusivo",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0370",
+    "text": "Explorar o [Mundo] de [Nicho]",
+    "niches": [
+      "generic",
+      "travel",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0371",
+    "text": "Compre o seu [Produto] e mude",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0372",
+    "text": "Baixe o [Planner] Gratuito",
+    "niches": [
+      "generic",
+      "productivity",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0373",
+    "text": "Comece a [Ação] sem [Problema]",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0374",
+    "text": "Fale com um [Representante]",
+    "niches": [
+      "generic",
+      "business",
+      "sales"
+    ]
+  },
+  {
+    "id": "cta0375",
+    "text": "Inscreva-se e Participe do Sorteio",
+    "niches": [
+      "generic",
+      "marketing",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0376",
+    "text": "Quero o meu [Resultado] Garantido",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0377",
+    "text": "Crie o seu [Projeto] de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0378",
+    "text": "Obtenha [Benefício] sem Gastar [Recurso]",
+    "niches": [
+      "generic",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0379",
+    "text": "Não Perca Essa [Oportunidade]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0380",
+    "text": "Ver as [Soluções] para [Problema]",
+    "niches": [
+      "generic",
+      "service-based",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0381",
+    "text": "Compre o seu [Ingresso]",
+    "niches": [
+      "generic",
+      "event",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "cta0382",
+    "text": "Baixe a [Apostila] Gratuita",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0383",
+    "text": "Comece a [Planejar]",
+    "niches": [
+      "generic",
+      "travel",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0384",
+    "text": "Quero a minha [Avaliação]",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0385",
+    "text": "Acesse a Área de Membros",
+    "niches": [
+      "generic",
+      "education",
+      "saas",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0386",
+    "text": "Obtenha a [Ferramenta] que Faltava",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0387",
+    "text": "Ver os Casos de Sucesso",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0388",
+    "text": "Quero uma [Vida] Sem [Problema]",
+    "niches": [
+      "generic",
+      "self-help",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0389",
+    "text": "Fale com o [Suporte] por Chat",
+    "niches": [
+      "generic",
+      "customer-service",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0390",
+    "text": "Aproveite a [Oportunidade] Única",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0391",
+    "text": "Compre o [Curso] Agora",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0392",
+    "text": "Baixe a [Planilha] Gratuita",
+    "niches": [
+      "generic",
+      "finance",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0393",
+    "text": "Comece a [Ação] de Forma [Adjetivo]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0394",
+    "text": "Peça Seu [Serviço] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0395",
+    "text": "Inscreva-se e Receba [Conteúdo]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0396",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0397",
+    "text": "Ver as [Vantagens] de ser [Membro]",
+    "niches": [
+      "generic",
+      "community",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0398",
+    "text": "Obtenha [Benefício] e Economize",
+    "niches": [
+      "generic",
+      "finance",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0399",
+    "text": "Comece a [Ação] sem Dor de Cabeça",
+    "niches": [
+      "generic",
+      "productivity",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0400",
+    "text": "Transforme sua [Ideia] em [Realidade]",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0401",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0402",
+    "text": "Baixe o [Ebook] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0403",
+    "text": "Comece a sua [Mudança] hoje",
+    "niches": [
+      "generic",
+      "self-help",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0404",
+    "text": "Marque seu [Horário] Online",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0405",
+    "text": "Assista o [Webinar] ao Vivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0406",
+    "text": "Quero o meu [Resultado] Rápido",
+    "niches": [
+      "generic",
+      "fitness",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0407",
+    "text": "Garantir meu [Lugar] no [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0408",
+    "text": "Descubra o Futuro de [Indústria]",
+    "niches": [
+      "generic",
+      "technology",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0409",
+    "text": "Fale com nossa [Equipe] de Vendas",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0410",
+    "text": "Ver as Opções de [Viagem]",
+    "niches": [
+      "generic",
+      "travel",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "cta0411",
+    "text": "Compre com Desconto de [Porcentagem]%",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0412",
+    "text": "Baixe o [Software] de [Nicho]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0413",
+    "text": "Comece a [Ação] Sem [Dificuldade]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0414",
+    "text": "Agende uma [Reunião] Gratuita",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0415",
+    "text": "Assine e Tenha Acesso Imediato",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0416",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "fitness",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0417",
+    "text": "Veja o [Projeto] Completo",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0418",
+    "text": "Quero minha [Independência] Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0419",
+    "text": "Não Perca os [Recursos]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0420",
+    "text": "Acesse a Área de [Clientes]",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0421",
+    "text": "Compre o seu [Produto] Exclusivo",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0422",
+    "text": "Fazer o Download da [Lista]",
+    "niches": [
+      "generic",
+      "productivity",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0423",
+    "text": "Comece a [Meditar]",
+    "niches": [
+      "generic",
+      "health",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0424",
+    "text": "Peça uma [Cotação]",
+    "niches": [
+      "generic",
+      "finance",
+      "insurance"
+    ]
+  },
+  {
+    "id": "cta0425",
+    "text": "Inscreva-se na [Aula] Gratuita",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0426",
+    "text": "Quero o meu [Guia] Prático",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0427",
+    "text": "Construa o seu [Negócio] Online",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0428",
+    "text": "Obtenha a [Ferramenta] que você precisa",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0429",
+    "text": "Chega de [Problema]! Clique Aqui",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0430",
+    "text": "Transforme sua [Paixão] em [Profissão]",
+    "niches": [
+      "generic",
+      "education",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0431",
+    "text": "Compre o seu [Produto] e mude",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0432",
+    "text": "Baixe o [Manual] de Instruções",
+    "niches": [
+      "generic",
+      "technology",
+      "home"
+    ]
+  },
+  {
+    "id": "cta0433",
+    "text": "Comece a [Fazer] a Diferença",
+    "niches": [
+      "generic",
+      "non-profit",
+      "social-impact"
+    ]
+  },
+  {
+    "id": "cta0434",
+    "text": "Quero agendar uma [Sessão]",
+    "niches": [
+      "generic",
+      "coaching",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0435",
+    "text": "Assista o [Webinar] Gravado",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0436",
+    "text": "Quero o meu [Plano] Mensal",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0437",
+    "text": "Ver Nossa [Coleção]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "fashion"
+    ]
+  },
+  {
+    "id": "cta0438",
+    "text": "Descubra a [Solução] para [Problema]",
+    "niches": [
+      "generic",
+      "health",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "cta0439",
+    "text": "Fale com um [Gerente] de Contas",
+    "niches": [
+      "generic",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0440",
+    "text": "Veja os [Projetos] de nossos [Clientes]",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0441",
+    "text": "Compre com Pagamento Facilitado",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0442",
+    "text": "Baixe o [Material] de Apoio",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0443",
+    "text": "Comece a [Ação] Sem [Medo]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0444",
+    "text": "Peça Seu [Orçamento] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0445",
+    "text": "Inscreva-se e Receba uma [Surpresa]",
+    "niches": [
+      "generic",
+      "marketing",
+      "lead-generation"
+    ]
+  },
+  {
+    "id": "cta0446",
+    "text": "Quero o meu [Ebook] em [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0447",
+    "text": "Crie sua [Rotina] de Sucesso",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0448",
+    "text": "Obtenha [Benefício] e Crie sua [Oportunidade]",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0449",
+    "text": "Não Perca seu [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0450",
+    "text": "Acesse a Área de [Recursos]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0451",
+    "text": "Compre a [Assinatura] Anual",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0452",
+    "text": "Fazer Download de [Ferramenta] Grátis",
+    "niches": [
+      "generic",
+      "technology",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0453",
+    "text": "Comece a [Ação] de Forma [Fácil]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0454",
+    "text": "Marque Sua [Data] e [Hora]",
+    "niches": [
+      "generic",
+      "event",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0455",
+    "text": "Inscreva-se no [Plano] Básico",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0456",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "health",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0457",
+    "text": "Ver as [Notícias] de Última Hora",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0458",
+    "text": "Descubra a sua [Solução]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0459",
+    "text": "Quero o meu [Produto] com Desconto",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0460",
+    "text": "Obtenha seu [Benefício] Gratuito",
+    "niches": [
+      "generic",
+      "lead-generation",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0461",
+    "text": "Compre o seu [Produto] e mude",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0462",
+    "text": "Baixe o [Ebook] para [Público]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0463",
+    "text": "Comece a [Ação] hoje e veja",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0464",
+    "text": "Agende uma [Sessão] de [Ação]",
+    "niches": [
+      "generic",
+      "health",
+      "coaching"
+    ]
+  },
+  {
+    "id": "cta0465",
+    "text": "Assista ao [Mini-Curso] Grátis",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0466",
+    "text": "Quero o meu [Guia] para Iniciantes",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0467",
+    "text": "Fazer parte da [Comunidade] VIP",
+    "niches": [
+      "generic",
+      "community",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0468",
+    "text": "Otimize sua [Vida] em [Tempo]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0469",
+    "text": "Descubra as Melhores [Estratégias]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0470",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0471",
+    "text": "Compre com [Condição de Pagamento]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0472",
+    "text": "Baixe o [Ebook] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0473",
+    "text": "Comece a [Ação] e [Conquista]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0474",
+    "text": "Peça uma [Demonstração] Grátis",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0475",
+    "text": "Inscreva-se e Mude sua [Rotina]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0476",
+    "text": "Quero o meu [Plano] Anual",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0477",
+    "text": "Ver o [Projeto] dos [Clientes]",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0478",
+    "text": "Obtenha [Vantagem] de [Concorrente]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0479",
+    "text": "Não perca seu [Tempo]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0480",
+    "text": "Acesse a Área de [Membros]",
+    "niches": [
+      "generic",
+      "education",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0481",
+    "text": "Compre o seu [Produto] em [Cor]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "fashion"
+    ]
+  },
+  {
+    "id": "cta0482",
+    "text": "Fazer Download do [Relatório]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0483",
+    "text": "Comece a [Ação] de Forma Fácil e Rápida",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0484",
+    "text": "Marque Seu [Agendamento]",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0485",
+    "text": "Inscreva-se no [Curso] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0486",
+    "text": "Quero o meu [Guia] Completo de [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0487",
+    "text": "Ver o [Portfólio] Completo",
+    "niches": [
+      "generic",
+      "design",
+      "photography"
+    ]
+  },
+  {
+    "id": "cta0488",
+    "text": "Descubra a [Solução] para o seu [Problema]",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0489",
+    "text": "Não perca a [Oferta] Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0490",
+    "text": "Obtenha acesso à [Biblioteca]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0491",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0492",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0493",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0494",
+    "text": "Fale com um [Consultor] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0495",
+    "text": "Assista o [Webinar] e Aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0496",
+    "text": "Quero o meu [Plano] Essencial",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0497",
+    "text": "Ver Nossa [História] de Sucesso",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0498",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0499",
+    "text": "Não Perca a sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0500",
+    "text": "Criar Meu [Perfil]",
+    "niches": [
+      "generic",
+      "social-media",
+      "saas"
+    ]
+  },
+
+  {
+    "id": "cta0501",
+    "text": "Obtenha Acesso Imediato ao [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0502",
+    "text": "Ver Planos e Preços",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0503",
+    "text": "Comece a Transformação",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0504",
+    "text": "Agende uma Demonstração Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0505",
+    "text": "Inscreva-se e Ganhe [Benefício]",
+    "niches": [
+      "generic",
+      "marketing",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0506",
+    "text": "Quero o meu [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0507",
+    "text": "Crie seu [Produto] Personalizado",
+    "niches": [
+      "generic",
+      "design",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0508",
+    "text": "Descubra seu [Estilo]",
+    "niches": [
+      "generic",
+      "fashion",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0509",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0510",
+    "text": "Não Perca essa Oportunidade",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0511",
+    "text": "Compre os [Itens] Mais Desejados",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0512",
+    "text": "Baixe a Ferramenta [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0513",
+    "text": "Comece a [Ação] de Forma Fácil",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0514",
+    "text": "Peça um Contato Imediato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0515",
+    "text": "Assine Nossa Newsletter e Participe",
+    "niches": [
+      "generic",
+      "marketing",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0516",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0517",
+    "text": "Ver as [Notícias] do Dia",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0518",
+    "text": "Transforme sua [Rotina] agora",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0519",
+    "text": "Obtenha a [Vantagem] Competitiva",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0520",
+    "text": "Comece a [Ação] e [Conquista]",
+    "niches": [
+      "generic",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0521",
+    "text": "Quero minha [Solução] Garantida",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0522",
+    "text": "Baixar o [Material] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0523",
+    "text": "Agende uma Reunião Estratégica",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0524",
+    "text": "Ver [Projetos] e Casos de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0525",
+    "text": "Fazer um Tour pelo [Produto]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0526",
+    "text": "Quero meu [Bônus] Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0527",
+    "text": "Obter Acesso a [Recurso]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0528",
+    "text": "Quero o meu [Relatório] Detalhado",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0529",
+    "text": "Descubra as [Vantagens] de ser [Membro]",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0530",
+    "text": "Ler o Artigo Sem Anúncios",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0531",
+    "text": "Compre em [Número] Parcelas",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0532",
+    "text": "Baixe o [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0533",
+    "text": "Comece a Mudar seu [Hábito] hoje",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0534",
+    "text": "Agende uma [Avaliação] Grátis",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0535",
+    "text": "Inscreva-se e Garanta sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0536",
+    "text": "Quero o meu [Plano] Personalizado",
+    "niches": [
+      "generic",
+      "fitness",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0537",
+    "text": "Conheça o [Produto] por Dentro",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0538",
+    "text": "Obtenha a [Solução] Imediata",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0539",
+    "text": "Não Perca essa [Oferta] Exclusiva",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0540",
+    "text": "Faça seu Pedido Online",
+    "niches": [
+      "generic",
+      "food",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0541",
+    "text": "Compre o seu [Curso] e [Benefício]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0542",
+    "text": "Fazer Download do [Template] Grátis",
+    "niches": [
+      "generic",
+      "design",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0543",
+    "text": "Comece a [Treinar] em casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0544",
+    "text": "Quero o meu [Orçamento] Gratuito",
+    "niches": [
+      "generic",
+      "service-based",
+      "construction"
+    ]
+  },
+  {
+    "id": "cta0545",
+    "text": "Assista ao [Webinar] e aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0546",
+    "text": "Quero [Ganhar Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0547",
+    "text": "Ver as [Conquistas] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0548",
+    "text": "Obtenha a [Ferramenta] de Sucesso",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0549",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0550",
+    "text": "Aproveite o [Desconto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0551",
+    "text": "Compre os [Produtos] em Oferta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0552",
+    "text": "Baixe o [Relatório] de [Ano]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0553",
+    "text": "Comece sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "cta0554",
+    "text": "Agende uma [Reunião] Rápida",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0555",
+    "text": "Acesse a Versão [Premium]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0556",
+    "text": "Quero o meu [Ebook] de [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0557",
+    "text": "Veja as Vagas Disponíveis",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0558",
+    "text": "Quero Mudar de Vida",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0559",
+    "text": "Não perca seu [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0560",
+    "text": "Crie sua [Rotina] de [Sucesso]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0561",
+    "text": "Compre com Entrega Rápida",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0562",
+    "text": "Fazer Download do [Guia] Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0563",
+    "text": "Comece a [Ação] sem Sair de Casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0564",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0565",
+    "text": "Assine e Receba nosso [Conteúdo]",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0566",
+    "text": "Quero a minha [Liberdade] Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0567",
+    "text": "Conheça nossas [Soluções] Digitais",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0568",
+    "text": "Descubra o [Segredo] para [Ação]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0569",
+    "text": "Não Perca essa [Vantagem]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0570",
+    "text": "Aproveite a [Promoção] de Lançamento",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0571",
+    "text": "Compre o seu [Produto] e Garanta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0572",
+    "text": "Baixe a [Planilha] para [Ação]",
+    "niches": [
+      "generic",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0573",
+    "text": "Comece a [Ação] de forma [Adjetivo]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0574",
+    "text": "Agende uma [Visita]",
+    "niches": [
+      "generic",
+      "real-estate",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0575",
+    "text": "Inscreva-se na [Lista] de Espera",
+    "niches": [
+      "generic",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0576",
+    "text": "Quero o meu [Guia] Prático",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0577",
+    "text": "Crie seu [Projeto] com facilidade",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0578",
+    "text": "Obtenha a [Ferramenta] que Faltava",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0579",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0580",
+    "text": "Transforme sua [Vida] Profissional",
+    "niches": [
+      "generic",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0581",
+    "text": "Compre o [Combo] de [Produtos]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0582",
+    "text": "Baixe o [Livro] Digital",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0583",
+    "text": "Comece a sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0584",
+    "text": "Quero o meu [Orçamento] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0585",
+    "text": "Acesse a Área de [Membros]",
+    "niches": [
+      "generic",
+      "education",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0586",
+    "text": "Obtenha a [Vantagem] Exclusiva",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0587",
+    "text": "Ver Nossos Planos de [Serviço]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0588",
+    "text": "Quero uma [Vida] mais Plena",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0589",
+    "text": "Fale com um [Especialista] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0590",
+    "text": "Ver as [Notícias] da [Indústria]",
+    "niches": [
+      "generic",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0591",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0592",
+    "text": "Fazer Download do [Material] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0593",
+    "text": "Comece a [Cozinhar] como um Chef",
+    "niches": [
+      "generic",
+      "food",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0594",
+    "text": "Agendar sua [Visita] Guiada",
+    "niches": [
+      "generic",
+      "travel",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0595",
+    "text": "Inscreva-se e Participe do [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0596",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0597",
+    "text": "Crie sua [Marca] de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0598",
+    "text": "Obtenha [Benefício] sem [Esforço]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0599",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0600",
+    "text": "Transforme sua [Casa] em [Lar]",
+    "niches": [
+      "generic",
+      "home",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0601",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0602",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0603",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0604",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0605",
+    "text": "Assista ao [Webinar] e [Aprenda]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0606",
+    "text": "Quero o meu [Plano] Básico",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0607",
+    "text": "Ver os [Projetos] de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0608",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0609",
+    "text": "Não Perca a sua [Vaga] no [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0610",
+    "text": "Criar Meu [Perfil] Profissional",
+    "niches": [
+      "generic",
+      "social-media",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0611",
+    "text": "Obtenha Acesso à [Biblioteca]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0612",
+    "text": "Compre com [Condição de Pagamento]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0613",
+    "text": "Baixe o [Relatório] da [Indústria]",
+    "niches": [
+      "generic",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0614",
+    "text": "Comece a [Ação] de Forma Fácil e Rápida",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0615",
+    "text": "Marque seu [Agendamento] Online",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0616",
+    "text": "Inscreva-se e Mude sua [Rotina]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0617",
+    "text": "Quero o meu [Plano] Anual",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0618",
+    "text": "Ver a [História] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0619",
+    "text": "Obtenha [Vantagem] de [Concorrente]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0620",
+    "text": "Não perca seu [Tempo]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0621",
+    "text": "Acesse a Área de [Recursos]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0622",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0623",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0624",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0625",
+    "text": "Fale com um [Consultor] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0626",
+    "text": "Assista o [Webinar] e Aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0627",
+    "text": "Quero o meu [Plano] Essencial",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0628",
+    "text": "Ver Nossa [História] de Sucesso",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0629",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0630",
+    "text": "Não Perca a sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0631",
+    "text": "Criar Meu [Perfil] Agora",
+    "niches": [
+      "generic",
+      "social-media",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0632",
+    "text": "Obtenha Acesso Imediato ao [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0633",
+    "text": "Ver Planos e Preços",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0634",
+    "text": "Comece a Transformação",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0635",
+    "text": "Agende uma Demonstração Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0636",
+    "text": "Inscreva-se e Ganhe [Benefício]",
+    "niches": [
+      "generic",
+      "marketing",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0637",
+    "text": "Quero o meu [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0638",
+    "text": "Crie seu [Produto] Personalizado",
+    "niches": [
+      "generic",
+      "design",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0639",
+    "text": "Descubra seu [Estilo]",
+    "niches": [
+      "generic",
+      "fashion",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0640",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0641",
+    "text": "Não Perca essa Oportunidade",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0642",
+    "text": "Compre os [Itens] Mais Desejados",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0643",
+    "text": "Baixe a Ferramenta [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0644",
+    "text": "Comece a [Ação] de Forma Fácil",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0645",
+    "text": "Peça um Contato Imediato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0646",
+    "text": "Assine Nossa Newsletter e Participe",
+    "niches": [
+      "generic",
+      "marketing",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0647",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0648",
+    "text": "Ver as [Notícias] do Dia",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0649",
+    "text": "Transforme sua [Rotina] agora",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0650",
+    "text": "Obtenha a [Vantagem] Competitiva",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0651",
+    "text": "Comece a [Ação] e [Conquista]",
+    "niches": [
+      "generic",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0652",
+    "text": "Quero minha [Solução] Garantida",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0653",
+    "text": "Baixar o [Material] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0654",
+    "text": "Agende uma Reunião Estratégica",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0655",
+    "text": "Ver [Projetos] e Casos de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0656",
+    "text": "Fazer um Tour pelo [Produto]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0657",
+    "text": "Quero meu [Bônus] Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0658",
+    "text": "Obter Acesso a [Recurso]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0659",
+    "text": "Quero o meu [Relatório] Detalhado",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0660",
+    "text": "Descubra as [Vantagens] de ser [Membro]",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0661",
+    "text": "Ler o Artigo Sem Anúncios",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0662",
+    "text": "Compre em [Número] Parcelas",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0663",
+    "text": "Baixe o [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0664",
+    "text": "Comece a Mudar seu [Hábito] hoje",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0665",
+    "text": "Agende uma [Avaliação] Grátis",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0666",
+    "text": "Inscreva-se e Garanta sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0667",
+    "text": "Quero o meu [Plano] Personalizado",
+    "niches": [
+      "generic",
+      "fitness",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0668",
+    "text": "Conheça o [Produto] por Dentro",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0669",
+    "text": "Obtenha a [Solução] Imediata",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0670",
+    "text": "Faça seu Pedido Online",
+    "niches": [
+      "generic",
+      "food",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0671",
+    "text": "Compre o seu [Curso] e [Benefício]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0672",
+    "text": "Fazer Download do [Template] Grátis",
+    "niches": [
+      "generic",
+      "design",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0673",
+    "text": "Comece a [Treinar] em casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0674",
+    "text": "Quero o meu [Orçamento] Gratuito",
+    "niches": [
+      "generic",
+      "service-based",
+      "construction"
+    ]
+  },
+  {
+    "id": "cta0675",
+    "text": "Assista ao [Webinar] e aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0676",
+    "text": "Quero [Ganhar Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0677",
+    "text": "Ver as [Conquistas] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0678",
+    "text": "Obtenha a [Ferramenta] de Sucesso",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0679",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0680",
+    "text": "Aproveite o [Desconto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0681",
+    "text": "Compre os [Produtos] em Oferta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0682",
+    "text": "Baixe o [Relatório] de [Ano]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0683",
+    "text": "Comece sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "cta0684",
+    "text": "Agende uma [Reunião] Rápida",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0685",
+    "text": "Acesse a Versão [Premium]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0686",
+    "text": "Quero o meu [Ebook] de [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0687",
+    "text": "Veja as Vagas Disponíveis",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0688",
+    "text": "Quero Mudar de Vida",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0689",
+    "text": "Não perca seu [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0690",
+    "text": "Crie sua [Rotina] de [Sucesso]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0691",
+    "text": "Compre com Entrega Rápida",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0692",
+    "text": "Fazer Download do [Guia] Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0693",
+    "text": "Comece a [Ação] sem Sair de Casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0694",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0695",
+    "text": "Assine e Receba nosso [Conteúdo]",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0696",
+    "text": "Quero a minha [Liberdade] Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0697",
+    "text": "Conheça nossas [Soluções] Digitais",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0698",
+    "text": "Descubra o [Segredo] para [Ação]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0699",
+    "text": "Não Perca essa [Vantagem]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0700",
+    "text": "Aproveite a [Promoção] de Lançamento",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0701",
+    "text": "Compre o seu [Produto] e Garanta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0702",
+    "text": "Baixe a [Planilha] para [Ação]",
+    "niches": [
+      "generic",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0703",
+    "text": "Comece a [Ação] de forma [Adjetivo]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0704",
+    "text": "Agende uma [Visita]",
+    "niches": [
+      "generic",
+      "real-estate",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0705",
+    "text": "Inscreva-se na [Lista] de Espera",
+    "niches": [
+      "generic",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0706",
+    "text": "Quero o meu [Guia] Prático",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0707",
+    "text": "Crie seu [Projeto] com facilidade",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0708",
+    "text": "Obtenha a [Ferramenta] que Faltava",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0709",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0710",
+    "text": "Transforme sua [Vida] Profissional",
+    "niches": [
+      "generic",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0711",
+    "text": "Compre o [Combo] de [Produtos]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0712",
+    "text": "Baixe o [Livro] Digital",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0713",
+    "text": "Comece a sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0714",
+    "text": "Quero o meu [Orçamento] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0715",
+    "text": "Acesse a Área de [Membros]",
+    "niches": [
+      "generic",
+      "education",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0716",
+    "text": "Obtenha a [Vantagem] Exclusiva",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0717",
+    "text": "Ver Nossos Planos de [Serviço]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0718",
+    "text": "Quero uma [Vida] mais Plena",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0719",
+    "text": "Fale com um [Especialista] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0720",
+    "text": "Ver as [Notícias] da [Indústria]",
+    "niches": [
+      "generic",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0721",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0722",
+    "text": "Fazer Download do [Material] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0723",
+    "text": "Comece a [Cozinhar] como um Chef",
+    "niches": [
+      "generic",
+      "food",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0724",
+    "text": "Agendar sua [Visita] Guiada",
+    "niches": [
+      "generic",
+      "travel",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0725",
+    "text": "Inscreva-se e Participe do [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0726",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0727",
+    "text": "Crie sua [Marca] de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0728",
+    "text": "Obtenha [Benefício] sem [Esforço]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0729",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0730",
+    "text": "Transforme sua [Casa] em [Lar]",
+    "niches": [
+      "generic",
+      "home",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0731",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0732",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0733",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0734",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0735",
+    "text": "Assista ao [Webinar] e [Aprenda]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0736",
+    "text": "Quero o meu [Plano] Básico",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0737",
+    "text": "Ver os [Projetos] de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0738",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0739",
+    "text": "Não Perca a sua [Vaga] no [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0740",
+    "text": "Criar Meu [Perfil] Profissional",
+    "niches": [
+      "generic",
+      "social-media",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0741",
+    "text": "Obtenha Acesso à [Biblioteca]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0742",
+    "text": "Compre com [Condição de Pagamento]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0743",
+    "text": "Baixe o [Relatório] da [Indústria]",
+    "niches": [
+      "generic",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0744",
+    "text": "Comece a [Ação] de Forma Fácil e Rápida",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0745",
+    "text": "Marque seu [Agendamento] Online",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0746",
+    "text": "Inscreva-se e Mude sua [Rotina]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0747",
+    "text": "Quero o meu [Plano] Anual",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0748",
+    "text": "Ver a [História] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0749",
+    "text": "Obtenha [Vantagem] de [Concorrente]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0750",
+    "text": "Não perca seu [Tempo]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0751",
+    "text": "Acesse a Área de [Recursos]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0752",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0753",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0754",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0755",
+    "text": "Fale com um [Consultor] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0756",
+    "text": "Assista o [Webinar] e Aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0757",
+    "text": "Quero o meu [Plano] Essencial",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0758",
+    "text": "Ver Nossa [História] de Sucesso",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0759",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0760",
+    "text": "Não Perca a sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0761",
+    "text": "Criar Meu [Perfil] Agora",
+    "niches": [
+      "generic",
+      "social-media",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0762",
+    "text": "Obtenha Acesso Imediato ao [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0763",
+    "text": "Ver Planos e Preços",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0764",
+    "text": "Comece a Transformação",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0765",
+    "text": "Agende uma Demonstração Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0766",
+    "text": "Inscreva-se e Ganhe [Benefício]",
+    "niches": [
+      "generic",
+      "marketing",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0767",
+    "text": "Quero o meu [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0768",
+    "text": "Crie seu [Produto] Personalizado",
+    "niches": [
+      "generic",
+      "design",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0769",
+    "text": "Descubra seu [Estilo]",
+    "niches": [
+      "generic",
+      "fashion",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0770",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0771",
+    "text": "Não Perca essa Oportunidade",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0772",
+    "text": "Compre os [Itens] Mais Desejados",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0773",
+    "text": "Baixe a Ferramenta [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0774",
+    "text": "Comece a [Ação] de Forma Fácil",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0775",
+    "text": "Peça um Contato Imediato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0776",
+    "text": "Assine Nossa Newsletter e Participe",
+    "niches": [
+      "generic",
+      "marketing",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0777",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0778",
+    "text": "Ver as [Notícias] do Dia",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0779",
+    "text": "Transforme sua [Rotina] agora",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0780",
+    "text": "Obtenha a [Vantagem] Competitiva",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0781",
+    "text": "Comece a [Ação] e [Conquista]",
+    "niches": [
+      "generic",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0782",
+    "text": "Quero minha [Solução] Garantida",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0783",
+    "text": "Baixar o [Material] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0784",
+    "text": "Agende uma Reunião Estratégica",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0785",
+    "text": "Ver [Projetos] e Casos de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0786",
+    "text": "Fazer um Tour pelo [Produto]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0787",
+    "text": "Quero meu [Bônus] Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0788",
+    "text": "Obter Acesso a [Recurso]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0789",
+    "text": "Quero o meu [Relatório] Detalhado",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0790",
+    "text": "Descubra as [Vantagens] de ser [Membro]",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0791",
+    "text": "Ler o Artigo Sem Anúncios",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0792",
+    "text": "Compre em [Número] Parcelas",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0793",
+    "text": "Baixe o [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0794",
+    "text": "Comece a Mudar seu [Hábito] hoje",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0795",
+    "text": "Agende uma [Avaliação] Grátis",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0796",
+    "text": "Inscreva-se e Garanta sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0797",
+    "text": "Quero o meu [Plano] Personalizado",
+    "niches": [
+      "generic",
+      "fitness",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0798",
+    "text": "Conheça o [Produto] por Dentro",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0799",
+    "text": "Obtenha a [Solução] Imediata",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0800",
+    "text": "Faça seu Pedido Online",
+    "niches": [
+      "generic",
+      "food",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0801",
+    "text": "Compre o seu [Curso] e [Benefício]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0802",
+    "text": "Fazer Download do [Template] Grátis",
+    "niches": [
+      "generic",
+      "design",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0803",
+    "text": "Comece a [Treinar] em casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0804",
+    "text": "Quero o meu [Orçamento] Gratuito",
+    "niches": [
+      "generic",
+      "service-based",
+      "construction"
+    ]
+  },
+  {
+    "id": "cta0805",
+    "text": "Assista ao [Webinar] e aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0806",
+    "text": "Quero [Ganhar Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0807",
+    "text": "Ver as [Conquistas] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0808",
+    "text": "Obtenha a [Ferramenta] de Sucesso",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0809",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0810",
+    "text": "Aproveite o [Desconto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0811",
+    "text": "Compre os [Produtos] em Oferta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0812",
+    "text": "Baixe o [Relatório] de [Ano]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0813",
+    "text": "Comece sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "cta0814",
+    "text": "Agende uma [Reunião] Rápida",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0815",
+    "text": "Acesse a Versão [Premium]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0816",
+    "text": "Quero o meu [Ebook] de [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0817",
+    "text": "Veja as Vagas Disponíveis",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0818",
+    "text": "Quero Mudar de Vida",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0819",
+    "text": "Não perca seu [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0820",
+    "text": "Crie sua [Rotina] de [Sucesso]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0821",
+    "text": "Compre com Entrega Rápida",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0822",
+    "text": "Fazer Download do [Guia] Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0823",
+    "text": "Comece a [Ação] sem Sair de Casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0824",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0825",
+    "text": "Assine e Receba nosso [Conteúdo]",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0826",
+    "text": "Quero a minha [Liberdade] Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0827",
+    "text": "Conheça nossas [Soluções] Digitais",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0828",
+    "text": "Descubra o [Segredo] para [Ação]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0829",
+    "text": "Não Perca essa [Vantagem]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0830",
+    "text": "Aproveite a [Promoção] de Lançamento",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0831",
+    "text": "Compre o seu [Produto] e Garanta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0832",
+    "text": "Baixe a [Planilha] para [Ação]",
+    "niches": [
+      "generic",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0833",
+    "text": "Comece a [Ação] de forma [Adjetivo]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0834",
+    "text": "Agende uma [Visita]",
+    "niches": [
+      "generic",
+      "real-estate",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0835",
+    "text": "Inscreva-se na [Lista] de Espera",
+    "niches": [
+      "generic",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0836",
+    "text": "Quero o meu [Guia] Prático",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0837",
+    "text": "Crie seu [Projeto] com facilidade",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0838",
+    "text": "Obtenha a [Ferramenta] que Faltava",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0839",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0840",
+    "text": "Transforme sua [Vida] Profissional",
+    "niches": [
+      "generic",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0841",
+    "text": "Compre o [Combo] de [Produtos]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0842",
+    "text": "Baixe o [Livro] Digital",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0843",
+    "text": "Comece a sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0844",
+    "text": "Quero o meu [Orçamento] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0845",
+    "text": "Acesse a Área de [Membros]",
+    "niches": [
+      "generic",
+      "education",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0846",
+    "text": "Obtenha a [Vantagem] Exclusiva",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0847",
+    "text": "Ver Nossos Planos de [Serviço]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0848",
+    "text": "Quero uma [Vida] mais Plena",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0849",
+    "text": "Fale com um [Especialista] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0850",
+    "text": "Ver as [Notícias] da [Indústria]",
+    "niches": [
+      "generic",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0851",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0852",
+    "text": "Fazer Download do [Material] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0853",
+    "text": "Comece a [Cozinhar] como um Chef",
+    "niches": [
+      "generic",
+      "food",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0854",
+    "text": "Agendar sua [Visita] Guiada",
+    "niches": [
+      "generic",
+      "travel",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0855",
+    "text": "Inscreva-se e Participe do [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0856",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0857",
+    "text": "Crie sua [Marca] de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0858",
+    "text": "Obtenha [Benefício] sem [Esforço]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0859",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0860",
+    "text": "Transforme sua [Casa] em [Lar]",
+    "niches": [
+      "generic",
+      "home",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0861",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0862",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0863",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0864",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0865",
+    "text": "Assista ao [Webinar] e [Aprenda]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0866",
+    "text": "Quero o meu [Plano] Básico",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0867",
+    "text": "Ver os [Projetos] de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0868",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0869",
+    "text": "Não Perca a sua [Vaga] no [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0870",
+    "text": "Criar Meu [Perfil] Profissional",
+    "niches": [
+      "generic",
+      "social-media",
+      "career"
+    ]
+  },
+  {
+    "id": "cta0871",
+    "text": "Obtenha Acesso à [Biblioteca]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0872",
+    "text": "Compre com [Condição de Pagamento]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0873",
+    "text": "Baixe o [Relatório] da [Indústria]",
+    "niches": [
+      "generic",
+      "business",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0874",
+    "text": "Comece a [Ação] de Forma Fácil e Rápida",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0875",
+    "text": "Marque seu [Agendamento] Online",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0876",
+    "text": "Inscreva-se e Mude sua [Rotina]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0877",
+    "text": "Quero o meu [Plano] Anual",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0878",
+    "text": "Ver a [História] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0879",
+    "text": "Obtenha [Vantagem] de [Concorrente]",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0880",
+    "text": "Não perca seu [Tempo]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0881",
+    "text": "Acesse a Área de [Recursos]",
+    "niches": [
+      "generic",
+      "saas",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0882",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0883",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0884",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0885",
+    "text": "Fale com um [Consultor] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0886",
+    "text": "Assista o [Webinar] e Aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0887",
+    "text": "Quero o meu [Plano] Essencial",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0888",
+    "text": "Ver Nossa [História] de Sucesso",
+    "niches": [
+      "generic",
+      "business",
+      "non-profit"
+    ]
+  },
+  {
+    "id": "cta0889",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0890",
+    "text": "Não Perca a sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0891",
+    "text": "Criar Meu [Perfil] Agora",
+    "niches": [
+      "generic",
+      "social-media",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0892",
+    "text": "Obtenha Acesso Imediato ao [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0893",
+    "text": "Ver Planos e Preços",
+    "niches": [
+      "generic",
+      "saas",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0894",
+    "text": "Comece a Transformação",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0895",
+    "text": "Agende uma Demonstração Gratuita",
+    "niches": [
+      "generic",
+      "saas",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0896",
+    "text": "Inscreva-se e Ganhe [Benefício]",
+    "niches": [
+      "generic",
+      "marketing",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0897",
+    "text": "Quero o meu [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0898",
+    "text": "Crie seu [Produto] Personalizado",
+    "niches": [
+      "generic",
+      "design",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0899",
+    "text": "Descubra seu [Estilo]",
+    "niches": [
+      "generic",
+      "fashion",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0900",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0901",
+    "text": "Não Perca essa Oportunidade",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0902",
+    "text": "Compre os [Itens] Mais Desejados",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0903",
+    "text": "Baixe a Ferramenta [Nome]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0904",
+    "text": "Comece a [Ação] de Forma Fácil",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0905",
+    "text": "Peça um Contato Imediato",
+    "niches": [
+      "generic",
+      "service-based",
+      "consulting"
+    ]
+  },
+  {
+    "id": "cta0906",
+    "text": "Assine Nossa Newsletter e Participe",
+    "niches": [
+      "generic",
+      "marketing",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0907",
+    "text": "Quero o meu [Resultado] e [Benefício]",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0908",
+    "text": "Ver as [Notícias] do Dia",
+    "niches": [
+      "generic",
+      "news",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0909",
+    "text": "Transforme sua [Rotina] agora",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0910",
+    "text": "Obtenha a [Vantagem] Competitiva",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0911",
+    "text": "Comece a [Ação] e [Conquista]",
+    "niches": [
+      "generic",
+      "self-help",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0912",
+    "text": "Quero minha [Solução] Garantida",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0913",
+    "text": "Baixar o [Material] Exclusivo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0914",
+    "text": "Agende uma Reunião Estratégica",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0915",
+    "text": "Ver [Projetos] e Casos de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0916",
+    "text": "Fazer um Tour pelo [Produto]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0917",
+    "text": "Quero meu [Bônus] Especial",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0918",
+    "text": "Obter Acesso a [Recurso]",
+    "niches": [
+      "generic",
+      "education",
+      "saas"
+    ]
+  },
+  {
+    "id": "cta0919",
+    "text": "Quero o meu [Relatório] Detalhado",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0920",
+    "text": "Descubra as [Vantagens] de ser [Membro]",
+    "niches": [
+      "generic",
+      "community",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0921",
+    "text": "Ler o Artigo Sem Anúncios",
+    "niches": [
+      "generic",
+      "blog",
+      "content-marketing"
+    ]
+  },
+  {
+    "id": "cta0922",
+    "text": "Compre em [Número] Parcelas",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0923",
+    "text": "Baixe o [Guia] Definitivo",
+    "niches": [
+      "generic",
+      "health",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0924",
+    "text": "Comece a Mudar seu [Hábito] hoje",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0925",
+    "text": "Agende uma [Avaliação] Grátis",
+    "niches": [
+      "generic",
+      "health",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0926",
+    "text": "Inscreva-se e Garanta sua [Vaga]",
+    "niches": [
+      "generic",
+      "education",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0927",
+    "text": "Quero o meu [Plano] Personalizado",
+    "niches": [
+      "generic",
+      "fitness",
+      "food"
+    ]
+  },
+  {
+    "id": "cta0928",
+    "text": "Conheça o [Produto] por Dentro",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0929",
+    "text": "Obtenha a [Solução] Imediata",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0930",
+    "text": "Faça seu Pedido Online",
+    "niches": [
+      "generic",
+      "food",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cta0931",
+    "text": "Compre o seu [Curso] e [Benefício]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0932",
+    "text": "Fazer Download do [Template] Grátis",
+    "niches": [
+      "generic",
+      "design",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0933",
+    "text": "Comece a [Treinar] em casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0934",
+    "text": "Quero o meu [Orçamento] Gratuito",
+    "niches": [
+      "generic",
+      "service-based",
+      "construction"
+    ]
+  },
+  {
+    "id": "cta0935",
+    "text": "Assista ao [Webinar] e aprenda",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0936",
+    "text": "Quero [Ganhar Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0937",
+    "text": "Ver as [Conquistas] de Nossos Clientes",
+    "niches": [
+      "generic",
+      "business",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0938",
+    "text": "Obtenha a [Ferramenta] de Sucesso",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0939",
+    "text": "Fale com um [Especialista] em [Nicho]",
+    "niches": [
+      "generic",
+      "consulting",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0940",
+    "text": "Aproveite o [Desconto]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0941",
+    "text": "Compre os [Produtos] em Oferta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0942",
+    "text": "Baixe o [Relatório] de [Ano]",
+    "niches": [
+      "generic",
+      "finance",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0943",
+    "text": "Comece sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "spiritual"
+    ]
+  },
+  {
+    "id": "cta0944",
+    "text": "Agende uma [Reunião] Rápida",
+    "niches": [
+      "generic",
+      "consulting",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0945",
+    "text": "Acesse a Versão [Premium]",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0946",
+    "text": "Quero o meu [Ebook] de [Nicho]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0947",
+    "text": "Veja as Vagas Disponíveis",
+    "niches": [
+      "generic",
+      "career",
+      "recruitment"
+    ]
+  },
+  {
+    "id": "cta0948",
+    "text": "Quero Mudar de Vida",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0949",
+    "text": "Não perca seu [Dinheiro]",
+    "niches": [
+      "generic",
+      "finance",
+      "investing"
+    ]
+  },
+  {
+    "id": "cta0950",
+    "text": "Crie sua [Rotina] de [Sucesso]",
+    "niches": [
+      "generic",
+      "productivity",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0951",
+    "text": "Compre com Entrega Rápida",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0952",
+    "text": "Fazer Download do [Guia] Completo",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0953",
+    "text": "Comece a [Ação] sem Sair de Casa",
+    "niches": [
+      "generic",
+      "fitness",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0954",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "service-based",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0955",
+    "text": "Assine e Receba nosso [Conteúdo]",
+    "niches": [
+      "generic",
+      "marketing",
+      "blog"
+    ]
+  },
+  {
+    "id": "cta0956",
+    "text": "Quero a minha [Liberdade] Financeira",
+    "niches": [
+      "generic",
+      "finance",
+      "self-help"
+    ]
+  },
+  {
+    "id": "cta0957",
+    "text": "Conheça nossas [Soluções] Digitais",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0958",
+    "text": "Descubra o [Segredo] para [Ação]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0959",
+    "text": "Não Perca essa [Vantagem]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0960",
+    "text": "Aproveite a [Promoção] de Lançamento",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0961",
+    "text": "Compre o seu [Produto] e Garanta",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0962",
+    "text": "Baixe a [Planilha] para [Ação]",
+    "niches": [
+      "generic",
+      "productivity",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0963",
+    "text": "Comece a [Ação] de forma [Adjetivo]",
+    "niches": [
+      "generic",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0964",
+    "text": "Agende uma [Visita]",
+    "niches": [
+      "generic",
+      "real-estate",
+      "home-services"
+    ]
+  },
+  {
+    "id": "cta0965",
+    "text": "Inscreva-se na [Lista] de Espera",
+    "niches": [
+      "generic",
+      "marketing",
+      "event"
+    ]
+  },
+  {
+    "id": "cta0966",
+    "text": "Quero o meu [Guia] Prático",
+    "niches": [
+      "generic",
+      "education",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0967",
+    "text": "Crie seu [Projeto] com facilidade",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0968",
+    "text": "Obtenha a [Ferramenta] que Faltava",
+    "niches": [
+      "generic",
+      "saas",
+      "technology"
+    ]
+  },
+  {
+    "id": "cta0969",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0970",
+    "text": "Transforme sua [Vida] Profissional",
+    "niches": [
+      "generic",
+      "career",
+      "education"
+    ]
+  },
+  {
+    "id": "cta0971",
+    "text": "Compre o [Combo] de [Produtos]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0972",
+    "text": "Baixe o [Livro] Digital",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta0973",
+    "text": "Comece a sua [Jornada] de [Nicho]",
+    "niches": [
+      "generic",
+      "self-help",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0974",
+    "text": "Quero o meu [Orçamento] Personalizado",
+    "niches": [
+      "generic",
+      "service-based",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0975",
+    "text": "Acesse a Área de [Membros]",
+    "niches": [
+      "generic",
+      "education",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0976",
+    "text": "Obtenha a [Vantagem] Exclusiva",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0977",
+    "text": "Ver Nossos Planos de [Serviço]",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0978",
+    "text": "Quero uma [Vida] mais Plena",
+    "niches": [
+      "generic",
+      "self-help",
+      "relationships"
+    ]
+  },
+  {
+    "id": "cta0979",
+    "text": "Fale com um [Especialista] Online",
+    "niches": [
+      "generic",
+      "consulting",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0980",
+    "text": "Ver as [Notícias] da [Indústria]",
+    "niches": [
+      "generic",
+      "news",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0981",
+    "text": "Compre o seu [Produto] Favorito",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cta0982",
+    "text": "Fazer Download do [Material] Gratuito",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0983",
+    "text": "Comece a [Cozinhar] como um Chef",
+    "niches": [
+      "generic",
+      "food",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "cta0984",
+    "text": "Agendar sua [Visita] Guiada",
+    "niches": [
+      "generic",
+      "travel",
+      "real-estate"
+    ]
+  },
+  {
+    "id": "cta0985",
+    "text": "Inscreva-se e Participe do [Evento]",
+    "niches": [
+      "generic",
+      "event",
+      "community"
+    ]
+  },
+  {
+    "id": "cta0986",
+    "text": "Quero o meu [Guia] sobre [Assunto]",
+    "niches": [
+      "generic",
+      "education",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0987",
+    "text": "Crie sua [Marca] de Sucesso",
+    "niches": [
+      "generic",
+      "marketing",
+      "business"
+    ]
+  },
+  {
+    "id": "cta0988",
+    "text": "Obtenha [Benefício] sem [Esforço]",
+    "niches": [
+      "generic",
+      "productivity",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0989",
+    "text": "Chega de [Problema], Quero a Solução",
+    "niches": [
+      "generic",
+      "problem-solving",
+      "legal"
+    ]
+  },
+  {
+    "id": "cta0990",
+    "text": "Transforme sua [Casa] em [Lar]",
+    "niches": [
+      "generic",
+      "home",
+      "design"
+    ]
+  },
+  {
+    "id": "cta0991",
+    "text": "Compre o seu [Produto] e tenha [Benefício]",
+    "niches": [
+      "generic",
+      "ecommerce",
+      "health"
+    ]
+  },
+  {
+    "id": "cta0992",
+    "text": "Baixe o [Ebook] de [Especialista]",
+    "niches": [
+      "generic",
+      "education",
+      "finance"
+    ]
+  },
+  {
+    "id": "cta0993",
+    "text": "Comece a [Ação] com [Confiança]",
+    "niches": [
+      "generic",
+      "self-help",
+      "all"
+    ]
+  },
+  {
+    "id": "cta0994",
+    "text": "Peça um Contato para [Assunto]",
+    "niches": [
+      "generic",
+      "consulting",
+      "service-based"
+    ]
+  },
+  {
+    "id": "cta0995",
+    "text": "Assista ao [Webinar] e [Aprenda]",
+    "niches": [
+      "generic",
+      "education",
+      "marketing"
+    ]
+  },
+  {
+    "id": "cta0996",
+    "text": "Quero o meu [Plano] Básico",
+    "niches": [
+      "generic",
+      "saas",
+      "fitness"
+    ]
+  },
+  {
+    "id": "cta0997",
+    "text": "Ver os [Projetos] de Sucesso",
+    "niches": [
+      "generic",
+      "design",
+      "development"
+    ]
+  },
+  {
+    "id": "cta0998",
+    "text": "Descubra o Poder de [Ação]",
+    "niches": [
+      "generic",
+      "self-help",
+      "productivity"
+    ]
+  },
+  {
+    "id": "cta0999",
+    "text": "Não Perca a sua [Vaga] no [Curso]",
+    "niches": [
+      "generic",
+      "education",
+      "online-course"
+    ]
+  },
+  {
+    "id": "cta1000",
+    "text": "Criar Meu [Perfil] Profissional",
+    "niches": [
+      "generic",
+      "social-media",
+      "career"
+    ]
+  }
+]
